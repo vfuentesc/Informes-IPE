@@ -1,22 +1,29 @@
-﻿Fecha,Sector,Variación anual
-3/1/22,PBI Agropecuario,6.681328968
-6/1/22,PBI Agropecuario,11.41553372
-9/1/22,PBI Agropecuario,12.3536522
-12/1/22,PBI Agropecuario,-2.596186151
-3/1/23,PBI Agropecuario,-8.460049015
-6/1/23,PBI Agropecuario,-9.324111853
-9/1/23,PBI Agropecuario,-17.71876763
-3/1/22,PBI Minería e hidrocarburos,3.8
-6/1/22,PBI Minería e hidrocarburos,13.56666667
-9/1/22,PBI Minería e hidrocarburos,-10.43333333
-12/1/22,PBI Minería e hidrocarburos,-1.166666667
-3/1/23,PBI Minería e hidrocarburos,0.633333333
-6/1/23,PBI Minería e hidrocarburos,3.466666667
-9/1/23,PBI Minería e hidrocarburos,16.4
-3/1/22,Arribos a hospedajes,32
-6/1/22,Arribos a hospedajes,40
-9/1/22,Arribos a hospedajes,35
-12/1/22,Arribos a hospedajes,27
-3/1/23,Arribos a hospedajes,-34.12574931
-6/1/23,Arribos a hospedajes,-18.73312783
-9/1/23,Arribos a hospedajes,-6.453578419
+﻿Fecha,Sector,Variación anual,
+2022-01-01,PBI Agropecuario,6.681328968,
+2022-04-01,PBI Agropecuario,11.41553372,
+2022-07-01,PBI Agropecuario,12.3536522,
+2022-10-01,PBI Agropecuario,-2.596186151,
+2023-01-01,PBI Agropecuario,-8.460049015,
+2023-04-01,PBI Agropecuario,-9.324111853,
+2023-07-01,PBI Agropecuario,-17.71876763,
+2022-01-01,PBI Minería e hidrocarburos,3.8,
+2022-04-01,PBI Minería e hidrocarburos,13.56666667,
+2022-07-01,PBI Minería e hidrocarburos,-10.43333333,
+2022-10-01,PBI Minería e hidrocarburos,-1.166666667,
+2023-01-01,PBI Minería e hidrocarburos,0.633333333,
+2023-04-01,PBI Minería e hidrocarburos,3.466666667,
+2023-07-01,PBI Minería e hidrocarburos,16.4,
+2022-01-01,Arribos a hospedajes,32,
+2022-04-01,Arribos a hospedajes,40,
+2022-07-01,Arribos a hospedajes,35,
+2022-10-01,Arribos a hospedajes,27,
+2023-01-01,Arribos a hospedajes,-34.12574931,
+2023-04-01,Arribos a hospedajes,-18.73312783,
+2023-07-01,Arribos a hospedajes,-6.453578419,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
