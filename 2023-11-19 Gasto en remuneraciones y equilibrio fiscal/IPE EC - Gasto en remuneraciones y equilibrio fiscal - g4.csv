@@ -1,45 +1,34 @@
-﻿Año,Tipo,Indicador,Valor
-2013,Remuneración,Médicos Nivel 1 (eje der.),6524.149877
-2014,Remuneración,Médicos Nivel 1 (eje der.),6319.021624
-2015,Remuneración,Médicos Nivel 1 (eje der.),6102.513668
-2016,Remuneración,Médicos Nivel 1 (eje der.),5890.850468
-2017,Remuneración,Médicos Nivel 1 (eje der.),5730.185698
-2018,Remuneración,Médicos Nivel 1 (eje der.),6221.535537
-2019,Remuneración,Médicos Nivel 1 (eje der.),6311.57205
-2020,Remuneración,Médicos Nivel 1 (eje der.),6585.689669
-2021,Remuneración,Médicos Nivel 1 (eje der.),6333.671938
-2022,Remuneración,Médicos Nivel 1 (eje der.),6188.517509
-2023,Remuneración,Médicos Nivel 1 (eje der.),6624
-2013,Remuneración,Médicos Nivel 5 (eje der.),7612.460343
-2014,Remuneración,Médicos Nivel 5 (eje der.),7373.11411
-2015,Remuneración,Médicos Nivel 5 (eje der.),7120.489897
-2016,Remuneración,Médicos Nivel 5 (eje der.),6873.518607
-2017,Remuneración,Médicos Nivel 5 (eje der.),6686.052927
-2018,Remuneración,Médicos Nivel 5 (eje der.),7667.655638
-2019,Remuneración,Médicos Nivel 5 (eje der.),7980.078901
-2020,Remuneración,Médicos Nivel 5 (eje der.),8649.967667
-2021,Remuneración,Médicos Nivel 5 (eje der.),8318.955224
-2022,Remuneración,Médicos Nivel 5 (eje der.),8385.435919
-2023,Remuneración,Médicos Nivel 5 (eje der.),9744
-2013,Remuneración,Otros profesionales salud (eje der.),3597.708744
-2014,Remuneración,Otros profesionales salud (eje der.),3484.591828
-2015,Remuneración,Otros profesionales salud (eje der.),3365.199634
-2016,Remuneración,Otros profesionales salud (eje der.),3248.479056
-2017,Remuneración,Otros profesionales salud (eje der.),3159.881299
-2018,Remuneración,Otros profesionales salud (eje der.),3838.161227
-2019,Remuneración,Otros profesionales salud (eje der.),4125.202567
-2020,Remuneración,Otros profesionales salud (eje der.),4651.768326
-2021,Remuneración,Otros profesionales salud (eje der.),4473.756887
-2022,Remuneración,Otros profesionales salud (eje der.),4753.091351
-2023,Remuneración,Otros profesionales salud (eje der.),6227.5
-2013,Objetivo,Anemia,46.39623619
-2014,Objetivo,Anemia,46.84693667
-2015,Objetivo,Anemia,43.50929306
-2016,Objetivo,Anemia,43.59167452
-2017,Objetivo,Anemia,43.60930491
-2018,Objetivo,Anemia,43.54501222
-2019,Objetivo,Anemia,40.0622336
-2020,Objetivo,Anemia,39.96842412
-2021,Objetivo,Anemia,38.80782974
-2022,Objetivo,Anemia,42.42228522
-2023,Objetivo,Anemia,43.6
+﻿Año,Indicador,Remuneración,Anemia
+2013,Médicos Nivel 1,6524.149877,46.39623619
+2014,Médicos Nivel 1,6319.021624,46.84693667
+2015,Médicos Nivel 1,6102.513668,43.50929306
+2016,Médicos Nivel 1,5890.850468,43.59167452
+2017,Médicos Nivel 1,5730.185698,43.60930491
+2018,Médicos Nivel 1,6221.535537,43.54501222
+2019,Médicos Nivel 1,6311.57205,40.0622336
+2020,Médicos Nivel 1,6585.689669,39.96842412
+2021,Médicos Nivel 1,6333.671938,38.80782974
+2022,Médicos Nivel 1,6188.517509,42.42228522
+2023,Médicos Nivel 1,6624,43.6
+2013,Médicos Nivel 5,7612.460343,46.39623619
+2014,Médicos Nivel 5,7373.11411,46.84693667
+2015,Médicos Nivel 5,7120.489897,43.50929306
+2016,Médicos Nivel 5,6873.518607,43.59167452
+2017,Médicos Nivel 5,6686.052927,43.60930491
+2018,Médicos Nivel 5,7667.655638,43.54501222
+2019,Médicos Nivel 5,7980.078901,40.0622336
+2020,Médicos Nivel 5,8649.967667,39.96842412
+2021,Médicos Nivel 5,8318.955224,38.80782974
+2022,Médicos Nivel 5,8385.435919,42.42228522
+2023,Médicos Nivel 5,9744,43.6
+2013,Otros profesionales salud,3597.708744,46.39623619
+2014,Otros profesionales salud,3484.591828,46.84693667
+2015,Otros profesionales salud,3365.199634,43.50929306
+2016,Otros profesionales salud,3248.479056,43.59167452
+2017,Otros profesionales salud,3159.881299,43.60930491
+2018,Otros profesionales salud,3838.161227,43.54501222
+2019,Otros profesionales salud,4125.202567,40.0622336
+2020,Otros profesionales salud,4651.768326,39.96842412
+2021,Otros profesionales salud,4473.756887,38.80782974
+2022,Otros profesionales salud,4753.091351,42.42228522
+2023,Otros profesionales salud,6227.5,43.6
