@@ -1,43 +1,40 @@
-﻿Año,Tipo,Indicador,RIM - Remuneración Íntegra Mensual (eje izq.)
-2010,Remuneración,RIM - Remuneración Íntegra Mensual,49.83
-2011,Remuneración,RIM - Remuneración Íntegra Mensual,51.83
-2012,Remuneración,RIM - Remuneración Íntegra Mensual,51.83
-2013,Remuneración,RIM - Remuneración Íntegra Mensual,51.83
-2014,Remuneración,RIM - Remuneración Íntegra Mensual,51.83
-2015,Remuneración,RIM - Remuneración Íntegra Mensual,51.83
-2016,Remuneración,RIM - Remuneración Íntegra Mensual,51.83
-2017,Remuneración,RIM - Remuneración Íntegra Mensual,59.35
-2018,Remuneración,RIM - Remuneración Íntegra Mensual,66.67
-2019,Remuneración,RIM - Remuneración Íntegra Mensual,70.01
-2020,Remuneración,RIM - Remuneración Íntegra Mensual,76.67
-2021,Remuneración,RIM - Remuneración Íntegra Mensual,80.01
-2022,Remuneración,RIM - Remuneración Íntegra Mensual,88.68
-2023,Remuneración,RIM - Remuneración Íntegra Mensual,95
-2010,Objetivo,Lectura 2do primaria,
-2011,Objetivo,Lectura 2do primaria,29.8
-2012,Objetivo,Lectura 2do primaria,30.9
-2013,Objetivo,Lectura 2do primaria,33
-2014,Objetivo,Lectura 2do primaria,43.5
-2015,Objetivo,Lectura 2do primaria,49.8
-2016,Objetivo,Lectura 2do primaria,46.4
-2017,Objetivo,Lectura 2do primaria,42.1
-2018,Objetivo,Lectura 2do primaria,37.8
-2019,Objetivo,Lectura 2do primaria,37.6
-2020,Objetivo,Lectura 2do primaria,37.6
-2021,Objetivo,Lectura 2do primaria,37.6
-2022,Objetivo,Lectura 2do primaria,37.6
-2023,Objetivo,Lectura 2do primaria,
-2010,Objetivo,Matemática 2do primaria,
-2011,Objetivo,Matemática 2do primaria,13.2
-2012,Objetivo,Matemática 2do primaria,12.8
-2013,Objetivo,Matemática 2do primaria,16.8
-2014,Objetivo,Matemática 2do primaria,25.9
-2015,Objetivo,Matemática 2do primaria,16.6
-2016,Objetivo,Matemática 2do primaria,34.1
-2017,Objetivo,Matemática 2do primaria,24.4
-2018,Objetivo,Matemática 2do primaria,14.7
-2019,Objetivo,Matemática 2do primaria,17
-2020,Objetivo,Matemática 2do primaria,15.26666667
-2021,Objetivo,Matemática 2do primaria,13.53333333
-2022,Objetivo,Matemática 2do primaria,11.8
-2023,Objetivo,Matemática 2do primaria,
+﻿Año,Tipo,Indicador,Tipo,Valor
+2011,Remuneración,RIM - Remuneración Íntegra Mensual,Observador,51.83
+2012,Remuneración,RIM - Remuneración Íntegra Mensual,Observador,51.83
+2013,Remuneración,RIM - Remuneración Íntegra Mensual,Observador,51.83
+2014,Remuneración,RIM - Remuneración Íntegra Mensual,Observador,51.83
+2015,Remuneración,RIM - Remuneración Íntegra Mensual,Observador,51.83
+2016,Remuneración,RIM - Remuneración Íntegra Mensual,Observador,51.83
+2017,Remuneración,RIM - Remuneración Íntegra Mensual,Observador,59.35
+2018,Remuneración,RIM - Remuneración Íntegra Mensual,Observador,66.67
+2019,Remuneración,RIM - Remuneración Íntegra Mensual,Observador,70.01
+2020,Remuneración,RIM - Remuneración Íntegra Mensual,Observador,76.67
+2021,Remuneración,RIM - Remuneración Íntegra Mensual,Observador,80.01
+2022,Remuneración,RIM - Remuneración Íntegra Mensual,Observador,88.68
+2023,Remuneración,RIM - Remuneración Íntegra Mensual,Observador,95
+2011,Objetivo,Lectura,Observador,29.8
+2012,Objetivo,Lectura,Observador,30.9
+2013,Objetivo,Lectura,Observador,33
+2014,Objetivo,Lectura,Observador,43.5
+2015,Objetivo,Lectura,Observador,49.8
+2016,Objetivo,Lectura,Observador,46.4
+2017,Objetivo,Lectura,Estimado,42.1
+2018,Objetivo,Lectura,Observador,37.8
+2019,Objetivo,Lectura,Observador,37.6
+2020,Objetivo,Lectura,Estimado,37.6
+2021,Objetivo,Lectura,Estimado,37.6
+2022,Objetivo,Lectura,Observador,37.6
+2023,Objetivo,Lectura,Observador,
+2011,Objetivo,Matemática,Observador,13.2
+2012,Objetivo,Matemática,Observador,12.8
+2013,Objetivo,Matemática,Observador,16.8
+2014,Objetivo,Matemática,Observador,25.9
+2015,Objetivo,Matemática,Observador,16.6
+2016,Objetivo,Matemática,Observador,34.1
+2017,Objetivo,Matemática,Estimado,24.4
+2018,Objetivo,Matemática,Observador,14.7
+2019,Objetivo,Matemática,Observador,17
+2020,Objetivo,Matemática,Estimado,15.26666667
+2021,Objetivo,Matemática,Estimado,13.53333333
+2022,Objetivo,Matemática,Observador,11.8
+2023,Objetivo,Matemática,Observador,
