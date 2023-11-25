@@ -1,6 +1,11 @@
-﻿Sector,Empleo
-Ene-Set 2022,17299.4667
-Agropecuario,17077.4
-Sectores vinculados a inversión,16941.9667
-Sectores vinculados a consumo,16941.9667
-Ene-Set 2023,17174.7
+﻿Sector,Tipo,Blanco
+Ene-Set 2022,Vacío,0
+Agropecuario,Vacío,17077.4
+Sectores vinculados a inversión,Vacío,16941.9667
+Sectores vinculados a consumo,Vacío,16941.9667
+Ene-Set 2023,Vacío,0
+Ene-Set 2022,Incremental,17299.4667
+Agropecuario,Incremental,222.0667
+Sectores vinculados a inversión,Incremental,135.4333
+Sectores vinculados a consumo,Incremental,232.7333
+Ene-Set 2023,Incremental,17174.7
