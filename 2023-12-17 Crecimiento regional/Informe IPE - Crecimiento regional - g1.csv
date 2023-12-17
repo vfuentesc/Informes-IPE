@@ -1,51 +1,26 @@
-﻿Región,Característica,Valor,Minería
-Amazonas,Con minería,-4.401805869,0
-Áncash,Con minería,-4.163623083,1
-Apurímac,Con minería,-2.694691458,1
-Arequipa,Con minería,1.582969432,1
-Ayacucho,Con minería,-2.352941176,1
-Cajamarca,Con minería,-1.070950469,1
-Cusco,Con minería,5.254332029,1
-Huancavelica,Con minería,0.431654676,1
-Huánuco,Con minería,3.072916667,1
-Ica,Con minería,2.011368605,1
-Junín,Con minería,-7.797381901,1
-La Libertad,Con minería,-4.656862745,1
-Lambayeque,Con minería,-12.1987211,0
-Lima y Callao,Con minería,-2.233115468,0
-Loreto,Con minería,-1.731601732,0
-Madre de Dios,Con minería,0.505050505,1
-Moquegua,Con minería,26.65229885,1
-Pasco,Con minería,6.577595067,1
-Piura,Con minería,6.203473945,0
-Puno,Con minería,-1.662234043,1
-San Martín,Con minería,1.727748691,0
-Tacna,Con minería,5.170157068,1
-Tumbes,Con minería,-5.272407733,0
-Ucayali,Con minería,-0.125,0
-Perú,Con minería,-0.886028053,1
-Amazonas,Sin minería,-4.401805869,0
-Áncash,Sin minería,-3.7,1
-Apurímac,Sin minería,-4.4,1
-Arequipa,Sin minería,-2.7,1
-Ayacucho,Sin minería,-1.3,1
-Cajamarca,Sin minería,-2.3,1
-Cusco,Sin minería,-0.8,1
-Huancavelica,Sin minería,-3.2,1
-Huánuco,Sin minería,-1,1
-Ica,Sin minería,-1.8,1
-Junín,Sin minería,-1,1
-La Libertad,Sin minería,-5.2,1
-Lambayeque,Sin minería,-12.1987211,0
-Lima y Callao,Sin minería,-2.233115468,0
-Loreto,Sin minería,-1.731601732,0
-Madre de Dios,Sin minería,-0.1,1
-Moquegua,Sin minería,-1.9,1
-Pasco,Sin minería,-0.5,1
-Piura,Sin minería,6.203473945,0
-Puno,Sin minería,-2.5,1
-San Martín,Sin minería,1.727748691,0
-Tacna,Sin minería,-0.3,1
-Tumbes,Sin minería,-5.272407733,0
-Ucayali,Sin minería,-0.125,0
-Perú,Sin minería,-2.198572223,1
+﻿Región,Con minería,Sin minería,Diferencia
+Amazonas,-4.401805869,-4.401805869,0
+Áncash,-4.163623083,-3.7,-0.463623083
+Apurímac,-2.694691458,-4.4,1.705308542
+Arequipa,1.582969432,-2.7,4.282969432
+Ayacucho,-2.352941176,-1.3,-1.052941176
+Cajamarca,-1.070950469,-2.3,1.229049531
+Cusco,5.254332029,-0.8,6.054332029
+Huancavelica,0.431654676,-3.2,3.631654676
+Huánuco,3.072916667,-1,4.072916667
+Ica,2.011368605,-1.8,3.811368605
+Junín,-7.797381901,-1,-6.797381901
+La Libertad,-4.656862745,-5.2,0.543137255
+Lambayeque,-12.1987211,-12.1987211,0
+Lima y Callao,-2.233115468,-2.233115468,0
+Loreto,-1.731601732,-1.731601732,0
+Madre de Dios,0.505050505,-0.1,0.605050505
+Moquegua,26.65229885,-1.9,28.55229885
+Pasco,6.577595067,-0.5,7.077595067
+Piura,6.203473945,6.203473945,0
+Puno,-1.662234043,-2.5,0.837765957
+San Martín,1.727748691,1.727748691,0
+Tacna,5.170157068,-0.3,5.470157068
+Tumbes,-5.272407733,-5.272407733,0
+Ucayali,-0.125,-0.125,0
+Perú,-0.886028053,-2.198572223,1.31254417
