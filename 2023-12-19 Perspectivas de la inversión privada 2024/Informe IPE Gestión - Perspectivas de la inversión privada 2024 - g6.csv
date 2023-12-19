@@ -1,10 +1,10 @@
-﻿Año,Tipo,Valor
-2022,Contribución,-0.533616516
-2023,Contribución,-1.790737812
-2024,Contribución,-0.463771686
-2022,Contribución,0.097279423
-2023,Contribución,-5.905098238
-2024,Contribución,0.713924643
-2022,Crecimiento,-0.436337093
-2023,Crecimiento,-7.69583605
-2024,Crecimiento,0.250152957
+﻿Año,Tipo,,Valor
+2022,Contribución,Minera,-0.533616516
+2023,Contribución,Minera,-1.790737812
+2024,Contribución,Minera,-0.463771686
+2022,Contribución,No minera,0.097279423
+2023,Contribución,No minera,-5.905098238
+2024,Contribución,No minera,0.713924643
+2022,Crecimiento,Total,-0.436337093
+2023,Crecimiento,Total,-7.69583605
+2024,Crecimiento,Total,0.250152957
