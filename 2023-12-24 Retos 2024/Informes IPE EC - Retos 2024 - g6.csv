@@ -1,29 +1,29 @@
-﻿Año,Tipo,Valor
-2012,Al menos dos servicios,42
-2014,Al menos dos servicios,37
-2016,Al menos dos servicios,40
-2018,Al menos dos servicios,35
-2021,Al menos dos servicios,
-2022,Al menos dos servicios,29
-2023,Al menos dos servicios,24
-2012,Carreteras,49
-2014,Carreteras,48.8
-2016,Carreteras,43.8
-2018,Carreteras,37.2
-2021,Carreteras,38
-2022,Carreteras,
-2023,Carreteras,
-2012,Escuelas públicas,53.7
-2014,Escuelas públicas,55
-2016,Escuelas públicas,49.3
-2018,Escuelas públicas,45
-2021,Escuelas públicas,45
-2022,Escuelas públicas,
-2023,Escuelas públicas,32
-2012,Servicios médicos,47.6
-2014,Servicios médicos,46.9
-2016,Servicios médicos,35.5
-2018,Servicios médicos,31
-2021,Servicios médicos,31
-2022,Servicios médicos,
-2023,Servicios médicos,20
+﻿Año,Tipo,Valor,Observación
+2012,Al menos dos servicios,42,1
+2014,Al menos dos servicios,37,1
+2016,Al menos dos servicios,40,1
+2018,Al menos dos servicios,35,1
+2021,Al menos dos servicios,32,0
+2022,Al menos dos servicios,29,1
+2023,Al menos dos servicios,24,1
+2012,Carreteras,49,1
+2014,Carreteras,48.8,1
+2016,Carreteras,43.8,1
+2018,Carreteras,37.2,11
+2021,Carreteras,38,1
+2022,Carreteras,,0
+2023,Carreteras,,0
+2012,Escuelas públicas,53.7,1
+2014,Escuelas públicas,55,1
+2016,Escuelas públicas,49.3,1
+2018,Escuelas públicas,45,1
+2021,Escuelas públicas,45,1
+2022,Escuelas públicas,38.5,10
+2023,Escuelas públicas,32,1
+2012,Servicios médicos,47.6,1
+2014,Servicios médicos,46.9,1
+2016,Servicios médicos,35.5,1
+2018,Servicios médicos,31,1
+2021,Servicios médicos,31,1
+2022,Servicios médicos,25.5,0
+2023,Servicios médicos,20,1
