@@ -1,41 +1,41 @@
-﻿Año,Tipo de seguro,Categoría,Lugar de atención,Valor
-2004,Sin seguro,EsSalud,EESS del MINSA,20.2
-2004,EsSalud,EsSalud,EESS del MINSA,9.7
-2004,SIS,EsSalud,EESS del MINSA,57.5
-2004,Privado,EsSalud,EESS del MINSA,3.7
-2022,Sin seguro,Privado,EESS del MINSA,6.7
-2022,EsSalud,Privado,EESS del MINSA,7
-2022,SIS,Privado,EESS del MINSA,34.6
-2022,Privado,Privado,EESS del MINSA,4.1
-2004,Sin seguro,EsSalud,Hospital de EsSalud,0.4
-2004,EsSalud,EsSalud,Hospital de EsSalud,44.7
-2004,SIS,EsSalud,Hospital de EsSalud,0.7
-2004,Privado,EsSalud,Hospital de EsSalud,9.8
-2022,Sin seguro,Privado,Hospital de EsSalud,0.7
-2022,EsSalud,Privado,Hospital de EsSalud,30.6
-2022,SIS,Privado,Hospital de EsSalud,0.5
-2022,Privado,Privado,Hospital de EsSalud,6.7
-2004,Sin seguro,EsSalud,Clínica o consultorio privado,6.1
-2004,EsSalud,EsSalud,Clínica o consultorio privado,9.6
-2004,SIS,EsSalud,Clínica o consultorio privado,2.5
-2004,Privado,EsSalud,Clínica o consultorio privado,56.4
-2022,Sin seguro,Privado,Clínica o consultorio privado,14.3
-2022,EsSalud,Privado,Clínica o consultorio privado,17.4
-2022,SIS,Privado,Clínica o consultorio privado,7.7
-2022,Privado,Privado,Clínica o consultorio privado,60.8
-2004,Sin seguro,EsSalud,Farmacia o botica,8.9
-2004,EsSalud,EsSalud,Farmacia o botica,5.3
-2004,SIS,EsSalud,Farmacia o botica,4.2
-2004,Privado,EsSalud,Farmacia o botica,3.1
-2022,Sin seguro,Privado,Farmacia o botica,26.6
-2022,EsSalud,Privado,Farmacia o botica,15.4
-2022,SIS,Privado,Farmacia o botica,19.3
-2022,Privado,Privado,Farmacia o botica,8.7
-2004,Sin seguro,EsSalud,No busca atención,63.3
-2004,EsSalud,EsSalud,No busca atención,31.6
-2004,SIS,EsSalud,No busca atención,35.1
-2004,Privado,EsSalud,No busca atención,28.9
-2022,Sin seguro,Privado,No busca atención,48.8
-2022,EsSalud,Privado,No busca atención,31.2
-2022,SIS,Privado,No busca atención,38.8
-2022,Privado,Privado,No busca atención,17.7
+﻿Año,Tipo de seguro,Lugar de atención,Valor
+2004,Sin seguro,EESS del MINSA,20.2
+2004,EsSalud,EESS del MINSA,9.7
+2004,SIS,EESS del MINSA,57.5
+2004,Privado,EESS del MINSA,3.7
+2022,Sin seguro,EESS del MINSA,6.7
+2022,EsSalud,EESS del MINSA,7
+2022,SIS,EESS del MINSA,34.6
+2022,Privado,EESS del MINSA,4.1
+2004,Sin seguro,Hospital de EsSalud,0.4
+2004,EsSalud,Hospital de EsSalud,44.7
+2004,SIS,Hospital de EsSalud,0.7
+2004,Privado,Hospital de EsSalud,9.8
+2022,Sin seguro,Hospital de EsSalud,0.7
+2022,EsSalud,Hospital de EsSalud,30.6
+2022,SIS,Hospital de EsSalud,0.5
+2022,Privado,Hospital de EsSalud,6.7
+2004,Sin seguro,Clínica o consultorio privado,6.1
+2004,EsSalud,Clínica o consultorio privado,9.6
+2004,SIS,Clínica o consultorio privado,2.5
+2004,Privado,Clínica o consultorio privado,56.4
+2022,Sin seguro,Clínica o consultorio privado,14.3
+2022,EsSalud,Clínica o consultorio privado,17.4
+2022,SIS,Clínica o consultorio privado,7.7
+2022,Privado,Clínica o consultorio privado,60.8
+2004,Sin seguro,Farmacia o botica,8.9
+2004,EsSalud,Farmacia o botica,5.3
+2004,SIS,Farmacia o botica,4.2
+2004,Privado,Farmacia o botica,3.1
+2022,Sin seguro,Farmacia o botica,26.6
+2022,EsSalud,Farmacia o botica,15.4
+2022,SIS,Farmacia o botica,19.3
+2022,Privado,Farmacia o botica,8.7
+2004,Sin seguro,No busca atención,63.3
+2004,EsSalud,No busca atención,31.6
+2004,SIS,No busca atención,35.1
+2004,Privado,No busca atención,28.9
+2022,Sin seguro,No busca atención,48.8
+2022,EsSalud,No busca atención,31.2
+2022,SIS,No busca atención,38.8
+2022,Privado,No busca atención,17.7
