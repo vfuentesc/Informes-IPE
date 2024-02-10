@@ -1,0 +1,37 @@
+﻿Factor,Tipo,Var. % / pp.
+2022,Vacío positivo,0
+Arándano,Vacío positivo,1.175084743
+Papa,Vacío positivo,0
+Avena forrajera,Vacío positivo,0
+Aceituna,Vacío positivo,0
+Espárrago,Vacío positivo,0
+Otros,Vacío positivo,0
+Café y páprika,Vacío positivo,0
+2023,Vacío positivo,0
+2022,Incremental positivo,5.888281847
+Arándano,Incremental positivo,4.713197104
+Papa,Incremental positivo,1.175084743
+Avena forrajera,Incremental positivo,0
+Aceituna,Incremental positivo,0
+Espárrago,Incremental positivo,0
+Otros,Incremental positivo,0
+Café y páprika,Incremental positivo,0
+2023,Incremental positivo,0
+2022,Vacío negativo,0
+Arándano,Vacío negativo,0
+Papa,Vacío negativo,0
+Avena forrajera,Vacío negativo,-0.473890699
+Aceituna,Vacío negativo,-2.148866859
+Espárrago,Vacío negativo,-3.095473073
+Otros,Vacío negativo,-3.446840847
+Café y páprika,Vacío negativo,-4.557694029
+2023,Vacío negativo,0
+2022,Incremental negativo,0
+Arándano,Incremental negativo,0
+Papa,Incremental negativo,-0.473890699
+Avena forrajera,Incremental negativo,-1.674976161
+Aceituna,Incremental negativo,-3.095473073
+Espárrago,Incremental negativo,-3.446840847
+Otros,Incremental negativo,-5.177025044
+Café y páprika,Incremental negativo,-0.619331015
+2023,Incremental negativo,-4.083803331
