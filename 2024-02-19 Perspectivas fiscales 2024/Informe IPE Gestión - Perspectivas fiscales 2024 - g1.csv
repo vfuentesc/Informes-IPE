@@ -1,0 +1,13 @@
+﻿Factor,Tipo,Valor,Etiqueta
+Dic - 2022,Vacío,0,0
+Menores ingresos fiscales,Vacío,1.7,0
+Con Punche Perú + Emergencia FEN,Vacío,4,0
+Menor gasto por COVID-19*,Vacío,4.1,0
+Menores gastos de capital** (p.e. PetroPerú),Vacío,2.8,0
+Dic - 2023,Vacío,0,0
+Dic - 2022,Marginal,1.7,1
+Menores ingresos fiscales,Marginal,2.3,1
+Con Punche Perú + Emergencia FEN,Marginal,1.1,1
+Menor gasto por COVID-19*,Marginal,1,-1
+Menores gastos de capital** (p.e. PetroPerú),Marginal,1.3,-1
+Dic - 2023,Marginal,2.8,1
