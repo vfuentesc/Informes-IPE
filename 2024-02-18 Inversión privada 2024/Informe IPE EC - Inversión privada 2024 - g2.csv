@@ -1,22 +1,22 @@
 ﻿Fecha,Tipo,Indicador,Valor
-2022-07-01,Componente,Importación de bienes de capital,1.348044898
-2022-10-01,Componente,Importación de bienes de capital,5.112986156
-2023-01-01,Componente,Importación de bienes de capital,-10.16666667
-2023-04-01,Componente,Importación de bienes de capital,-6.095031904
-2023-07-01,Componente,Importación de bienes de capital,-5.233333333
-2023-10-01,Componente,Importación de bienes de capital,4.02499716
-2024-01-01,Componente,Importación de bienes de capital,13.49102364
-2022-07-01,Componente,Consumo de cemento,-1.641485842
-2022-10-01,Componente,Consumo de cemento,-5.074448187
-2023-01-01,Componente,Consumo de cemento,-15.36608005
-2023-04-01,Componente,Consumo de cemento,-13.39970568
-2023-07-01,Componente,Consumo de cemento,-8.50993602
-2023-10-01,Componente,Consumo de cemento,-9.31
-2024-01-01,Componente,Consumo de cemento,7.765559779
-2022-07-01,Total,Inversión privada,-0.538054336
-2022-10-01,Total,Inversión privada,-4.093820381
-2023-01-01,Total,Inversión privada,-12.01292875
-2023-04-01,Total,Inversión privada,-8.524851522
-2023-07-01,Total,Inversión privada,-6.241538576
-2023-10-01,Total,Inversión privada,-2.565081892
-2024-01-01,Total,Inversión privada,8.405191414
+3T - 2022,Componente,Importación de bienes de capital,1.348044898
+4T - 2022,Componente,Importación de bienes de capital,5.112986156
+1T - 2023,Componente,Importación de bienes de capital,-10.16666667
+2T - 2023,Componente,Importación de bienes de capital,-6.095031904
+3T - 2023,Componente,Importación de bienes de capital,-5.233333333
+4T - 2023,Componente,Importación de bienes de capital,4.02499716
+Ene - 2024,Componente,Importación de bienes de capital,13.49102364
+3T - 2022,Componente,Consumo de cemento,-1.641485842
+4T - 2022,Componente,Consumo de cemento,-5.074448187
+1T - 2023,Componente,Consumo de cemento,-15.36608005
+2T - 2023,Componente,Consumo de cemento,-13.39970568
+3T - 2023,Componente,Consumo de cemento,-8.50993602
+4T - 2023,Componente,Consumo de cemento,-9.31
+Ene - 2024,Componente,Consumo de cemento,7.765559779
+3T - 2022,Total,Inversión privada,-0.538054336
+4T - 2022,Total,Inversión privada,-4.093820381
+1T - 2023,Total,Inversión privada,-12.01292875
+2T - 2023,Total,Inversión privada,-8.524851522
+3T - 2023,Total,Inversión privada,-6.241538576
+4T - 2023,Total,Inversión privada,-2.565081892
+Ene - 2024,Total,Inversión privada,8.405191414
