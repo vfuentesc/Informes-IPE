@@ -1,19 +1,19 @@
 ﻿País_breve,País,Rating,Rating_cod,Deuda bruta,Highlight
 ARG,Argentina,4,CCC-,89.506,1
-BRA,Brazil,11,BB,88.083,1
+BRA,Brasil,11,BB,88.083,1
 CHL,Chile,17,A,38.415,1
 COL,Colombia,13,BBB-,54.972,1
-Rep. Checa,Czech Republic,19,AA-,45.377,0
-R.DOM,Dominican Republic,10,BB-,59.796,0
-Hungría,Hungary,14,BBB,68.714,0
-India,India,13,BBB-,81.889,0
-Indonesia,Indonesia,14,BBB,39.031,0
-Malasia,Malaysia,16,A-,66.909,0
-MEX,Mexico,14,BBB,52.671,1
-PER,Peru,15,BBB+,33.911,1
-Filipinas,Philippines,14,BBB,57.562,0
-Polonia,Poland,17,A,49.828,0
-Rumania,Romania,13,BBB-,51.047,0
-Sudáfrica,South Africa,11,BB,73.674,0
-Tailandia,Thailand,15,BBB+,61.441,0
+CZE,Rep. Checa,19,AA-,45.377,0
+DOM,Rep. Dominincana,10,BB-,59.796,0
+HUN,Hungría,14,BBB,68.714,0
+IND,India,13,BBB-,81.889,0
+IDN,Indonesia,14,BBB,39.031,0
+MYS,Malasia,16,A-,66.909,0
+MEX,México,14,BBB,52.671,1
+PER,Perú,15,BBB+,33.911,1
+PHL,Filipinas,14,BBB,57.562,0
+POL,Polonia,17,A,49.828,0
+ROU,Rumania,13,BBB-,51.047,0
+ZAF,Sudáfrica,11,BB,73.674,0
+THA,Tailandia,15,BBB+,61.441,0
 URY,Uruguay,14,BBB,61.614,1
