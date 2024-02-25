@@ -1,0 +1,10 @@
+﻿Nivel,Materia,Puntaje,Mínimo
+Primaria,Lectura,360,407
+Secundaria,Lectura,399,407
+Superior,Lectura,437,407
+Primaria,Matemáticas,351,420
+Secundaria,Matemáticas,383,420
+Superior,Matemáticas,417,420
+Primaria,Ciencia,370,410
+Secundaria,Ciencia,397,410
+Superior,Ciencia,434,410
