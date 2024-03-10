@@ -1,13 +1,13 @@
-﻿Efecto,Tipo,Valor
-Sobre el PBI,Grupo 1,0.713252237
-Sobre la recaudación,Grupo 1,0.552105825
+﻿Efecto,Tipo,Valor,Escalada
+Sobre el PBI,Grupo 1,0.713252237,1
+Sobre la recaudación,Grupo 1,0.552105825,1
 "Sobre el empleo 
-(efecto promedio anual)",Grupo 1,0.051564275
-Sobre el PBI,Grupo 2,1.544539125
-Sobre la recaudación,Grupo 2,1.216974024
+(efecto promedio anual)",Grupo 1,0.051564275,1
+Sobre el PBI,Grupo 2,1.544539125,2.165487951
+Sobre la recaudación,Grupo 2,1.216974024,2.204240508
 "Sobre el empleo 
-(efecto promedio anual)",Grupo 2,0.117861199
-Sobre el PBI,Total,2.257791362
-Sobre la recaudación,Total,1.769079849
+(efecto promedio anual)",Grupo 2,0.117861199,2.285714266
+Sobre el PBI,Total,2.257791362,3.165487951
+Sobre la recaudación,Total,1.769079849,3.204240508
 "Sobre el empleo 
-(efecto promedio anual)",Total,0.169425474
+(efecto promedio anual)",Total,0.169425474,3.285714266
