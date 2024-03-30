@@ -1,102 +1,52 @@
-﻿Mes,Indicador,Valor
-2020-01-01,Inflación Alimentos y Energía,1.390721411
-2020-02-01,Inflación Alimentos y Energía,1.405089314
-2020-03-01,Inflación Alimentos y Energía,1.570299833
-2020-04-01,Inflación Alimentos y Energía,1.62324387
-2020-05-01,Inflación Alimentos y Energía,1.722152626
-2020-06-01,Inflación Alimentos y Energía,1.492187625
-2020-07-01,Inflación Alimentos y Energía,1.616530755
-2020-08-01,Inflación Alimentos y Energía,1.577338773
-2020-09-01,Inflación Alimentos y Energía,1.76884373
-2020-10-01,Inflación Alimentos y Energía,1.721179945
-2020-11-01,Inflación Alimentos y Energía,2.063067813
-2020-12-01,Inflación Alimentos y Energía,2.199815993
-2021-01-01,Inflación Alimentos y Energía,2.887257135
-2021-02-01,Inflación Alimentos y Energía,3.148478647
-2021-03-01,Inflación Alimentos y Energía,3.589848379
-2021-04-01,Inflación Alimentos y Energía,3.365589266
-2021-05-01,Inflación Alimentos y Energía,3.323050365
-2021-06-01,Inflación Alimentos y Energía,3.765341808
-2021-07-01,Inflación Alimentos y Energía,4.634464422
-2021-08-01,Inflación Alimentos y Energía,6.208061507
-2021-09-01,Inflación Alimentos y Energía,7.369242819
-2021-10-01,Inflación Alimentos y Energía,8.578106931
-2021-11-01,Inflación Alimentos y Energía,8.871406877
-2021-12-01,Inflación Alimentos y Energía,9.479713923
-2022-01-01,Inflación Alimentos y Energía,9.253123018
-2022-02-01,Inflación Alimentos y Energía,9.480490297
-2022-03-01,Inflación Alimentos y Energía,9.703469194
-2022-04-01,Inflación Alimentos y Energía,11.12393448
-2022-05-01,Inflación Alimentos y Energía,12.18193603
-2022-06-01,Inflación Alimentos y Energía,13.0595166
-2022-07-01,Inflación Alimentos y Energía,12.97859347
-2022-08-01,Inflación Alimentos y Energía,12.76204886
-2022-09-01,Inflación Alimentos y Energía,12.3450835
-2022-10-01,Inflación Alimentos y Energía,11.9035318
-2022-11-01,Inflación Alimentos y Energía,11.82263328
-2022-12-01,Inflación Alimentos y Energía,11.75121433
-2023-01-01,Inflación Alimentos y Energía,12.00826398
-2023-02-01,Inflación Alimentos y Energía,12.08499975
-2023-03-01,Inflación Alimentos y Energía,11.88127258
-2023-04-01,Inflación Alimentos y Energía,11.40019754
-2023-05-01,Inflación Alimentos y Energía,11.13250556
-2023-06-01,Inflación Alimentos y Energía,10.32368094
-2023-07-01,Inflación Alimentos y Energía,9.494296585
-2023-08-01,Inflación Alimentos y Energía,8.297093371
-2023-09-01,Inflación Alimentos y Energía,7.548687952
-2023-10-01,Inflación Alimentos y Energía,6.647044262
-2023-11-01,Inflación Alimentos y Energía,5.521587135
-2023-12-01,Inflación Alimentos y Energía,4.485354655
-2024-01-01,Inflación Alimentos y Energía,3.707214658
-2024-02-01,Inflación Alimentos y Energía,3.453664254
-2024-03-01,Inflación Alimentos y Energía,3.19764631
-2020-01-01,Confianza del consumidor en el futuro,63.55716333
-2020-02-01,Confianza del consumidor en el futuro,62.07418333
-2020-03-01,Confianza del consumidor en el futuro,59.51661333
-2020-04-01,Confianza del consumidor en el futuro,53.79594667
-2020-05-01,Confianza del consumidor en el futuro,52.26687333
-2020-06-01,Confianza del consumidor en el futuro,50.39779667
-2020-07-01,Confianza del consumidor en el futuro,54.85063333
-2020-08-01,Confianza del consumidor en el futuro,55.24778
-2020-09-01,Confianza del consumidor en el futuro,55.19278667
-2020-10-01,Confianza del consumidor en el futuro,54.94764667
-2020-11-01,Confianza del consumidor en el futuro,55.34844333
-2020-12-01,Confianza del consumidor en el futuro,57.96971333
-2021-01-01,Confianza del consumidor en el futuro,55.975581
-2021-02-01,Confianza del consumidor en el futuro,53.28965433
-2021-03-01,Confianza del consumidor en el futuro,51.867341
-2021-04-01,Confianza del consumidor en el futuro,52.97401
-2021-05-01,Confianza del consumidor en el futuro,56.23297667
-2021-06-01,Confianza del consumidor en el futuro,55.26236333
-2021-07-01,Confianza del consumidor en el futuro,54.75775333
-2021-08-01,Confianza del consumidor en el futuro,53.85749
-2021-09-01,Confianza del consumidor en el futuro,54.82477333
-2021-10-01,Confianza del consumidor en el futuro,56.30889333
-2021-11-01,Confianza del consumidor en el futuro,54.87282667
-2021-12-01,Confianza del consumidor en el futuro,52.11697667
-2022-01-01,Confianza del consumidor en el futuro,49.80496333
-2022-02-01,Confianza del consumidor en el futuro,50.50555
-2022-03-01,Confianza del consumidor en el futuro,49.87121333
-2022-04-01,Confianza del consumidor en el futuro,47.27310667
-2022-05-01,Confianza del consumidor en el futuro,46.46822
-2022-06-01,Confianza del consumidor en el futuro,45.118
-2022-07-01,Confianza del consumidor en el futuro,43.15269494
-2022-08-01,Confianza del consumidor en el futuro,38.34726494
-2022-09-01,Confianza del consumidor en el futuro,39.60806828
-2022-10-01,Confianza del consumidor en el futuro,44.68083667
-2022-11-01,Confianza del consumidor en el futuro,49.75840667
-2022-12-01,Confianza del consumidor en el futuro,54.98411092
-2023-01-01,Confianza del consumidor en el futuro,57.02309425
-2023-02-01,Confianza del consumidor en el futuro,56.74360546
-2023-03-01,Confianza del consumidor en el futuro,55.40763713
-2023-04-01,Confianza del consumidor en el futuro,51.1811533
-2023-05-01,Confianza del consumidor en el futuro,54.02523264
-2023-06-01,Confianza del consumidor en el futuro,53.29809697
-2023-07-01,Confianza del consumidor en el futuro,56.52009201
-2023-08-01,Confianza del consumidor en el futuro,52.9557635
-2023-09-01,Confianza del consumidor en el futuro,51.28854752
-2023-10-01,Confianza del consumidor en el futuro,48.89407221
-2023-11-01,Confianza del consumidor en el futuro,49.22537104
-2023-12-01,Confianza del consumidor en el futuro,52.80758413
-2024-01-01,Confianza del consumidor en el futuro,54.51286443
-2024-02-01,Confianza del consumidor en el futuro,58.81165314
+﻿Mes,Inflación Alimentos y Energía,Confianza del consumidor en el futuro
+2020-01-01,1.390721411,63.55716333
+2020-02-01,1.405089314,62.07418333
+2020-03-01,1.570299833,59.51661333
+2020-04-01,1.62324387,53.79594667
+2020-05-01,1.722152626,52.26687333
+2020-06-01,1.492187625,50.39779667
+2020-07-01,1.616530755,54.85063333
+2020-08-01,1.577338773,55.24778
+2020-09-01,1.76884373,55.19278667
+2020-10-01,1.721179945,54.94764667
+2020-11-01,2.063067813,55.34844333
+2020-12-01,2.199815993,57.96971333
+2021-01-01,2.887257135,55.975581
+2021-02-01,3.148478647,53.28965433
+2021-03-01,3.589848379,51.867341
+2021-04-01,3.365589266,52.97401
+2021-05-01,3.323050365,56.23297667
+2021-06-01,3.765341808,55.26236333
+2021-07-01,4.634464422,54.75775333
+2021-08-01,6.208061507,53.85749
+2021-09-01,7.369242819,54.82477333
+2021-10-01,8.578106931,56.30889333
+2021-11-01,8.871406877,54.87282667
+2021-12-01,9.479713923,52.11697667
+2022-01-01,9.253123018,49.80496333
+2022-02-01,9.480490297,50.50555
+2022-03-01,9.703469194,49.87121333
+2022-04-01,11.12393448,47.27310667
+2022-05-01,12.18193603,46.46822
+2022-06-01,13.0595166,45.118
+2022-07-01,12.97859347,43.15269494
+2022-08-01,12.76204886,38.34726494
+2022-09-01,12.3450835,39.60806828
+2022-10-01,11.9035318,44.68083667
+2022-11-01,11.82263328,49.75840667
+2022-12-01,11.75121433,54.98411092
+2023-01-01,12.00826398,57.02309425
+2023-02-01,12.08499975,56.74360546
+2023-03-01,11.88127258,55.40763713
+2023-04-01,11.40019754,51.1811533
+2023-05-01,11.13250556,54.02523264
+2023-06-01,10.32368094,53.29809697
+2023-07-01,9.494296585,56.52009201
+2023-08-01,8.297093371,52.9557635
+2023-09-01,7.548687952,51.28854752
+2023-10-01,6.647044262,48.89407221
+2023-11-01,5.521587135,49.22537104
+2023-12-01,4.485354655,52.80758413
+2024-01-01,3.707214658,54.51286443
+2024-02-01,3.453664254,58.81165314
+2024-03-01,3.19764631,
