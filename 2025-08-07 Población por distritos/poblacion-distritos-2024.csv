@@ -1,0 +1,3360 @@
+﻿País,Región,Provincia,Distrito,Ubigeo,Población
+Chile,Tarapacá,Iquique,Iquique,1101,199587
+Chile,Tarapacá,Iquique,Alto Hospicio,1107,142086
+Chile,Tarapacá,Del Tamarugal,Pozo Almonte,1401,16878
+Chile,Tarapacá,Del Tamarugal,Camiña,1402,1335
+Chile,Tarapacá,Del Tamarugal,Colchane,1403,790
+Chile,Tarapacá,Del Tamarugal,Huara,1404,2858
+Chile,Tarapacá,Del Tamarugal,Pica,1405,6272
+Chile,Antofagasta,Antofagasta,Antofagasta,2101,401096
+Chile,Antofagasta,Antofagasta,Mejillones,2102,14084
+Chile,Antofagasta,Antofagasta,Sierra Gorda,2103,1472
+Chile,Antofagasta,Antofagasta,Taltal,2104,12097
+Chile,Antofagasta,El Loa,Calama,2201,166334
+Chile,Antofagasta,El Loa,Ollagüe,2202,256
+Chile,Antofagasta,El Loa,San Pedro de Atacama,2203,9843
+Chile,Antofagasta,Tocopilla,Tocopilla,2301,25400
+Chile,Antofagasta,Tocopilla,María Elena,2302,4834
+Chile,Atacama,Copiapó,Copiapó,3101,168831
+Chile,Atacama,Copiapó,Caldera,3102,18805
+Chile,Atacama,Copiapó,Tierra Amarilla,3103,11846
+Chile,Atacama,Chañaral,Chañaral,3201,12345
+Chile,Atacama,Chañaral,Diego de Almagro,3202,11397
+Chile,Atacama,Huasco,Vallenar,3301,54222
+Chile,Atacama,Huasco,Alto del Carmen,3302,4788
+Chile,Atacama,Huasco,Freirina,3303,7577
+Chile,Atacama,Huasco,Huasco,3304,9369
+Chile,Coquimbo,Elqui,La Serena,4101,250141
+Chile,Coquimbo,Elqui,Coquimbo,4102,263719
+Chile,Coquimbo,Elqui,Andacollo,4103,11566
+Chile,Coquimbo,Elqui,La Higuera,4104,4335
+Chile,Coquimbo,Elqui,Paiguano,4105,4649
+Chile,Coquimbo,Elqui,Vicuña,4106,28047
+Chile,Coquimbo,Choapa,Illapel,4201,32009
+Chile,Coquimbo,Choapa,Canela,4202,9639
+Chile,Coquimbo,Choapa,Los Vilos,4203,22879
+Chile,Coquimbo,Choapa,Salamanca,4204,27823
+Chile,Coquimbo,Limarí,Ovalle,4301,118696
+Chile,Coquimbo,Limarí,Combarbalá,4302,12954
+Chile,Coquimbo,Limarí,Monte Patria,4303,29997
+Chile,Coquimbo,Limarí,Punitaqui,4304,12076
+Chile,Coquimbo,Limarí,Río Hurtado,4305,4334
+Chile,Valparaíso,Valparaíso,Valparaíso,5101,284938
+Chile,Valparaíso,Valparaíso,Casablanca,5102,29876
+Chile,Valparaíso,Valparaíso,Concón,5103,48294
+Chile,Valparaíso,Valparaíso,Juan Fernández,5104,904
+Chile,Valparaíso,Valparaíso,Puchuncaví,5105,22539
+Chile,Valparaíso,Valparaíso,Quintero,5107,35754
+Chile,Valparaíso,Valparaíso,Viña del Mar,5109,334871
+Chile,Valparaíso,Isla de Pascua,Isla de Pascua,5201,4800
+Chile,Valparaíso,Los Andes,Los Andes,5301,63440
+Chile,Valparaíso,Los Andes,Calle Larga,5302,16597
+Chile,Valparaíso,Los Andes,Rinconada,5303,11855
+Chile,Valparaíso,Los Andes,San Esteban,5304,20112
+Chile,Valparaíso,Petorca,La Ligua,5401,39270
+Chile,Valparaíso,Petorca,Cabildo,5402,20015
+Chile,Valparaíso,Petorca,Papudo,5403,7561
+Chile,Valparaíso,Petorca,Petorca,5404,10206
+Chile,Valparaíso,Petorca,Zapallar,5405,7980
+Chile,Valparaíso,Quillota,Quillota,5501,96753
+Chile,Valparaíso,Quillota,Calera,5502,50631
+Chile,Valparaíso,Quillota,Hijuelas,5503,19286
+Chile,Valparaíso,Quillota,La Cruz,5504,24939
+Chile,Valparaíso,Quillota,Nogales,5506,22136
+Chile,Valparaíso,San Antonio,San Antonio,5601,96770
+Chile,Valparaíso,San Antonio,Algarrobo,5602,16076
+Chile,Valparaíso,San Antonio,Cartagena,5603,24599
+Chile,Valparaíso,San Antonio,El Quisco,5604,18971
+Chile,Valparaíso,San Antonio,El Tabo,5605,16260
+Chile,Valparaíso,San Antonio,Santo Domingo,5606,13171
+Chile,Valparaíso,San Felipe de Aconcagua,San Felipe,5701,80413
+Chile,Valparaíso,San Felipe de Aconcagua,Catemu,5702,13760
+Chile,Valparaíso,San Felipe de Aconcagua,Llaillay,5703,25484
+Chile,Valparaíso,San Felipe de Aconcagua,Panquehue,5704,7269
+Chile,Valparaíso,San Felipe de Aconcagua,Putaendo,5705,17336
+Chile,Valparaíso,San Felipe de Aconcagua,Santa María,5706,15134
+Chile,Valparaíso,Marga Marga,Quilpué,5801,162559
+Chile,Valparaíso,Marga Marga,Limache,5802,56145
+Chile,Valparaíso,Marga Marga,Olmué,5803,19778
+Chile,Valparaíso,Marga Marga,Villa Alemana,5804,139571
+Chile,Libertador General Bernardo O'Higgins,Cachapoal,Rancagua,6101,257744
+Chile,Libertador General Bernardo O'Higgins,Cachapoal,Codegua,6102,13955
+Chile,Libertador General Bernardo O'Higgins,Cachapoal,Coinco,6103,7916
+Chile,Libertador General Bernardo O'Higgins,Cachapoal,Coltauco,6104,21373
+Chile,Libertador General Bernardo O'Higgins,Cachapoal,Doñihue,6105,21925
+Chile,Libertador General Bernardo O'Higgins,Cachapoal,Graneros,6106,35938
+Chile,Libertador General Bernardo O'Higgins,Cachapoal,Las Cabras,6107,27554
+Chile,Libertador General Bernardo O'Higgins,Cachapoal,Machalí,6108,60875
+Chile,Libertador General Bernardo O'Higgins,Cachapoal,Malloa,6109,13882
+Chile,Libertador General Bernardo O'Higgins,Cachapoal,Mostazal,6110,27394
+Chile,Libertador General Bernardo O'Higgins,Cachapoal,Olivar,6111,13901
+Chile,Libertador General Bernardo O'Higgins,Cachapoal,Peumo,6112,14243
+Chile,Libertador General Bernardo O'Higgins,Cachapoal,Pichidegua,6113,20363
+Chile,Libertador General Bernardo O'Higgins,Cachapoal,Quinta de Tilcoco,6114,13558
+Chile,Libertador General Bernardo O'Higgins,Cachapoal,Rengo,6115,63620
+Chile,Libertador General Bernardo O'Higgins,Cachapoal,Requínoa,6116,29508
+Chile,Libertador General Bernardo O'Higgins,Cachapoal,San Vicente,6117,49559
+Chile,Libertador General Bernardo O'Higgins,Cardenal Caro,Pichilemu,6201,19847
+Chile,Libertador General Bernardo O'Higgins,Cardenal Caro,La Estrella,6202,4609
+Chile,Libertador General Bernardo O'Higgins,Cardenal Caro,Litueche,6203,8852
+Chile,Libertador General Bernardo O'Higgins,Cardenal Caro,Marchihue,6204,8715
+Chile,Libertador General Bernardo O'Higgins,Cardenal Caro,Navidad,6205,8885
+Chile,Libertador General Bernardo O'Higgins,Cardenal Caro,Paredones,6206,7228
+Chile,Libertador General Bernardo O'Higgins,Colchagua,San Fernando,6301,75585
+Chile,Libertador General Bernardo O'Higgins,Colchagua,Chépica,6302,15668
+Chile,Libertador General Bernardo O'Higgins,Colchagua,Chimbarongo,6303,37258
+Chile,Libertador General Bernardo O'Higgins,Colchagua,Lolol,6304,7791
+Chile,Libertador General Bernardo O'Higgins,Colchagua,Nancagua,6305,18723
+Chile,Libertador General Bernardo O'Higgins,Colchagua,Palmilla,6306,13060
+Chile,Libertador General Bernardo O'Higgins,Colchagua,Peralillo,6307,12493
+Chile,Libertador General Bernardo O'Higgins,Colchagua,Placilla,6308,9438
+Chile,Libertador General Bernardo O'Higgins,Colchagua,Pumanque,6309,4559
+Chile,Libertador General Bernardo O'Higgins,Colchagua,Santa Cruz,6310,41209
+Chile,Maule,Talca,Talca,7101,232131
+Chile,Maule,Talca,Constitución,7102,47004
+Chile,Maule,Talca,Curepto,7103,9519
+Chile,Maule,Talca,Empedrado,7104,3990
+Chile,Maule,Talca,Maule,7105,61081
+Chile,Maule,Talca,Pelarco,7106,9229
+Chile,Maule,Talca,Pencahue,7107,9181
+Chile,Maule,Talca,Río Claro,7108,14276
+Chile,Maule,Talca,San Clemente,7109,47380
+Chile,Maule,Talca,San Rafael,7110,11230
+Chile,Maule,Cauquenes,Cauquenes,7201,42798
+Chile,Maule,Cauquenes,Chanco,7202,9446
+Chile,Maule,Cauquenes,Pelluhue,7203,8578
+Chile,Maule,Curicó,Curicó,7301,159968
+Chile,Maule,Curicó,Hualañé,7302,10775
+Chile,Maule,Curicó,Licantén,7303,6892
+Chile,Maule,Curicó,Molina,7304,48949
+Chile,Maule,Curicó,Rauco,7305,11266
+Chile,Maule,Curicó,Romeral,7306,17233
+Chile,Maule,Curicó,Sagrada Familia,7307,19427
+Chile,Maule,Curicó,Teno,7308,30113
+Chile,Maule,Curicó,Vichuquén,7309,4716
+Chile,Maule,Linares,Linares,7401,96744
+Chile,Maule,Linares,Colbún,7402,22637
+Chile,Maule,Linares,Longaví,7403,33299
+Chile,Maule,Linares,Parral,7404,45323
+Chile,Maule,Linares,Retiro,7405,22310
+Chile,Maule,Linares,San Javier,7406,49559
+Chile,Maule,Linares,Villa Alegre,7407,17919
+Chile,Maule,Linares,Yerbas Buenas,7408,20035
+Chile,Biobío,Concepción,Concepción,8101,230375
+Chile,Biobío,Concepción,Coronel,8102,123648
+Chile,Biobío,Concepción,Chiguayante,8103,85822
+Chile,Biobío,Concepción,Florida,8104,12958
+Chile,Biobío,Concepción,Hualqui,8105,25795
+Chile,Biobío,Concepción,Lota,8106,39980
+Chile,Biobío,Concepción,Penco,8107,48971
+Chile,Biobío,Concepción,San Pedro de La paz,8108,150992
+Chile,Biobío,Concepción,Santa Juana,8109,14947
+Chile,Biobío,Concepción,Talcahuano,8110,147322
+Chile,Biobío,Concepción,Tomé,8111,56907
+Chile,Biobío,Concepción,Hualpén,8112,87731
+Chile,Biobío,Arauco,Lebu,8201,25246
+Chile,Biobío,Arauco,Arauco,8202,37163
+Chile,Biobío,Arauco,Cañete,8203,34640
+Chile,Biobío,Arauco,Contulmo,8204,5905
+Chile,Biobío,Arauco,Curanilahue,8205,31119
+Chile,Biobío,Arauco,Los Álamos,8206,21950
+Chile,Biobío,Arauco,Tirúa,8207,10208
+Chile,Biobío,Biobío,Los Ángeles,8301,219441
+Chile,Biobío,Biobío,Antuco,8302,4373
+Chile,Biobío,Biobío,Cabrero,8303,31256
+Chile,Biobío,Biobío,Laja,8304,23706
+Chile,Biobío,Biobío,Mulchén,8305,29036
+Chile,Biobío,Biobío,Nacimiento,8306,26140
+Chile,Biobío,Biobío,Negrete,8307,10723
+Chile,Biobío,Biobío,Quilaco,8308,4440
+Chile,Biobío,Biobío,Quilleco,8309,9700
+Chile,Biobío,Biobío,San Rosendo,8310,3575
+Chile,Biobío,Biobío,Santa Bárbara,8311,14075
+Chile,Biobío,Biobío,Tucapel,8312,15729
+Chile,Biobío,Biobío,Yumbel,8313,23170
+Chile,Biobío,Biobío,Alto Biobío,8314,6016
+Chile,La Araucanía,Cautín,Temuco,9101,292518
+Chile,La Araucanía,Cautín,Carahue,9102,24957
+Chile,La Araucanía,Cautín,Cunco,9103,19177
+Chile,La Araucanía,Cautín,Curarrehue,9104,7733
+Chile,La Araucanía,Cautín,Freire,9105,26164
+Chile,La Araucanía,Cautín,Galvarino,9106,12710
+Chile,La Araucanía,Cautín,Gorbea,9107,14148
+Chile,La Araucanía,Cautín,Lautaro,9108,41936
+Chile,La Araucanía,Cautín,Loncoche,9109,25158
+Chile,La Araucanía,Cautín,Melipeuco,9110,6796
+Chile,La Araucanía,Cautín,Nueva Imperial,9111,33988
+Chile,La Araucanía,Cautín,Padre Las Casas,9112,80656
+Chile,La Araucanía,Cautín,Perquenco,9113,7438
+Chile,La Araucanía,Cautín,Pitrufquén,9114,27041
+Chile,La Araucanía,Cautín,Pucón,9115,32321
+Chile,La Araucanía,Cautín,Saavedra,9116,12877
+Chile,La Araucanía,Cautín,Teodoro Schmidt,9117,15639
+Chile,La Araucanía,Cautín,Toltén,9118,10041
+Chile,La Araucanía,Cautín,Vilcún,9119,31575
+Chile,La Araucanía,Cautín,Villarrica,9120,67737
+Chile,La Araucanía,Cautín,Cholchol,9121,13167
+Chile,La Araucanía,Malleco,Angol,9201,53022
+Chile,La Araucanía,Malleco,Collipulli,9202,24303
+Chile,La Araucanía,Malleco,Curacautín,9203,18536
+Chile,La Araucanía,Malleco,Ercilla,9204,7730
+Chile,La Araucanía,Malleco,Lonquimay,9205,10247
+Chile,La Araucanía,Malleco,Los Sauces,9206,7348
+Chile,La Araucanía,Malleco,Lumaco,9207,9253
+Chile,La Araucanía,Malleco,Purén,9208,12184
+Chile,La Araucanía,Malleco,Renaico,9209,10686
+Chile,La Araucanía,Malleco,Traiguén,9210,18873
+Chile,La Araucanía,Malleco,Victoria,9211,34464
+Chile,Los Lagos,Llanquihue,Puerto Montt,10101,277040
+Chile,Los Lagos,Llanquihue,Calbuco,10102,36474
+Chile,Los Lagos,Llanquihue,Cochamó,10103,4199
+Chile,Los Lagos,Llanquihue,Fresia,10104,12320
+Chile,Los Lagos,Llanquihue,Frutillar,10105,22554
+Chile,Los Lagos,Llanquihue,Los Muermos,10106,17162
+Chile,Los Lagos,Llanquihue,Llanquihue,10107,18088
+Chile,Los Lagos,Llanquihue,Maullín,10108,15063
+Chile,Los Lagos,Llanquihue,Puerto Varas,10109,52942
+Chile,Los Lagos,Chiloé,Castro,10201,46997
+Chile,Los Lagos,Chiloé,Ancud,10202,40949
+Chile,Los Lagos,Chiloé,Chonchi,10203,16078
+Chile,Los Lagos,Chiloé,Curaco de Vélez,10204,3662
+Chile,Los Lagos,Chiloé,Dalcahue,10205,14894
+Chile,Los Lagos,Chiloé,Puqueldón,10206,4048
+Chile,Los Lagos,Chiloé,Queilén,10207,5690
+Chile,Los Lagos,Chiloé,Quellón,10208,28460
+Chile,Los Lagos,Chiloé,Quemchi,10209,8409
+Chile,Los Lagos,Chiloé,Quinchao,10210,7678
+Chile,Los Lagos,Osorno,Osorno,10301,166455
+Chile,Los Lagos,Osorno,Puerto Octay,10302,8865
+Chile,Los Lagos,Osorno,Purranque,10303,19542
+Chile,Los Lagos,Osorno,Puyehue,10304,11712
+Chile,Los Lagos,Osorno,Río Negro,10305,13874
+Chile,Los Lagos,Osorno,San Juan de la Costa,10306,7776
+Chile,Los Lagos,Osorno,San Pablo,10307,10883
+Chile,Los Lagos,Palena,Chaitén,10401,4025
+Chile,Los Lagos,Palena,Futaleufú,10402,3062
+Chile,Los Lagos,Palena,Hualaihué,10403,9480
+Chile,Los Lagos,Palena,Palena,10404,1903
+Chile,Aysén del General Carlos Ibáñez del Campo,Coyhaique,Coyhaique,11101,57823
+Chile,Aysén del General Carlos Ibáñez del Campo,Coyhaique,Lago Verde,11102,779
+Chile,Aysén del General Carlos Ibáñez del Campo,Aysén,Aysén,11201,23170
+Chile,Aysén del General Carlos Ibáñez del Campo,Aysén,Cisnes,11202,5137
+Chile,Aysén del General Carlos Ibáñez del Campo,Aysén,Guaitecas,11203,1598
+Chile,Aysén del General Carlos Ibáñez del Campo,Capitán Prat,Cochrane,11301,3458
+Chile,Aysén del General Carlos Ibáñez del Campo,Capitán Prat,O'Higgins,11302,647
+Chile,Aysén del General Carlos Ibáñez del Campo,Capitán Prat,Tortel,11303,505
+Chile,Aysén del General Carlos Ibáñez del Campo,General Carrera,Chile Chico,11401,4905
+Chile,Aysén del General Carlos Ibáñez del Campo,General Carrera,Río Ibáñez,11402,2723
+Chile,Magallanes y de la Antártica Chilena,Magallanes,Punta Arenas,12101,132363
+Chile,Magallanes y de la Antártica Chilena,Magallanes,Laguna Blanca,12102,269
+Chile,Magallanes y de la Antártica Chilena,Magallanes,Río Verde,12103,102
+Chile,Magallanes y de la Antártica Chilena,Magallanes,San Gregorio,12104,241
+Chile,Magallanes y de la Antártica Chilena,Antártica Chilena,Cabo de Hornos,12201,1750
+Chile,Magallanes y de la Antártica Chilena,Antártica Chilena,Antártica,12202,60
+Chile,Magallanes y de la Antártica Chilena,Tierra del Fuego,Porvenir,12301,6809
+Chile,Magallanes y de la Antártica Chilena,Tierra del Fuego,Primavera,12302,431
+Chile,Magallanes y de la Antártica Chilena,Tierra del Fuego,Timaukel,12303,157
+Chile,Magallanes y de la Antártica Chilena,Última Esperanza,Natales,12401,24152
+Chile,Magallanes y de la Antártica Chilena,Última Esperanza,Torres del Paine,12402,203
+Chile,Metropolitana de Santiago,Santiago,Santiago,13101,438856
+Chile,Metropolitana de Santiago,Santiago,Cerrillos,13102,85041
+Chile,Metropolitana de Santiago,Santiago,Cerro Navia,13103,127250
+Chile,Metropolitana de Santiago,Santiago,Conchalí,13104,121587
+Chile,Metropolitana de Santiago,Santiago,El Bosque,13105,155257
+Chile,Metropolitana de Santiago,Santiago,Estación Central,13106,181049
+Chile,Metropolitana de Santiago,Santiago,Huechuraba,13107,101808
+Chile,Metropolitana de Santiago,Santiago,Independencia,13108,116943
+Chile,Metropolitana de Santiago,Santiago,La Cisterna,13109,103157
+Chile,Metropolitana de Santiago,Santiago,La Florida,13110,374836
+Chile,Metropolitana de Santiago,Santiago,La Granja,13111,112022
+Chile,Metropolitana de Santiago,Santiago,La Pintana,13112,175421
+Chile,Metropolitana de Santiago,Santiago,La Reina,13113,89870
+Chile,Metropolitana de Santiago,Santiago,Las Condes,13114,296134
+Chile,Metropolitana de Santiago,Santiago,Lo Barnechea,13115,112620
+Chile,Metropolitana de Santiago,Santiago,Lo Espejo,13116,87295
+Chile,Metropolitana de Santiago,Santiago,Lo Prado,13117,91290
+Chile,Metropolitana de Santiago,Santiago,Macul,13118,123800
+Chile,Metropolitana de Santiago,Santiago,Maipú,13119,503635
+Chile,Metropolitana de Santiago,Santiago,Ñuñoa,13120,241467
+Chile,Metropolitana de Santiago,Santiago,Pedro Aguirre Cerda,13121,96062
+Chile,Metropolitana de Santiago,Santiago,Peñalolén,13122,236478
+Chile,Metropolitana de Santiago,Santiago,Providencia,13123,143974
+Chile,Metropolitana de Santiago,Santiago,Pudahuel,13124,227820
+Chile,Metropolitana de Santiago,Santiago,Quilicura,13125,205624
+Chile,Metropolitana de Santiago,Santiago,Quinta Normal,13126,129351
+Chile,Metropolitana de Santiago,Santiago,Recoleta,13127,154615
+Chile,Metropolitana de Santiago,Santiago,Renca,13128,143622
+Chile,Metropolitana de Santiago,Santiago,San Joaquín,13129,95602
+Chile,Metropolitana de Santiago,Santiago,San Miguel,13130,150829
+Chile,Metropolitana de Santiago,Santiago,San Ramón,13131,76002
+Chile,Metropolitana de Santiago,Santiago,Vitacura,13132,86420
+Chile,Metropolitana de Santiago,Cordillera,Puente Alto,13201,568086
+Chile,Metropolitana de Santiago,Cordillera,Pirque,13202,29060
+Chile,Metropolitana de Santiago,Cordillera,San José de Maipo,13203,17441
+Chile,Metropolitana de Santiago,Chacabuco,Colina,13301,173293
+Chile,Metropolitana de Santiago,Chacabuco,Lampa,13302,145160
+Chile,Metropolitana de Santiago,Chacabuco,Tiltil,13303,19742
+Chile,Metropolitana de Santiago,Maipo,San Bernardo,13401,306371
+Chile,Metropolitana de Santiago,Maipo,Buin,13402,116969
+Chile,Metropolitana de Santiago,Maipo,Calera de Tango,13403,25491
+Chile,Metropolitana de Santiago,Maipo,Paine,13404,78828
+Chile,Metropolitana de Santiago,Melipilla,Melipilla,13501,136325
+Chile,Metropolitana de Santiago,Melipilla,Alhué,13502,7768
+Chile,Metropolitana de Santiago,Melipilla,Curacaví,13503,35165
+Chile,Metropolitana de Santiago,Melipilla,María Pinto,13504,15352
+Chile,Metropolitana de Santiago,Melipilla,San Pedro,13505,11108
+Chile,Metropolitana de Santiago,Talagante,Talagante,13601,76429
+Chile,Metropolitana de Santiago,Talagante,El Monte,13602,37497
+Chile,Metropolitana de Santiago,Talagante,Isla de Maipo,13603,39274
+Chile,Metropolitana de Santiago,Talagante,Padre Hurtado,13604,81243
+Chile,Metropolitana de Santiago,Talagante,Peñaflor,13605,94402
+Chile,Los Ríos,Valdivia,Valdivia,14101,170043
+Chile,Los Ríos,Valdivia,Corral,14102,5501
+Chile,Los Ríos,Valdivia,Lanco,14103,16876
+Chile,Los Ríos,Valdivia,Los Lagos,14104,21431
+Chile,Los Ríos,Valdivia,Máfil,14105,8074
+Chile,Los Ríos,Valdivia,Mariquina,14106,22973
+Chile,Los Ríos,Valdivia,Paillaco,14107,19802
+Chile,Los Ríos,Valdivia,Panguipulli,14108,35098
+Chile,Los Ríos,Ranco,La Unión,14201,38907
+Chile,Los Ríos,Ranco,Futrono,14202,15635
+Chile,Los Ríos,Ranco,Lago Ranco,14203,10527
+Chile,Los Ríos,Ranco,Río Bueno,14204,33363
+Chile,Arica y Parinacota,Arica,Arica,15101,241653
+Chile,Arica y Parinacota,Arica,Camarones,15102,861
+Chile,Arica y Parinacota,Parinacota,Putre,15201,1547
+Chile,Arica y Parinacota,Parinacota,General Lagos,15202,508
+Chile,Ñuble,Diguillín,Chillán,16101,190382
+Chile,Ñuble,Diguillín,Bulnes,16102,23863
+Chile,Ñuble,Diguillín,Chillán Viejo,16103,32688
+Chile,Ñuble,Diguillín,El Carmen,16104,13186
+Chile,Ñuble,Diguillín,Pemuco,16105,8930
+Chile,Ñuble,Diguillín,Pinto,16106,12502
+Chile,Ñuble,Diguillín,Quillón,16107,19165
+Chile,Ñuble,Diguillín,San Ignacio,16108,17405
+Chile,Ñuble,Diguillín,Yungay,16109,18680
+Chile,Ñuble,Itata,Quirihue,16201,11746
+Chile,Ñuble,Itata,Cobquecura,16202,5495
+Chile,Ñuble,Itata,Coelemu,16203,15895
+Chile,Ñuble,Itata,Ninhue,16204,5763
+Chile,Ñuble,Itata,Portezuelo,16205,5203
+Chile,Ñuble,Itata,Ránquil,16206,6508
+Chile,Ñuble,Itata,Trehuaco,16207,6124
+Chile,Ñuble,Punilla,San Carlos,16301,55847
+Chile,Ñuble,Punilla,Coihueco,16302,29766
+Chile,Ñuble,Punilla,Ñiquén,16303,12797
+Chile,Ñuble,Punilla,San Fabián,16304,5245
+Chile,Ñuble,Punilla,San Nicolás,16305,15099
+Colombia,Antioquia,,Medellín,5001,2616335
+Colombia,Antioquia,,Abejorral,5002,21468
+Colombia,Antioquia,,Abriaquí,5004,2855
+Colombia,Antioquia,,Alejandría,5021,4955
+Colombia,Antioquia,,Amagá,5030,32412
+Colombia,Antioquia,,Amalfi,5031,27846
+Colombia,Antioquia,,Andes,5034,46183
+Colombia,Antioquia,,Angelópolis,5036,6109
+Colombia,Antioquia,,Angostura,5038,12121
+Colombia,Antioquia,,Anorí,5040,19675
+Colombia,Antioquia,,Santafé de Antioquia,5042,28049
+Colombia,Antioquia,,Anzá,5044,7483
+Colombia,Antioquia,,Apartadó,5045,131422
+Colombia,Antioquia,,Arboletes,5051,32192
+Colombia,Antioquia,,Argelia,5055,8024
+Colombia,Antioquia,,Armenia,5059,5404
+Colombia,Antioquia,,Barbosa,5079,56103
+Colombia,Antioquia,,Belmira,5086,6405
+Colombia,Antioquia,,Bello,5088,566456
+Colombia,Antioquia,,Betania,5091,10892
+Colombia,Antioquia,,Betulia,5093,16604
+Colombia,Antioquia,,Ciudad Bolívar,5101,27711
+Colombia,Antioquia,,Briceño,5107,8523
+Colombia,Antioquia,,Buriticá,5113,10017
+Colombia,Antioquia,,Cáceres,5120,31160
+Colombia,Antioquia,,Caicedo,5125,8870
+Colombia,Antioquia,,Caldas,5129,86081
+Colombia,Antioquia,,Campamento,5134,9755
+Colombia,Antioquia,,Cañasgordas,5138,16371
+Colombia,Antioquia,,Caracolí,5142,4824
+Colombia,Antioquia,,Caramanta,5145,4951
+Colombia,Antioquia,,Carepa,5147,52184
+Colombia,Antioquia,,El Carmen de Viboral,5148,64265
+Colombia,Antioquia,,Carolina,5150,4219
+Colombia,Antioquia,,Caucasia,5154,97803
+Colombia,Antioquia,,Chigorodó,5172,62235
+Colombia,Antioquia,,Cisneros,5190,10422
+Colombia,Antioquia,,Cocorná,5197,16551
+Colombia,Antioquia,,Concepción,5206,5049
+Colombia,Antioquia,,Concordia,5209,22737
+Colombia,Antioquia,,Copacabana,5212,84209
+Colombia,Antioquia,,Dabeiba,5234,24586
+Colombia,Antioquia,,Donmatías,5237,20360
+Colombia,Antioquia,,Ebéjico,5240,12820
+Colombia,Antioquia,,El Bagre,5250,56306
+Colombia,Antioquia,,Entrerríos,5264,12062
+Colombia,Antioquia,,Envigado,5266,248304
+Colombia,Antioquia,,Fredonia,5282,25981
+Colombia,Antioquia,,Frontino,5284,21905
+Colombia,Antioquia,,Giraldo,5306,5963
+Colombia,Antioquia,,Girardota,5308,55902
+Colombia,Antioquia,,Gómez Plata,5310,10397
+Colombia,Antioquia,,Granada,5313,10785
+Colombia,Antioquia,,Guadalupe,5315,6966
+Colombia,Antioquia,,Guarne,5318,59710
+Colombia,Antioquia,,Guatapé,5321,9020
+Colombia,Antioquia,,Heliconia,5347,5716
+Colombia,Antioquia,,Hispania,5353,5846
+Colombia,Antioquia,,Itagüí,5360,299348
+Colombia,Antioquia,,Ituango,5361,28890
+Colombia,Antioquia,,Jardín,5364,15513
+Colombia,Antioquia,,Jericó,5368,14454
+Colombia,Antioquia,,La Ceja,5376,70387
+Colombia,Antioquia,,La Estrella,5380,77611
+Colombia,Antioquia,,La Pintada,5390,8614
+Colombia,Antioquia,,La Unión,5400,23072
+Colombia,Antioquia,,Liborina,5411,10649
+Colombia,Antioquia,,Maceo,5425,8707
+Colombia,Antioquia,,Marinilla,5440,69898
+Colombia,Antioquia,,Montebello,5467,7035
+Colombia,Antioquia,,Murindó,5475,5300
+Colombia,Antioquia,,Mutatá,5480,15035
+Colombia,Antioquia,,Nariño,5483,10812
+Colombia,Antioquia,,Necoclí,5490,45530
+Colombia,Antioquia,,Nechí,5495,27901
+Colombia,Antioquia,,Olaya,5501,3327
+Colombia,Antioquia,,Peñol,5541,22592
+Colombia,Antioquia,,Peque,5543,8644
+Colombia,Antioquia,,Pueblorrico,5576,9198
+Colombia,Antioquia,,Puerto Berrío,5579,42203
+Colombia,Antioquia,,Puerto Nare,5585,15232
+Colombia,Antioquia,,Puerto Triunfo,5591,19554
+Colombia,Antioquia,,Remedios,5604,30501
+Colombia,Antioquia,,Retiro,5607,25431
+Colombia,Antioquia,,Rionegro,5615,146880
+Colombia,Antioquia,,Sabanalarga,5628,9668
+Colombia,Antioquia,,Sabaneta,5631,89647
+Colombia,Antioquia,,Salgar,5642,19314
+Colombia,Antioquia,,San Andrés de Cuerquía,5647,7649
+Colombia,Antioquia,,San Carlos,5649,16984
+Colombia,Antioquia,,San Francisco,5652,5996
+Colombia,Antioquia,,San Jerónimo,5656,16499
+Colombia,Antioquia,,San José de La Montaña,5658,3920
+Colombia,Antioquia,,San Juan de Urabá,5659,21707
+Colombia,Antioquia,,San Luis,5660,13791
+Colombia,Antioquia,,San Pedro de Los Milagros,5664,23573
+Colombia,Antioquia,,San Pedro de Urabá,5665,33180
+Colombia,Antioquia,,San Rafael,5667,16617
+Colombia,Antioquia,,San Roque,5670,22966
+Colombia,Antioquia,,San Vicente,5674,23546
+Colombia,Antioquia,,Santa Bárbara,5679,27862
+Colombia,Antioquia,,Santa Rosa de Osos,5686,39054
+Colombia,Antioquia,,Santo Domingo,5690,13075
+Colombia,Antioquia,,El Santuario,5697,38116
+Colombia,Antioquia,,Segovia,5736,40922
+Colombia,Antioquia,,Sonsón,5756,38520
+Colombia,Antioquia,,Sopetrán,5761,16089
+Colombia,Antioquia,,Támesis,5789,17176
+Colombia,Antioquia,,Tarazá,5790,29082
+Colombia,Antioquia,,Tarso,5792,6555
+Colombia,Antioquia,,Titiribí,5809,11364
+Colombia,Antioquia,,Toledo,5819,5266
+Colombia,Antioquia,,Turbo,5837,134517
+Colombia,Antioquia,,Uramita,5842,7277
+Colombia,Antioquia,,Urrao,5847,32139
+Colombia,Antioquia,,Valdivia,5854,14722
+Colombia,Antioquia,,Valparaíso,5856,6916
+Colombia,Antioquia,,Vegachí,5858,12556
+Colombia,Antioquia,,Venecia,5861,12322
+Colombia,Antioquia,,Vigía del Fuerte,5873,9752
+Colombia,Antioquia,,Yalí,5885,8091
+Colombia,Antioquia,,Yarumal,5887,44457
+Colombia,Antioquia,,Yolombó,5890,24023
+Colombia,Antioquia,,Yondó,5893,20727
+Colombia,Antioquia,,Zaragoza,5895,26207
+Colombia,Atlántico,,Barranquilla,8001,1334509
+Colombia,Atlántico,,Baranoa,8078,69745
+Colombia,Atlántico,,Campo de La Cruz,8137,25047
+Colombia,Atlántico,,Candelaria,8141,17732
+Colombia,Atlántico,,Galapa,8296,68594
+Colombia,Atlántico,,Juan de Acosta,8372,23569
+Colombia,Atlántico,,Luruaco,8421,31193
+Colombia,Atlántico,,Malambo,8433,143950
+Colombia,Atlántico,,Manatí,8436,21876
+Colombia,Atlántico,,Palmar de Varela,8520,32365
+Colombia,Atlántico,,Piojó,8549,7327
+Colombia,Atlántico,,Polonuevo,8558,20207
+Colombia,Atlántico,,Ponedera,8560,26689
+Colombia,Atlántico,,Puerto Colombia,8573,55463
+Colombia,Atlántico,,Repelón,8606,29016
+Colombia,Atlántico,,Sabanagrande,8634,36300
+Colombia,Atlántico,,Sabanalarga,8638,104302
+Colombia,Atlántico,,Santa Lucía,8675,17912
+Colombia,Atlántico,,Santo Tomás,8685,33353
+Colombia,Atlántico,,Soledad,8758,681835
+Colombia,Atlántico,,Suan,8770,13185
+Colombia,Atlántico,,Tubará,8832,19263
+Colombia,Atlántico,,Usiacurí,8849,13692
+Colombia,"Bogotá, D.C.",,"Bogotá, D.C.",11001,7929539
+Colombia,Bolívar,,Cartagena de Indias,13001,1059626
+Colombia,Bolívar,,Achí,13006,27266
+Colombia,Bolívar,,Altos del Rosario,13030,12177
+Colombia,Bolívar,,Arenal,13042,8004
+Colombia,Bolívar,,Arjona,13052,75995
+Colombia,Bolívar,,Arroyohondo,13062,8808
+Colombia,Bolívar,,Barranco de Loba,13074,16337
+Colombia,Bolívar,,Calamar,13140,24768
+Colombia,Bolívar,,Cantagallo,13160,9101
+Colombia,Bolívar,,Cicuco,13188,14761
+Colombia,Bolívar,,Córdoba,13212,17565
+Colombia,Bolívar,,Clemencia,13222,16224
+Colombia,Bolívar,,El Carmen de Bolívar,13244,76550
+Colombia,Bolívar,,El Guamo,13248,9481
+Colombia,Bolívar,,El Peñón,13268,8136
+Colombia,Bolívar,,Hatillo de Loba,13300,13286
+Colombia,Bolívar,,Magangué,13430,146203
+Colombia,Bolívar,,Mahates,13433,30352
+Colombia,Bolívar,,Margarita,13440,11818
+Colombia,Bolívar,,María La Baja,13442,50897
+Colombia,Bolívar,,Montecristo,13458,18370
+Colombia,Bolívar,,Mompós,13468,48799
+Colombia,Bolívar,,Morales,13473,24811
+Colombia,Bolívar,,Norosí,13490,10879
+Colombia,Bolívar,,Pinillos,13549,26674
+Colombia,Bolívar,,Regidor,13580,7562
+Colombia,Bolívar,,Río Viejo,13600,11534
+Colombia,Bolívar,,San Cristóbal,13620,8743
+Colombia,Bolívar,,San Estanislao,13647,19987
+Colombia,Bolívar,,San Fernando,13650,13841
+Colombia,Bolívar,,San Jacinto,13654,25904
+Colombia,Bolívar,,San Jacinto del Cauca,13655,11113
+Colombia,Bolívar,,San Juan Nepomuceno,13657,40335
+Colombia,Bolívar,,San Martín de Loba,13667,16079
+Colombia,Bolívar,,San Pablo,13670,29770
+Colombia,Bolívar,,Santa Catalina,13673,16039
+Colombia,Bolívar,,Santa Rosa,13683,22912
+Colombia,Bolívar,,Santa Rosa del Sur,13688,36114
+Colombia,Bolívar,,Simití,13744,20066
+Colombia,Bolívar,,Soplaviento,13760,11656
+Colombia,Bolívar,,Talaigua Nuevo,13780,13986
+Colombia,Bolívar,,Tiquisio,13810,19664
+Colombia,Bolívar,,Turbaco,13836,115544
+Colombia,Bolívar,,Turbaná,13838,17929
+Colombia,Bolívar,,Villanueva,13873,25971
+Colombia,Bolívar,,Zambrano,13894,12886
+Colombia,Boyacá,,Tunja,15001,187286
+Colombia,Boyacá,,Almeida,15022,2048
+Colombia,Boyacá,,Aquitania,15047,16480
+Colombia,Boyacá,,Arcabuco,15051,6341
+Colombia,Boyacá,,Belén,15087,7987
+Colombia,Boyacá,,Berbeo,15090,1700
+Colombia,Boyacá,,Betéitiva,15092,2069
+Colombia,Boyacá,,Boavita,15097,5422
+Colombia,Boyacá,,Boyacá,15104,5448
+Colombia,Boyacá,,Briceño,15106,2317
+Colombia,Boyacá,,Buenavista,15109,4688
+Colombia,Boyacá,,Busbanzá,15114,1200
+Colombia,Boyacá,,Caldas,15131,3335
+Colombia,Boyacá,,Campohermoso,15135,3299
+Colombia,Boyacá,,Cerinza,15162,3945
+Colombia,Boyacá,,Chinavita,15172,3412
+Colombia,Boyacá,,Chiquinquirá,15176,60737
+Colombia,Boyacá,,Chiscas,15180,4195
+Colombia,Boyacá,,Chita,15183,8405
+Colombia,Boyacá,,Chitaraque,15185,6226
+Colombia,Boyacá,,Chivatá,15187,2995
+Colombia,Boyacá,,Ciénega,15189,4963
+Colombia,Boyacá,,Cómbita,15204,14040
+Colombia,Boyacá,,Coper,15212,3832
+Colombia,Boyacá,,Corrales,15215,2674
+Colombia,Boyacá,,Covarachía,15218,2941
+Colombia,Boyacá,,Cubará,15223,11295
+Colombia,Boyacá,,Cucaita,15224,4020
+Colombia,Boyacá,,Cuítiva,15226,1910
+Colombia,Boyacá,,Chíquiza,15232,5026
+Colombia,Boyacá,,Chivor,15236,2664
+Colombia,Boyacá,,Duitama,15238,132894
+Colombia,Boyacá,,El Cocuy,15244,4422
+Colombia,Boyacá,,El Espino,15248,3248
+Colombia,Boyacá,,Firavitoba,15272,7194
+Colombia,Boyacá,,Floresta,15276,3461
+Colombia,Boyacá,,Gachantivá,15293,2958
+Colombia,Boyacá,,Gámeza,15296,5165
+Colombia,Boyacá,,Garagoa,15299,19415
+Colombia,Boyacá,,Guacamayas,15317,1967
+Colombia,Boyacá,,Guateque,15322,11523
+Colombia,Boyacá,,Guayatá,15325,3527
+Colombia,Boyacá,,Güicán de La Sierra,15332,4545
+Colombia,Boyacá,,Iza,15362,2094
+Colombia,Boyacá,,Jenesano,15367,7755
+Colombia,Boyacá,,Jericó,15368,4168
+Colombia,Boyacá,,Labranzagrande,15377,3730
+Colombia,Boyacá,,La Capilla,15380,2851
+Colombia,Boyacá,,La Victoria,15401,1197
+Colombia,Boyacá,,La Uvita,15403,3220
+Colombia,Boyacá,,Villa de Leyva,15407,17627
+Colombia,Boyacá,,Macanal,15425,5355
+Colombia,Boyacá,,Maripí,15442,6078
+Colombia,Boyacá,,Miraflores,15455,9481
+Colombia,Boyacá,,Mongua,15464,4944
+Colombia,Boyacá,,Monguí,15466,4485
+Colombia,Boyacá,,Moniquirá,15469,24356
+Colombia,Boyacá,,Motavita,15476,6021
+Colombia,Boyacá,,Muzo,15480,9094
+Colombia,Boyacá,,Nobsa,15491,17334
+Colombia,Boyacá,,Nuevo Colón,15494,5493
+Colombia,Boyacá,,Oicatá,15500,3047
+Colombia,Boyacá,,Otanche,15507,8613
+Colombia,Boyacá,,Pachavita,15511,2618
+Colombia,Boyacá,,Páez,15514,3479
+Colombia,Boyacá,,Paipa,15516,36429
+Colombia,Boyacá,,Pajarito,15518,2544
+Colombia,Boyacá,,Panqueba,15522,1814
+Colombia,Boyacá,,Pauna,15531,7627
+Colombia,Boyacá,,Paya,15533,2795
+Colombia,Boyacá,,Paz de Río,15537,4515
+Colombia,Boyacá,,Pesca,15542,7193
+Colombia,Boyacá,,Pisba,15550,1875
+Colombia,Boyacá,,Puerto Boyacá,15572,50667
+Colombia,Boyacá,,Quípama,15580,5272
+Colombia,Boyacá,,Ramiriquí,15599,10644
+Colombia,Boyacá,,Ráquira,15600,8518
+Colombia,Boyacá,,Rondón,15621,2548
+Colombia,Boyacá,,Saboyá,15632,14623
+Colombia,Boyacá,,Sáchica,15638,5933
+Colombia,Boyacá,,Samacá,15646,19850
+Colombia,Boyacá,,San Eduardo,15660,1767
+Colombia,Boyacá,,San José de Pare,15664,5328
+Colombia,Boyacá,,San Luis de Gaceno,15667,5877
+Colombia,Boyacá,,San Mateo,15673,3568
+Colombia,Boyacá,,San Miguel de Sema,15676,3203
+Colombia,Boyacá,,San Pablo de Borbur,15681,7099
+Colombia,Boyacá,,Santana,15686,8130
+Colombia,Boyacá,,Santa María,15690,3758
+Colombia,Boyacá,,Santa Rosa de Viterbo,15693,14128
+Colombia,Boyacá,,Santa Sofía,15696,3398
+Colombia,Boyacá,,Sativanorte,15720,2319
+Colombia,Boyacá,,Sativasur,15723,1163
+Colombia,Boyacá,,Siachoque,15740,7204
+Colombia,Boyacá,,Soatá,15753,9518
+Colombia,Boyacá,,Socotá,15755,7688
+Colombia,Boyacá,,Socha,15757,8525
+Colombia,Boyacá,,Sogamoso,15759,137759
+Colombia,Boyacá,,Somondoco,15761,3088
+Colombia,Boyacá,,Sora,15762,3239
+Colombia,Boyacá,,Sotaquirá,15763,8791
+Colombia,Boyacá,,Soracá,15764,6430
+Colombia,Boyacá,,Susacón,15774,2868
+Colombia,Boyacá,,Sutamarchán,15776,6587
+Colombia,Boyacá,,Sutatenza,15778,4536
+Colombia,Boyacá,,Tasco,15790,6216
+Colombia,Boyacá,,Tenza,15798,4087
+Colombia,Boyacá,,Tibaná,15804,9694
+Colombia,Boyacá,,Tibasosa,15806,14063
+Colombia,Boyacá,,Tinjacá,15808,3537
+Colombia,Boyacá,,Tipacoque,15810,3522
+Colombia,Boyacá,,Toca,15814,9428
+Colombia,Boyacá,,Togüí,15816,4629
+Colombia,Boyacá,,Tópaga,15820,3877
+Colombia,Boyacá,,Tota,15822,5551
+Colombia,Boyacá,,Tununguá,15832,1651
+Colombia,Boyacá,,Turmequé,15835,6528
+Colombia,Boyacá,,Tuta,15837,8915
+Colombia,Boyacá,,Tutazá,15839,2193
+Colombia,Boyacá,,Úmbita,15842,8043
+Colombia,Boyacá,,Ventaquemada,15861,17012
+Colombia,Boyacá,,Viracachá,15879,3006
+Colombia,Boyacá,,Zetaquira,15897,4954
+Colombia,Caldas,,Manizales,17001,457022
+Colombia,Caldas,,Aguadas,17013,23525
+Colombia,Caldas,,Anserma,17042,37573
+Colombia,Caldas,,Aranzazu,17050,10863
+Colombia,Caldas,,Belalcázar,17088,10950
+Colombia,Caldas,,Chinchiná,17174,53609
+Colombia,Caldas,,Filadelfia,17272,11737
+Colombia,Caldas,,La Dorada,17380,75448
+Colombia,Caldas,,La Merced,17388,6293
+Colombia,Caldas,,Manzanares,17433,18789
+Colombia,Caldas,,Marmato,17442,9284
+Colombia,Caldas,,Marquetalia,17444,13701
+Colombia,Caldas,,Marulanda,17446,2726
+Colombia,Caldas,,Neira,17486,21644
+Colombia,Caldas,,Norcasia,17495,6146
+Colombia,Caldas,,Pácora,17513,15791
+Colombia,Caldas,,Palestina,17524,16062
+Colombia,Caldas,,Pensilvania,17541,20331
+Colombia,Caldas,,Riosucio,17614,54078
+Colombia,Caldas,,Risaralda,17616,11333
+Colombia,Caldas,,Salamina,17653,20066
+Colombia,Caldas,,Samaná,17662,21415
+Colombia,Caldas,,San José,17665,4953
+Colombia,Caldas,,Supía,17777,29990
+Colombia,Caldas,,Victoria,17867,10525
+Colombia,Caldas,,Villamaría,17873,69021
+Colombia,Caldas,,Viterbo,17877,13235
+Colombia,Caquetá,,Florencia,18001,179233
+Colombia,Caquetá,,Albania,18029,4794
+Colombia,Caquetá,,Belén de Los Andaquíes,18094,11557
+Colombia,Caquetá,,Cartagena del Chairá,18150,32841
+Colombia,Caquetá,,Curillo,18205,8109
+Colombia,Caquetá,,El Doncello,18247,20336
+Colombia,Caquetá,,El Paujíl,18256,19290
+Colombia,Caquetá,,La Montañita,18410,15621
+Colombia,Caquetá,,Milán,18460,10339
+Colombia,Caquetá,,Morelia,18479,3930
+Colombia,Caquetá,,Puerto Rico,18592,27890
+Colombia,Caquetá,,San José del Fragua,18610,13801
+Colombia,Caquetá,,San Vicente del Caguán,18753,54575
+Colombia,Caquetá,,Solano,18756,12111
+Colombia,Caquetá,,Solita,18785,6389
+Colombia,Caquetá,,Valparaíso,18860,7346
+Colombia,Cauca,,Popayán,19001,343011
+Colombia,Cauca,,Almaguer,19022,19648
+Colombia,Cauca,,Argelia,19050,28128
+Colombia,Cauca,,Balboa,19075,22648
+Colombia,Cauca,,Bolívar,19100,39731
+Colombia,Cauca,,Buenos Aires,19110,35689
+Colombia,Cauca,,Cajibío,19130,45019
+Colombia,Cauca,,Caldono,19137,43224
+Colombia,Cauca,,Caloto,19142,31552
+Colombia,Cauca,,Corinto,19212,27111
+Colombia,Cauca,,El Tambo,19256,57741
+Colombia,Cauca,,Florencia,19290,5509
+Colombia,Cauca,,Guachené,19300,20594
+Colombia,Cauca,,Guapi,19318,29540
+Colombia,Cauca,,Inzá,19355,31097
+Colombia,Cauca,,Jambaló,19364,19297
+Colombia,Cauca,,La Sierra,19392,11406
+Colombia,Cauca,,La Vega,19397,26295
+Colombia,Cauca,,López de Micay,19418,19958
+Colombia,Cauca,,Mercaderes,19450,25097
+Colombia,Cauca,,Miranda,19455,33748
+Colombia,Cauca,,Morales,19473,42017
+Colombia,Cauca,,Padilla,19513,10607
+Colombia,Cauca,,Páez,19517,49628
+Colombia,Cauca,,Patía,19532,39406
+Colombia,Cauca,,Piamonte,19533,9807
+Colombia,Cauca,,Piendamó - Tunía,19548,43961
+Colombia,Cauca,,Puerto Tejada,19573,44610
+Colombia,Cauca,,Puracé,19585,18619
+Colombia,Cauca,,Rosas,19622,12271
+Colombia,Cauca,,San Sebastián,19693,11759
+Colombia,Cauca,,Santander de Quilichao,19698,118031
+Colombia,Cauca,,Santa Rosa,19701,5675
+Colombia,Cauca,,Silvia,19743,40404
+Colombia,Cauca,,Sotará Paispamba,19760,15010
+Colombia,Cauca,,Suárez,19780,34094
+Colombia,Cauca,,Sucre,19785,10044
+Colombia,Cauca,,Timbío,19807,38091
+Colombia,Cauca,,Timbiquí,19809,28111
+Colombia,Cauca,,Toribío,19821,37582
+Colombia,Cauca,,Totoró,19824,26580
+Colombia,Cauca,,Villa Rica,19845,22156
+Colombia,Cesar,,Valledupar,20001,567593
+Colombia,Cesar,,Aguachica,20011,128425
+Colombia,Cesar,,Agustín Codazzi,20013,70929
+Colombia,Cesar,,Astrea,20032,23300
+Colombia,Cesar,,Becerril,20045,25208
+Colombia,Cesar,,Bosconia,20060,46856
+Colombia,Cesar,,Chimichagua,20175,39670
+Colombia,Cesar,,Chiriguaná,20178,32291
+Colombia,Cesar,,Curumaní,20228,43557
+Colombia,Cesar,,El Copey,20238,34993
+Colombia,Cesar,,El Paso,20250,43619
+Colombia,Cesar,,Gamarra,20295,17452
+Colombia,Cesar,,González,20310,4889
+Colombia,Cesar,,La Gloria,20383,19962
+Colombia,Cesar,,La Jagua de Ibirico,20400,54368
+Colombia,Cesar,,Manaure Balcón del Cesar,20443,11765
+Colombia,Cesar,,Pailitas,20517,21642
+Colombia,Cesar,,Pelaya,20550,24170
+Colombia,Cesar,,Pueblo Bello,20570,31317
+Colombia,Cesar,,Río de Oro,20614,19557
+Colombia,Cesar,,La Paz,20621,32358
+Colombia,Cesar,,San Alberto,20710,30644
+Colombia,Cesar,,San Diego,20750,22067
+Colombia,Cesar,,San Martín,20770,31062
+Colombia,Cesar,,Tamalameque,20787,17792
+Colombia,Córdoba,,Montería,23001,527456
+Colombia,Córdoba,,Ayapel,23068,49191
+Colombia,Córdoba,,Buenavista,23079,22777
+Colombia,Córdoba,,Canalete,23090,16563
+Colombia,Córdoba,,Cereté,23162,114106
+Colombia,Córdoba,,Chimá,23168,19019
+Colombia,Córdoba,,Chinú,23182,51639
+Colombia,Córdoba,,Ciénaga de Oro,23189,63710
+Colombia,Córdoba,,Cotorra,23300,20538
+Colombia,Córdoba,,La Apartada,23350,15806
+Colombia,Córdoba,,Lorica,23417,118451
+Colombia,Córdoba,,Los Córdobas,23419,20339
+Colombia,Córdoba,,Momil,23464,21094
+Colombia,Córdoba,,Montelíbano,23466,86647
+Colombia,Córdoba,,Moñitos,23500,32414
+Colombia,Córdoba,,Planeta Rica,23555,68822
+Colombia,Córdoba,,Pueblo Nuevo,23570,38645
+Colombia,Córdoba,,Puerto Escondido,23574,25717
+Colombia,Córdoba,,Puerto Libertador,23580,45416
+Colombia,Córdoba,,Purísima de La Concepción,23586,18581
+Colombia,Córdoba,,Sahagún,23660,116069
+Colombia,Córdoba,,San Andrés Sotavento,23670,50790
+Colombia,Córdoba,,San Antero,23672,36581
+Colombia,Córdoba,,San Bernardo del Viento,23675,40064
+Colombia,Córdoba,,San Carlos,23678,29214
+Colombia,Córdoba,,San José de Uré,23682,14693
+Colombia,Córdoba,,San Pelayo,23686,55067
+Colombia,Córdoba,,Tierralta,23807,99803
+Colombia,Córdoba,,Tuchín,23815,57021
+Colombia,Córdoba,,Valencia,23855,38545
+Colombia,Cundinamarca,,Agua de Dios,25001,14082
+Colombia,Cundinamarca,,Albán,25019,7737
+Colombia,Cundinamarca,,Anapoima,25035,17713
+Colombia,Cundinamarca,,Anolaima,25040,16554
+Colombia,Cundinamarca,,Arbeláez,25053,12598
+Colombia,Cundinamarca,,Beltrán,25086,2129
+Colombia,Cundinamarca,,Bituima,25095,2944
+Colombia,Cundinamarca,,Bojacá,25099,12189
+Colombia,Cundinamarca,,Cabrera,25120,5678
+Colombia,Cundinamarca,,Cachipay,25123,11993
+Colombia,Cundinamarca,,Cajicá,25126,101582
+Colombia,Cundinamarca,,Caparrapí,25148,14809
+Colombia,Cundinamarca,,Cáqueza,25151,20532
+Colombia,Cundinamarca,,Carmen de Carupa,25154,8995
+Colombia,Cundinamarca,,Chaguaní,25168,4959
+Colombia,Cundinamarca,,Chía,25175,163306
+Colombia,Cundinamarca,,Chipaque,25178,11388
+Colombia,Cundinamarca,,Choachí,25181,13112
+Colombia,Cundinamarca,,Chocontá,25183,24929
+Colombia,Cundinamarca,,Cogua,25200,26870
+Colombia,Cundinamarca,,Cota,25214,40316
+Colombia,Cundinamarca,,Cucunubá,25224,9187
+Colombia,Cundinamarca,,El Colegio,25245,29077
+Colombia,Cundinamarca,,El Peñón,25258,5510
+Colombia,Cundinamarca,,El Rosal,25260,26052
+Colombia,Cundinamarca,,Facatativá,25269,171926
+Colombia,Cundinamarca,,Fómeque,25279,14422
+Colombia,Cundinamarca,,Fosca,25281,6858
+Colombia,Cundinamarca,,Funza,25286,115217
+Colombia,Cundinamarca,,Fúquene,25288,5844
+Colombia,Cundinamarca,,Fusagasugá,25290,170450
+Colombia,Cundinamarca,,Gachalá,25293,5137
+Colombia,Cundinamarca,,Gachancipá,25295,20749
+Colombia,Cundinamarca,,Gachetá,25297,9891
+Colombia,Cundinamarca,,Gama,25299,3669
+Colombia,Cundinamarca,,Girardot,25307,123329
+Colombia,Cundinamarca,,Granada,25312,8478
+Colombia,Cundinamarca,,Guachetá,25317,16018
+Colombia,Cundinamarca,,Guaduas,25320,37059
+Colombia,Cundinamarca,,Guasca,25322,18569
+Colombia,Cundinamarca,,Guataquí,25324,3440
+Colombia,Cundinamarca,,Guatavita,25326,7605
+Colombia,Cundinamarca,,Guayabal de Síquima,25328,5337
+Colombia,Cundinamarca,,Guayabetal,25335,7542
+Colombia,Cundinamarca,,Gutiérrez,25339,4057
+Colombia,Cundinamarca,,Jerusalén,25368,2673
+Colombia,Cundinamarca,,Junín,25372,6827
+Colombia,Cundinamarca,,La Calera,25377,36473
+Colombia,Cundinamarca,,La Mesa,25386,40004
+Colombia,Cundinamarca,,La Palma,25394,11166
+Colombia,Cundinamarca,,La Peña,25398,6957
+Colombia,Cundinamarca,,La Vega,25402,20691
+Colombia,Cundinamarca,,Lenguazaque,25407,12113
+Colombia,Cundinamarca,,Machetá,25426,7201
+Colombia,Cundinamarca,,Madrid,25430,139005
+Colombia,Cundinamarca,,Manta,25436,4361
+Colombia,Cundinamarca,,Medina,25438,9404
+Colombia,Cundinamarca,,Mosquera,25473,155479
+Colombia,Cundinamarca,,Nariño,25483,2807
+Colombia,Cundinamarca,,Nemocón,25486,16093
+Colombia,Cundinamarca,,Nilo,25488,13148
+Colombia,Cundinamarca,,Nimaima,25489,4262
+Colombia,Cundinamarca,,Nocaima,25491,7299
+Colombia,Cundinamarca,,Venecia,25506,5033
+Colombia,Cundinamarca,,Pacho,25513,29334
+Colombia,Cundinamarca,,Paime,25518,4870
+Colombia,Cundinamarca,,Pandi,25524,5984
+Colombia,Cundinamarca,,Paratebueno,25530,10165
+Colombia,Cundinamarca,,Pasca,25535,10870
+Colombia,Cundinamarca,,Puerto Salgar,25572,18781
+Colombia,Cundinamarca,,Pulí,25580,3948
+Colombia,Cundinamarca,,Quebradanegra,25592,5583
+Colombia,Cundinamarca,,Quetame,25594,6019
+Colombia,Cundinamarca,,Quipile,25596,7364
+Colombia,Cundinamarca,,Apulo,25599,9885
+Colombia,Cundinamarca,,Ricaurte,25612,15820
+Colombia,Cundinamarca,,San Antonio del Tequendama,25645,14259
+Colombia,Cundinamarca,,San Bernardo,25649,10020
+Colombia,Cundinamarca,,San Cayetano,25653,5737
+Colombia,Cundinamarca,,San Francisco,25658,13083
+Colombia,Cundinamarca,,San Juan de Rioseco,25662,9699
+Colombia,Cundinamarca,,Sasaima,25718,12914
+Colombia,Cundinamarca,,Sesquilé,25736,13929
+Colombia,Cundinamarca,,Sibaté,25740,41054
+Colombia,Cundinamarca,,Silvania,25743,26173
+Colombia,Cundinamarca,,Simijaca,25745,15634
+Colombia,Cundinamarca,,Soacha,25754,806253
+Colombia,Cundinamarca,,Sopó,25758,31775
+Colombia,Cundinamarca,,Subachoque,25769,18064
+Colombia,Cundinamarca,,Suesca,25772,20760
+Colombia,Cundinamarca,,Supatá,25777,6231
+Colombia,Cundinamarca,,Susa,25779,7744
+Colombia,Cundinamarca,,Sutatausa,25781,7163
+Colombia,Cundinamarca,,Tabio,25785,26505
+Colombia,Cundinamarca,,Tausa,25793,9711
+Colombia,Cundinamarca,,Tena,25797,11583
+Colombia,Cundinamarca,,Tenjo,25799,26834
+Colombia,Cundinamarca,,Tibacuy,25805,5177
+Colombia,Cundinamarca,,Tibirita,25807,3742
+Colombia,Cundinamarca,,Tocaima,25815,18885
+Colombia,Cundinamarca,,Tocancipá,25817,48318
+Colombia,Cundinamarca,,Topaipí,25823,4849
+Colombia,Cundinamarca,,Ubalá,25839,9004
+Colombia,Cundinamarca,,Ubaque,25841,7971
+Colombia,Cundinamarca,,Villa de San Diego de Ubaté,25843,52218
+Colombia,Cundinamarca,,Une,25845,8330
+Colombia,Cundinamarca,,Útica,25851,5060
+Colombia,Cundinamarca,,Vergara,25862,8050
+Colombia,Cundinamarca,,Vianí,25867,5231
+Colombia,Cundinamarca,,Villagómez,25871,2063
+Colombia,Cundinamarca,,Villapinzón,25873,20735
+Colombia,Cundinamarca,,Villeta,25875,32655
+Colombia,Cundinamarca,,Viotá,25878,15739
+Colombia,Cundinamarca,,Yacopí,25885,14440
+Colombia,Cundinamarca,,Zipacón,25898,5615
+Colombia,Cundinamarca,,Zipaquirá,25899,160629
+Colombia,Chocó,,Quibdó,27001,144610
+Colombia,Chocó,,Acandí,27006,15868
+Colombia,Chocó,,Alto Baudó,27025,31267
+Colombia,Chocó,,Atrato,27050,6841
+Colombia,Chocó,,Bagadó,27073,11843
+Colombia,Chocó,,Bahía Solano,27075,11477
+Colombia,Chocó,,Bajo Baudó,27077,33930
+Colombia,Chocó,,Bojayá,27099,13719
+Colombia,Chocó,,El Cantón del San Pablo,27135,6906
+Colombia,Chocó,,Carmen del Darién,27150,22154
+Colombia,Chocó,,Cértegui,27160,6203
+Colombia,Chocó,,Condoto,27205,13928
+Colombia,Chocó,,El Carmen de Atrato,27245,9273
+Colombia,Chocó,,El Litoral del San Juan,27250,25403
+Colombia,Chocó,,Istmina,27361,33814
+Colombia,Chocó,,Juradó,27372,7535
+Colombia,Chocó,,Lloró,27413,10611
+Colombia,Chocó,,Medio Atrato,27425,12894
+Colombia,Chocó,,Medio Baudó,27430,16893
+Colombia,Chocó,,Medio San Juan,27450,11764
+Colombia,Chocó,,Nóvita,27491,10384
+Colombia,Chocó,,Nuquí,27495,18229
+Colombia,Chocó,,Río Iró,27580,5885
+Colombia,Chocó,,Río Quito,27600,9158
+Colombia,Chocó,,Riosucio,27615,63383
+Colombia,Chocó,,San José del Palmar,27660,5697
+Colombia,Chocó,,Sipí,27745,3612
+Colombia,Chocó,,Tadó,27787,20154
+Colombia,Chocó,,Unguía,27800,14551
+Colombia,Chocó,,Unión Panamericana,27810,7492
+Colombia,Huila,,Neiva,41001,384242
+Colombia,Huila,,Acevedo,41006,27138
+Colombia,Huila,,Agrado,41013,9491
+Colombia,Huila,,Aipe,41016,17547
+Colombia,Huila,,Algeciras,41020,24328
+Colombia,Huila,,Altamira,41026,4602
+Colombia,Huila,,Baraya,41078,8969
+Colombia,Huila,,Campoalegre,41132,33508
+Colombia,Huila,,Colombia,41206,7789
+Colombia,Huila,,Elías,41244,4582
+Colombia,Huila,,Garzón,41298,78726
+Colombia,Huila,,Gigante,41306,26616
+Colombia,Huila,,Guadalupe,41319,19508
+Colombia,Huila,,Hobo,41349,7841
+Colombia,Huila,,Íquira,41357,10053
+Colombia,Huila,,Isnos,41359,27543
+Colombia,Huila,,La Argentina,41378,14061
+Colombia,Huila,,La Plata,41396,66461
+Colombia,Huila,,Nátaga,41483,7028
+Colombia,Huila,,Oporapa,41503,12701
+Colombia,Huila,,Paicol,41518,7174
+Colombia,Huila,,Palermo,41524,28571
+Colombia,Huila,,Palestina,41530,12226
+Colombia,Huila,,Pital,41548,14966
+Colombia,Huila,,Pitalito,41551,135688
+Colombia,Huila,,Rivera,41615,26458
+Colombia,Huila,,Saladoblanco,41660,11405
+Colombia,Huila,,San Agustín,41668,35994
+Colombia,Huila,,Santa María,41676,11293
+Colombia,Huila,,Suaza,41770,23832
+Colombia,Huila,,Tarqui,41791,19013
+Colombia,Huila,,Tesalia,41797,11610
+Colombia,Huila,,Tello,41799,12759
+Colombia,Huila,,Teruel,41801,8699
+Colombia,Huila,,Timaná,41807,23681
+Colombia,Huila,,Villavieja,41872,7865
+Colombia,Huila,,Yaguará,41885,8305
+Colombia,La Guajira,,Riohacha,44001,226715
+Colombia,La Guajira,,Albania,44035,35785
+Colombia,La Guajira,,Barrancas,44078,43744
+Colombia,La Guajira,,Dibulla,44090,46710
+Colombia,La Guajira,,Distracción,44098,15636
+Colombia,La Guajira,,El Molino,44110,8579
+Colombia,La Guajira,,Fonseca,44279,51188
+Colombia,La Guajira,,Hatonuevo,44378,24362
+Colombia,La Guajira,,La Jagua del Pilar,44420,4146
+Colombia,La Guajira,,Maicao,44430,203769
+Colombia,La Guajira,,Manaure,44560,98601
+Colombia,La Guajira,,San Juan del Cesar,44650,55912
+Colombia,La Guajira,,Uribia,44847,195532
+Colombia,La Guajira,,Urumita,44855,12822
+Colombia,La Guajira,,Villanueva,44874,33751
+Colombia,Magdalena,,Santa Marta,47001,561281
+Colombia,Magdalena,,Algarrobo,47030,17777
+Colombia,Magdalena,,Aracataca,47053,45393
+Colombia,Magdalena,,Ariguaní,47058,34117
+Colombia,Magdalena,,Cerro de San Antonio,47161,11282
+Colombia,Magdalena,,Chibolo,47170,24932
+Colombia,Magdalena,,Ciénaga,47189,133601
+Colombia,Magdalena,,Concordia,47205,11906
+Colombia,Magdalena,,El Banco,47245,74147
+Colombia,Magdalena,,El Piñón,47258,25694
+Colombia,Magdalena,,El Retén,47268,21875
+Colombia,Magdalena,,Fundación,47288,75067
+Colombia,Magdalena,,Guamal,47318,30354
+Colombia,Magdalena,,Nueva Granada,47460,22349
+Colombia,Magdalena,,Pedraza,47541,10544
+Colombia,Magdalena,,Pijiño del Carmen,47545,13675
+Colombia,Magdalena,,Pivijay,47551,42136
+Colombia,Magdalena,,Plato,47555,70559
+Colombia,Magdalena,,Puebloviejo,47570,34212
+Colombia,Magdalena,,Remolino,47605,12939
+Colombia,Magdalena,,Sabanas de San Ángel,47660,17662
+Colombia,Magdalena,,Salamina,47675,12138
+Colombia,Magdalena,,San Sebastián de Buenavista,47692,22375
+Colombia,Magdalena,,San Zenón,47703,13465
+Colombia,Magdalena,,Santa Ana,47707,27959
+Colombia,Magdalena,,Santa Bárbara de Pinto,47720,11739
+Colombia,Magdalena,,Sitionuevo,47745,30855
+Colombia,Magdalena,,Tenerife,47798,14922
+Colombia,Magdalena,,Zapayán,47960,11034
+Colombia,Magdalena,,Zona Bananera,47980,77793
+Colombia,Meta,,Villavicencio,50001,585858
+Colombia,Meta,,Acacías,50006,96750
+Colombia,Meta,,Barranca de Upía,50110,7181
+Colombia,Meta,,Cabuyaro,50124,6652
+Colombia,Meta,,Castilla la Nueva,50150,15896
+Colombia,Meta,,Cubarral,50223,7825
+Colombia,Meta,,Cumaral,50226,25201
+Colombia,Meta,,El Calvario,50245,1905
+Colombia,Meta,,El Castillo,50251,8665
+Colombia,Meta,,El Dorado,50270,4341
+Colombia,Meta,,Fuente de Oro,50287,13347
+Colombia,Meta,,Granada,50313,76058
+Colombia,Meta,,Guamal,50318,15593
+Colombia,Meta,,Mapiripán,50325,7573
+Colombia,Meta,,Mesetas,50330,12370
+Colombia,Meta,,La Macarena,50350,29267
+Colombia,Meta,,Uribe,50370,10124
+Colombia,Meta,,Lejanías,50400,12550
+Colombia,Meta,,Puerto Concordia,50450,9171
+Colombia,Meta,,Puerto Gaitán,50568,46127
+Colombia,Meta,,Puerto López,50573,33556
+Colombia,Meta,,Puerto Lleras,50577,11461
+Colombia,Meta,,Puerto Rico,50590,13832
+Colombia,Meta,,Restrepo,50606,20176
+Colombia,Meta,,San Carlos de Guaroa,50680,13620
+Colombia,Meta,,San Juan de Arama,50683,9993
+Colombia,Meta,,San Juanito,50686,1415
+Colombia,Meta,,San Martín,50689,29867
+Colombia,Meta,,Vistahermosa,50711,19392
+Colombia,Nariño,,Pasto,52001,413484
+Colombia,Nariño,,Albán,52019,10070
+Colombia,Nariño,,Aldana,52022,7769
+Colombia,Nariño,,Ancuya,52036,9108
+Colombia,Nariño,,Arboleda,52051,9146
+Colombia,Nariño,,Barbacoas,52079,58608
+Colombia,Nariño,,Belén,52083,6636
+Colombia,Nariño,,Buesaco,52110,25063
+Colombia,Nariño,,Colón,52203,8904
+Colombia,Nariño,,Consacá,52207,14480
+Colombia,Nariño,,Contadero,52210,7618
+Colombia,Nariño,,Córdoba,52215,16338
+Colombia,Nariño,,Cuaspud Carlosama,52224,9675
+Colombia,Nariño,,Cumbal,52227,38792
+Colombia,Nariño,,Cumbitara,52233,6188
+Colombia,Nariño,,Chachagüí,52240,15949
+Colombia,Nariño,,El Charco,52250,23249
+Colombia,Nariño,,El Peñol,52254,7776
+Colombia,Nariño,,El Rosario,52256,12935
+Colombia,Nariño,,El Tablón de Gómez,52258,15092
+Colombia,Nariño,,El Tambo,52260,14900
+Colombia,Nariño,,Funes,52287,7535
+Colombia,Nariño,,Guachucal,52317,20466
+Colombia,Nariño,,Guaitarilla,52320,11990
+Colombia,Nariño,,Gualmatán,52323,7398
+Colombia,Nariño,,Iles,52352,7995
+Colombia,Nariño,,Imués,52354,7994
+Colombia,Nariño,,Ipiales,52356,121546
+Colombia,Nariño,,La Cruz,52378,19528
+Colombia,Nariño,,La Florida,52381,10516
+Colombia,Nariño,,La Llanada,52385,6683
+Colombia,Nariño,,La Tola,52390,7709
+Colombia,Nariño,,La Unión,52399,33456
+Colombia,Nariño,,Leiva,52405,10207
+Colombia,Nariño,,Linares,52411,10592
+Colombia,Nariño,,Los Andes,52418,9809
+Colombia,Nariño,,Magüí,52427,26143
+Colombia,Nariño,,Mallama,52435,9440
+Colombia,Nariño,,Mosquera,52473,12625
+Colombia,Nariño,,Nariño,52480,4545
+Colombia,Nariño,,Olaya Herrera,52490,26469
+Colombia,Nariño,,Ospina,52506,7439
+Colombia,Nariño,,Francisco Pizarro,52520,14944
+Colombia,Nariño,,Policarpa,52540,10386
+Colombia,Nariño,,Potosí,52560,10777
+Colombia,Nariño,,Providencia,52565,5818
+Colombia,Nariño,,Puerres,52573,8924
+Colombia,Nariño,,Pupiales,52585,18277
+Colombia,Nariño,,Ricaurte,52612,20676
+Colombia,Nariño,,Roberto Payán,52621,13328
+Colombia,Nariño,,Samaniego,52678,30137
+Colombia,Nariño,,Sandoná,52683,21386
+Colombia,Nariño,,San Bernardo,52685,9644
+Colombia,Nariño,,San Lorenzo,52687,19392
+Colombia,Nariño,,San Pablo,52693,15941
+Colombia,Nariño,,San Pedro de Cartago,52694,7167
+Colombia,Nariño,,Santa Bárbara,52696,14144
+Colombia,Nariño,,Santacruz,52699,11352
+Colombia,Nariño,,Sapuyes,52720,7678
+Colombia,Nariño,,Taminango,52786,18629
+Colombia,Nariño,,Tangua,52788,14162
+Colombia,Nariño,,San Andrés de Tumaco,52835,267010
+Colombia,Nariño,,Túquerres,52838,46757
+Colombia,Nariño,,Yacuanquer,52885,11496
+Colombia,Norte de Santander,,San José de Cúcuta,54001,812176
+Colombia,Norte de Santander,,Ábrego,54003,35936
+Colombia,Norte de Santander,,Arboledas,54051,11028
+Colombia,Norte de Santander,,Bochalema,54099,9385
+Colombia,Norte de Santander,,Bucarasica,54109,7263
+Colombia,Norte de Santander,,Cácota,54125,3181
+Colombia,Norte de Santander,,Cáchira,54128,12500
+Colombia,Norte de Santander,,Chinácota,54172,19845
+Colombia,Norte de Santander,,Chitagá,54174,13330
+Colombia,Norte de Santander,,Convención,54206,21175
+Colombia,Norte de Santander,,Cucutilla,54223,9280
+Colombia,Norte de Santander,,Durania,54239,5197
+Colombia,Norte de Santander,,El Carmen,54245,15080
+Colombia,Norte de Santander,,El Tarra,54250,23521
+Colombia,Norte de Santander,,El Zulia,54261,30816
+Colombia,Norte de Santander,,Gramalote,54313,8346
+Colombia,Norte de Santander,,Hacarí,54344,11559
+Colombia,Norte de Santander,,Herrán,54347,7841
+Colombia,Norte de Santander,,Labateca,54377,7189
+Colombia,Norte de Santander,,La Esperanza,54385,13144
+Colombia,Norte de Santander,,La Playa,54398,8741
+Colombia,Norte de Santander,,Los Patios,54405,103733
+Colombia,Norte de Santander,,Lourdes,54418,4537
+Colombia,Norte de Santander,,Mutiscua,54480,4843
+Colombia,Norte de Santander,,Ocaña,54498,135344
+Colombia,Norte de Santander,,Pamplona,54518,56894
+Colombia,Norte de Santander,,Pamplonita,54520,6239
+Colombia,Norte de Santander,,Puerto Santander,54553,9913
+Colombia,Norte de Santander,,Ragonvalia,54599,6751
+Colombia,Norte de Santander,,Salazar,54660,11664
+Colombia,Norte de Santander,,San Calixto,54670,14496
+Colombia,Norte de Santander,,San Cayetano,54673,8102
+Colombia,Norte de Santander,,Santiago,54680,3861
+Colombia,Norte de Santander,,Sardinata,54720,28989
+Colombia,Norte de Santander,,Silos,54743,7127
+Colombia,Norte de Santander,,Teorama,54800,18731
+Colombia,Norte de Santander,,Tibú,54810,62151
+Colombia,Norte de Santander,,Toledo,54820,17714
+Colombia,Norte de Santander,,Villa Caro,54871,5727
+Colombia,Norte de Santander,,Villa del Rosario,54874,116221
+Colombia,Quindio,,Armenia,63001,309474
+Colombia,Quindio,,Buenavista,63111,3237
+Colombia,Quindio,,Calarcá,63130,76398
+Colombia,Quindio,,Circasia,63190,29650
+Colombia,Quindio,,Córdoba,63212,5934
+Colombia,Quindio,,Filandia,63272,12654
+Colombia,Quindio,,Génova,63302,7773
+Colombia,Quindio,,La Tebaida,63401,35189
+Colombia,Quindio,,Montenegro,63470,38460
+Colombia,Quindio,,Pijao,63548,5452
+Colombia,Quindio,,Quimbaya,63594,32040
+Colombia,Quindio,,Salento,63690,9787
+Colombia,Risaralda,,Pereira,66001,482483
+Colombia,Risaralda,,Apía,66045,12637
+Colombia,Risaralda,,Balboa,66075,6528
+Colombia,Risaralda,,Belén de Umbría,66088,25317
+Colombia,Risaralda,,Dosquebradas,66170,225939
+Colombia,Risaralda,,Guática,66318,12435
+Colombia,Risaralda,,La Celia,66383,7660
+Colombia,Risaralda,,La Virginia,66400,28540
+Colombia,Risaralda,,Marsella,66440,17234
+Colombia,Risaralda,,Mistrató,66456,17557
+Colombia,Risaralda,,Pueblo Rico,66572,16789
+Colombia,Risaralda,,Quinchía,66594,27939
+Colombia,Risaralda,,Santa Rosa de Cabal,66682,79960
+Colombia,Risaralda,,Santuario,66687,12861
+Colombia,Santander,,Bucaramanga,68001,619703
+Colombia,Santander,,Aguada,68013,1954
+Colombia,Santander,,Albania,68020,4320
+Colombia,Santander,,Aratoca,68051,8715
+Colombia,Santander,,Barbosa,68077,33149
+Colombia,Santander,,Barichara,68079,11163
+Colombia,Santander,,Barrancabermeja,68081,216326
+Colombia,Santander,,Betulia,68092,6279
+Colombia,Santander,,Bolívar,68101,11910
+Colombia,Santander,,Cabrera,68121,2025
+Colombia,Santander,,California,68132,2262
+Colombia,Santander,,Capitanejo,68147,5752
+Colombia,Santander,,Carcasí,68152,4458
+Colombia,Santander,,Cepitá,68160,2128
+Colombia,Santander,,Cerrito,68162,7112
+Colombia,Santander,,Charalá,68167,12828
+Colombia,Santander,,Charta,68169,3032
+Colombia,Santander,,Chimá,68176,3005
+Colombia,Santander,,Chipatá,68179,5361
+Colombia,Santander,,Cimitarra,68190,35747
+Colombia,Santander,,Concepción,68207,6040
+Colombia,Santander,,Confines,68209,3274
+Colombia,Santander,,Contratación,68211,3858
+Colombia,Santander,,Coromoro,68217,5296
+Colombia,Santander,,Curití,68229,13326
+Colombia,Santander,,El Carmen de Chucurí,68235,22596
+Colombia,Santander,,El Guacamayo,68245,2292
+Colombia,Santander,,El Peñón,68250,5400
+Colombia,Santander,,El Playón,68255,14214
+Colombia,Santander,,Encino,68264,2737
+Colombia,Santander,,Enciso,68266,3657
+Colombia,Santander,,Florián,68271,6084
+Colombia,Santander,,Floridablanca,68276,339490
+Colombia,Santander,,Galán,68296,3031
+Colombia,Santander,,Gámbita,68298,4218
+Colombia,Santander,,Girón,68307,175720
+Colombia,Santander,,Guaca,68318,6297
+Colombia,Santander,,Guadalupe,68320,4760
+Colombia,Santander,,Guapotá,68322,2509
+Colombia,Santander,,Guavatá,68324,4464
+Colombia,Santander,,Güepsa,68327,5399
+Colombia,Santander,,Hato,68344,2420
+Colombia,Santander,,Jesús María,68368,3457
+Colombia,Santander,,Jordán,68370,1396
+Colombia,Santander,,La Belleza,68377,6684
+Colombia,Santander,,Landázuri,68385,10717
+Colombia,Santander,,La Paz,68397,5236
+Colombia,Santander,,Lebrija,68406,46053
+Colombia,Santander,,Los Santos,68418,15503
+Colombia,Santander,,Macaravita,68425,2265
+Colombia,Santander,,Málaga,68432,21728
+Colombia,Santander,,Matanza,68444,5345
+Colombia,Santander,,Mogotes,68464,10897
+Colombia,Santander,,Molagavita,68468,4325
+Colombia,Santander,,Ocamonte,68498,6201
+Colombia,Santander,,Oiba,68500,11136
+Colombia,Santander,,Onzaga,68502,4306
+Colombia,Santander,,Palmar,68522,1491
+Colombia,Santander,,Palmas del Socorro,68524,2664
+Colombia,Santander,,Páramo,68533,4925
+Colombia,Santander,,Piedecuesta,68547,192193
+Colombia,Santander,,Pinchote,68549,5526
+Colombia,Santander,,Puente Nacional,68572,15576
+Colombia,Santander,,Puerto Parra,68573,7971
+Colombia,Santander,,Puerto Wilches,68575,35915
+Colombia,Santander,,Rionegro,68615,27116
+Colombia,Santander,,Sabana de Torres,68655,34946
+Colombia,Santander,,San Andrés,68669,9161
+Colombia,Santander,,San Benito,68673,3076
+Colombia,Santander,,San Gil,68679,63602
+Colombia,Santander,,San Joaquín,68682,2307
+Colombia,Santander,,San José de Miranda,68684,4467
+Colombia,Santander,,San Miguel,68686,2692
+Colombia,Santander,,San Vicente de Chucurí,68689,36697
+Colombia,Santander,,Santa Bárbara,68705,2530
+Colombia,Santander,,Santa Helena del Opón,68720,3572
+Colombia,Santander,,Simacota,68745,10788
+Colombia,Santander,,Socorro,68755,35936
+Colombia,Santander,,Suaita,68770,10691
+Colombia,Santander,,Sucre,68773,7602
+Colombia,Santander,,Suratá,68780,4135
+Colombia,Santander,,Tona,68820,7656
+Colombia,Santander,,Valle de San José,68855,6425
+Colombia,Santander,,Vélez,68861,26342
+Colombia,Santander,,Vetas,68867,2345
+Colombia,Santander,,Villanueva,68872,8818
+Colombia,Santander,,Zapatoca,68895,10011
+Colombia,Sucre,,Sincelejo,70001,314233
+Colombia,Sucre,,Buenavista,70110,11361
+Colombia,Sucre,,Caimito,70124,17181
+Colombia,Sucre,,Coloso,70204,9428
+Colombia,Sucre,,Corozal,70215,71381
+Colombia,Sucre,,Coveñas,70221,21420
+Colombia,Sucre,,Chalán,70230,4841
+Colombia,Sucre,,El Roble,70233,10437
+Colombia,Sucre,,Galeras,70235,24554
+Colombia,Sucre,,Guaranda,70265,19170
+Colombia,Sucre,,La Unión,70400,14474
+Colombia,Sucre,,Los Palmitos,70418,24924
+Colombia,Sucre,,Majagual,70429,42142
+Colombia,Sucre,,Morroa,70473,16565
+Colombia,Sucre,,Ovejas,70508,24131
+Colombia,Sucre,,Palmito,70523,16444
+Colombia,Sucre,,Sampués,70670,53227
+Colombia,Sucre,,San Benito Abad,70678,31306
+Colombia,Sucre,,San Juan de Betulia,70702,14476
+Colombia,Sucre,,San Marcos,70708,62361
+Colombia,Sucre,,San Onofre,70713,57051
+Colombia,Sucre,,San Pedro,70717,20308
+Colombia,Sucre,,San Luis de Sincé,70742,33430
+Colombia,Sucre,,Sucre,70771,32983
+Colombia,Sucre,,Santiago de Tolú,70820,34829
+Colombia,Sucre,,Tolú Viejo,70823,23387
+Colombia,Tolima,,Ibagué,73001,544132
+Colombia,Tolima,,Alpujarra,73024,4739
+Colombia,Tolima,,Alvarado,73026,9334
+Colombia,Tolima,,Ambalema,73030,6900
+Colombia,Tolima,,Anzoátegui,73043,10589
+Colombia,Tolima,,Armero,73055,13543
+Colombia,Tolima,,Ataco,73067,20116
+Colombia,Tolima,,Cajamarca,73124,19408
+Colombia,Tolima,,Carmen de Apicalá,73148,11211
+Colombia,Tolima,,Casabianca,73152,6436
+Colombia,Tolima,,Chaparral,73168,54809
+Colombia,Tolima,,Coello,73200,8524
+Colombia,Tolima,,Coyaima,73217,23636
+Colombia,Tolima,,Cunday,73226,8801
+Colombia,Tolima,,Dolores,73236,8648
+Colombia,Tolima,,Espinal,73268,75257
+Colombia,Tolima,,Falan,73270,7955
+Colombia,Tolima,,Flandes,73275,30317
+Colombia,Tolima,,Fresno,73283,32165
+Colombia,Tolima,,Guamo,73319,34880
+Colombia,Tolima,,Herveo,73347,7703
+Colombia,Tolima,,Honda,73349,26144
+Colombia,Tolima,,Icononzo,73352,12634
+Colombia,Tolima,,Lérida,73408,18777
+Colombia,Tolima,,Líbano,73411,38066
+Colombia,Tolima,,Mariquita,73443,39526
+Colombia,Tolima,,Melgar,73449,38156
+Colombia,Tolima,,Murillo,73461,4479
+Colombia,Tolima,,Natagaima,73483,14923
+Colombia,Tolima,,Ortega,73504,34847
+Colombia,Tolima,,Palocabildo,73520,9762
+Colombia,Tolima,,Piedras,73547,7076
+Colombia,Tolima,,Planadas,73555,27453
+Colombia,Tolima,,Prado,73563,8818
+Colombia,Tolima,,Purificación,73585,24070
+Colombia,Tolima,,Rioblanco,73616,23429
+Colombia,Tolima,,Roncesvalles,73622,5652
+Colombia,Tolima,,Rovira,73624,22495
+Colombia,Tolima,,Saldaña,73671,14936
+Colombia,Tolima,,San Antonio,73675,13535
+Colombia,Tolima,,San Luis,73678,13478
+Colombia,Tolima,,Santa Isabel,73686,5815
+Colombia,Tolima,,Suárez,73770,3934
+Colombia,Tolima,,Valle de San Juan,73854,5545
+Colombia,Tolima,,Venadillo,73861,13266
+Colombia,Tolima,,Villahermosa,73870,9801
+Colombia,Tolima,,Villarrica,73873,5228
+Colombia,Valle del Cauca,,Cali,76001,2283846
+Colombia,Valle del Cauca,,Alcalá,76020,14890
+Colombia,Valle del Cauca,,Andalucía,76036,23029
+Colombia,Valle del Cauca,,Ansermanuevo,76041,18345
+Colombia,Valle del Cauca,,Argelia,76054,5550
+Colombia,Valle del Cauca,,Bolívar,76100,16472
+Colombia,Valle del Cauca,,Buenaventura,76109,324130
+Colombia,Valle del Cauca,,Guadalajara de Buga,76111,133690
+Colombia,Valle del Cauca,,Bugalagrande,76113,26121
+Colombia,Valle del Cauca,,Caicedonia,76122,29596
+Colombia,Valle del Cauca,,Calima,76126,19420
+Colombia,Valle del Cauca,,Candelaria,76130,94103
+Colombia,Valle del Cauca,,Cartago,76147,143281
+Colombia,Valle del Cauca,,Dagua,76233,49793
+Colombia,Valle del Cauca,,El Águila,76243,9157
+Colombia,Valle del Cauca,,El Cairo,76246,7056
+Colombia,Valle del Cauca,,El Cerrito,76248,57960
+Colombia,Valle del Cauca,,El Dovio,76250,9220
+Colombia,Valle del Cauca,,Florida,76275,58522
+Colombia,Valle del Cauca,,Ginebra,76306,25104
+Colombia,Valle del Cauca,,Guacarí,76318,35513
+Colombia,Valle del Cauca,,Jamundí,76364,181478
+Colombia,Valle del Cauca,,La Cumbre,76377,17342
+Colombia,Valle del Cauca,,La Unión,76400,34776
+Colombia,Valle del Cauca,,La Victoria,76403,12501
+Colombia,Valle del Cauca,,Obando,76497,12640
+Colombia,Valle del Cauca,,Palmira,76520,359549
+Colombia,Valle del Cauca,,Pradera,76563,49416
+Colombia,Valle del Cauca,,Restrepo,76606,16541
+Colombia,Valle del Cauca,,Riofrío,76616,15991
+Colombia,Valle del Cauca,,Roldanillo,76622,37773
+Colombia,Valle del Cauca,,San Pedro,76670,18136
+Colombia,Valle del Cauca,,Sevilla,76736,43794
+Colombia,Valle del Cauca,,Toro,76823,14995
+Colombia,Valle del Cauca,,Trujillo,76828,19748
+Colombia,Valle del Cauca,,Tuluá,76834,232775
+Colombia,Valle del Cauca,,Ulloa,76845,5831
+Colombia,Valle del Cauca,,Versalles,76863,7461
+Colombia,Valle del Cauca,,Vijes,76869,13291
+Colombia,Valle del Cauca,,Yotoco,76890,16468
+Colombia,Valle del Cauca,,Yumbo,76892,108869
+Colombia,Valle del Cauca,,Zarzal,76895,43194
+Colombia,Arauca,,Arauca,81001,100690
+Colombia,Arauca,,Arauquita,81065,63432
+Colombia,Arauca,,Cravo Norte,81220,4576
+Colombia,Arauca,,Fortul,81300,24198
+Colombia,Arauca,,Puerto Rondón,81591,5235
+Colombia,Arauca,,Saravena,81736,65107
+Colombia,Arauca,,Tame,81794,54160
+Colombia,Casanare,,Yopal,85001,194079
+Colombia,Casanare,,Aguazul,85010,41166
+Colombia,Casanare,,Chámeza,85015,2531
+Colombia,Casanare,,Hato Corozal,85125,13866
+Colombia,Casanare,,La Salina,85136,1437
+Colombia,Casanare,,Maní,85139,18304
+Colombia,Casanare,,Monterrey,85162,19474
+Colombia,Casanare,,Nunchía,85225,9987
+Colombia,Casanare,,Orocué,85230,14075
+Colombia,Casanare,,Paz de Ariporo,85250,40991
+Colombia,Casanare,,Pore,85263,12875
+Colombia,Casanare,,Recetor,85279,1592
+Colombia,Casanare,,Sabanalarga,85300,4078
+Colombia,Casanare,,Sácama,85315,2367
+Colombia,Casanare,,San Luis de Palenque,85325,9031
+Colombia,Casanare,,Támara,85400,7076
+Colombia,Casanare,,Tauramena,85410,26791
+Colombia,Casanare,,Trinidad,85430,15197
+Colombia,Casanare,,Villanueva,85440,40227
+Colombia,Putumayo,,Mocoa,86001,64807
+Colombia,Putumayo,,Colón,86219,5893
+Colombia,Putumayo,,Orito,86320,40980
+Colombia,Putumayo,,Puerto Asís,86568,73141
+Colombia,Putumayo,,Puerto Caicedo,86569,17043
+Colombia,Putumayo,,Puerto Guzmán,86571,38586
+Colombia,Putumayo,,Puerto Leguízamo,86573,32718
+Colombia,Putumayo,,Sibundoy,86749,16997
+Colombia,Putumayo,,San Francisco,86755,6332
+Colombia,Putumayo,,San Miguel,86757,21293
+Colombia,Putumayo,,Santiago,86760,7831
+Colombia,Putumayo,,Valle del Guamuez,86865,35984
+Colombia,Putumayo,,Villagarzón,86885,27111
+Colombia,Archipiélago de San Andrés,,San Andrés,88001,56309
+Colombia,Archipiélago de San Andrés,,Providencia,88564,5940
+Colombia,Amazonas,,Leticia,91001,54927
+Colombia,Amazonas,,El Encanto (ANM),91263,2152
+Colombia,Amazonas,,La Chorrera (ANM),91405,3204
+Colombia,Amazonas,,La Pedrera (ANM),91407,4254
+Colombia,Amazonas,,La Victoria (ANM),91430,694
+Colombia,Amazonas,,Miriti - Paraná (ANM),91460,1938
+Colombia,Amazonas,,Puerto Alegría (ANM),91530,792
+Colombia,Amazonas,,Puerto Arica (ANM),91536,1093
+Colombia,Amazonas,,Puerto Nariño,91540,10928
+Colombia,Amazonas,,Puerto Santander (ANM),91669,1961
+Colombia,Amazonas,,Tarapacá (ANM),91798,4375
+Colombia,Guainía,,Inírida,94001,37917
+Colombia,Guainía,,Barrancominas*,94343,11085
+Colombia,Guainía,,Mapiripana (ANM),94663,0
+Colombia,Guainía,,San Felipe (ANM),94883,2002
+Colombia,Guainía,,Puerto Colombia (ANM),94884,2215
+Colombia,Guainía,,La Guadalupe (ANM),94885,334
+Colombia,Guainía,,Cacahual (ANM),94886,1010
+Colombia,Guainía,,Pana Pana (ANM),94887,2324
+Colombia,Guainía,,Morichal (ANM),94888,1047
+Colombia,Guaviare,,San José del Guaviare,95001,63208
+Colombia,Guaviare,,Calamar,95015,11618
+Colombia,Guaviare,,El Retorno,95025,17478
+Colombia,Guaviare,,Miraflores,95200,8193
+Colombia,Vaupés,,Mitú,97001,34886
+Colombia,Vaupés,,Carurú,97161,3600
+Colombia,Vaupés,,Pacoa (ANM),97511,4809
+Colombia,Vaupés,,Taraira,97666,2608
+Colombia,Vaupés,,Papunahua (ANM),97777,825
+Colombia,Vaupés,,Yavaraté (ANM),97889,1233
+Colombia,Vichada,,Puerto Carreño,99001,22614
+Colombia,Vichada,,La Primavera,99524,11205
+Colombia,Vichada,,Santa Rosalía,99624,4640
+Colombia,Vichada,,Cumaribo,99773,87018
+Perú,Amazonas,Chachapoyas,Chachapoyas,10101,41335
+Perú,Amazonas,Chachapoyas,Asunción,10102,271
+Perú,Amazonas,Chachapoyas,Balsas,10103,1137
+Perú,Amazonas,Chachapoyas,Cheto,10104,713
+Perú,Amazonas,Chachapoyas,Chiliquín,10105,561
+Perú,Amazonas,Chachapoyas,Chuquibamba,10106,1884
+Perú,Amazonas,Chachapoyas,Granada,10107,549
+Perú,Amazonas,Chachapoyas,Huancas,10108,1526
+Perú,Amazonas,Chachapoyas,La Jalca,10109,3418
+Perú,Amazonas,Chachapoyas,Leimebamba,10110,3738
+Perú,Amazonas,Chachapoyas,Levanto,10111,774
+Perú,Amazonas,Chachapoyas,Magdalena,10112,900
+Perú,Amazonas,Chachapoyas,Mariscal Castilla,10113,1631
+Perú,Amazonas,Chachapoyas,Molinopampa,10114,2201
+Perú,Amazonas,Chachapoyas,Montevideo,10115,459
+Perú,Amazonas,Chachapoyas,Olleros,10116,446
+Perú,Amazonas,Chachapoyas,Quinjalca,10117,763
+Perú,Amazonas,Chachapoyas,San Francisco De Daguas,10118,332
+Perú,Amazonas,Chachapoyas,San Isidro De Maino,10119,570
+Perú,Amazonas,Chachapoyas,Soloco,10120,1224
+Perú,Amazonas,Chachapoyas,Sonche,10121,286
+Perú,Amazonas,Bagua,Bagua,10201,30790
+Perú,Amazonas,Bagua,Aramango,10202,9613
+Perú,Amazonas,Bagua,Copallín,10203,4213
+Perú,Amazonas,Bagua,El Parco,10204,1251
+Perú,Amazonas,Bagua,Imaza,10205,34240
+Perú,Amazonas,Bagua,La Peca,10206,6226
+Perú,Amazonas,Bongará,Jumbilla,10301,1232
+Perú,Amazonas,Bongará,Chisquilla,10302,308
+Perú,Amazonas,Bongará,Churuja,10303,292
+Perú,Amazonas,Bongará,Corosha,10304,849
+Perú,Amazonas,Bongará,Cuispes,10305,638
+Perú,Amazonas,Bongará,Florida,10306,6283
+Perú,Amazonas,Bongará,Jazan,10307,7588
+Perú,Amazonas,Bongará,Recta,10308,208
+Perú,Amazonas,Bongará,San Carlos,10309,606
+Perú,Amazonas,Bongará,Shipasbamba,10310,1748
+Perú,Amazonas,Bongará,Valera,10311,715
+Perú,Amazonas,Bongará,Yambrasbamba,10312,5513
+Perú,Amazonas,Condorcanqui,Nieva,10401,19600
+Perú,Amazonas,Condorcanqui,El Cenepa,10402,13578
+Perú,Amazonas,Condorcanqui,Río Santiago,10403,19233
+Perú,Amazonas,Luya,Lámud,10501,2305
+Perú,Amazonas,Luya,Camporredondo,10502,7729
+Perú,Amazonas,Luya,Cocabamba,10503,1913
+Perú,Amazonas,Luya,Colcamar,10504,1739
+Perú,Amazonas,Luya,Conila,10505,1819
+Perú,Amazonas,Luya,Inguilpata,10506,417
+Perú,Amazonas,Luya,Longuita,10507,833
+Perú,Amazonas,Luya,Lonya Chico,10508,775
+Perú,Amazonas,Luya,Luya,10509,3957
+Perú,Amazonas,Luya,Luya Viejo,10510,388
+Perú,Amazonas,Luya,María,10511,724
+Perú,Amazonas,Luya,Ocalli,10512,3966
+Perú,Amazonas,Luya,Ocumal,10513,3554
+Perú,Amazonas,Luya,Pisuquia,10514,4784
+Perú,Amazonas,Luya,Providencia,10515,1320
+Perú,Amazonas,Luya,San Cristóbal,10516,490
+Perú,Amazonas,Luya,San Francisco Del Yeso,10517,688
+Perú,Amazonas,Luya,San Jerónimo,10518,524
+Perú,Amazonas,Luya,San Juan De Lopecancha,10519,388
+Perú,Amazonas,Luya,Santa Catalina,10520,2222
+Perú,Amazonas,Luya,Santo Tomás,10521,2793
+Perú,Amazonas,Luya,Tingo,10522,1388
+Perú,Amazonas,Luya,Trita,10523,1463
+Perú,Amazonas,Rodríguez De Mendoza,San Nicolás,10601,6660
+Perú,Amazonas,Rodríguez De Mendoza,Chirimoto,10602,2996
+Perú,Amazonas,Rodríguez De Mendoza,Cochamal,10603,645
+Perú,Amazonas,Rodríguez De Mendoza,Huambo,10604,2363
+Perú,Amazonas,Rodríguez De Mendoza,Limabamba,10605,2242
+Perú,Amazonas,Rodríguez De Mendoza,Longar,10606,1567
+Perú,Amazonas,Rodríguez De Mendoza,Mariscal Benavides,10607,1477
+Perú,Amazonas,Rodríguez De Mendoza,Milpuc,10608,393
+Perú,Amazonas,Rodríguez De Mendoza,Omia,10609,10328
+Perú,Amazonas,Rodríguez De Mendoza,Santa Rosa,10610,524
+Perú,Amazonas,Rodríguez De Mendoza,Totora,10611,284
+Perú,Amazonas,Rodríguez De Mendoza,Vista Alegre,10612,4955
+Perú,Amazonas,Utcubamba,Bagua Grande,10701,59952
+Perú,Amazonas,Utcubamba,Cajaruro,10702,23221
+Perú,Amazonas,Utcubamba,Cumba,10703,8449
+Perú,Amazonas,Utcubamba,El Milagro,10704,6576
+Perú,Amazonas,Utcubamba,Jamalca,10705,6934
+Perú,Amazonas,Utcubamba,Lonya Grande,10706,11681
+Perú,Amazonas,Utcubamba,Yamón,10707,3255
+Perú,Áncash,Huaraz,Huaraz,20101,70876
+Perú,Áncash,Huaraz,Cochabamba,20102,1648
+Perú,Áncash,Huaraz,Colcabamba,20103,239
+Perú,Áncash,Huaraz,Huanchay,20104,1580
+Perú,Áncash,Huaraz,Independencia,20105,93922
+Perú,Áncash,Huaraz,Jangas,20106,5344
+Perú,Áncash,Huaraz,La Libertad,20107,1084
+Perú,Áncash,Huaraz,Olleros,20108,2487
+Perú,Áncash,Huaraz,Pampas Grande,20109,956
+Perú,Áncash,Huaraz,Pariacoto,20110,5391
+Perú,Áncash,Huaraz,Pira,20111,3428
+Perú,Áncash,Huaraz,Tarica,20112,8133
+Perú,Áncash,Aija,Aija,20201,2169
+Perú,Áncash,Aija,Coris,20202,1424
+Perú,Áncash,Aija,Huacllán,20203,296
+Perú,Áncash,Aija,La Merced,20204,1315
+Perú,Áncash,Aija,Succha,20205,674
+Perú,Áncash,Antonio Raymondi,Llamellín,20301,3216
+Perú,Áncash,Antonio Raymondi,Aczo,20302,1752
+Perú,Áncash,Antonio Raymondi,Chaccho,20303,1225
+Perú,Áncash,Antonio Raymondi,Chingas,20304,1725
+Perú,Áncash,Antonio Raymondi,Mirgas,20305,3832
+Perú,Áncash,Antonio Raymondi,San Juan De Rontoy,20306,1055
+Perú,Áncash,Asunción,Chacas,20401,4521
+Perú,Áncash,Asunción,Acochaca,20402,2649
+Perú,Áncash,Bolognesi,Chiquián,20501,3851
+Perú,Áncash,Bolognesi,Abelardo Pardo Lezameta,20502,189
+Perú,Áncash,Bolognesi,Antonio Raymondi,20503,896
+Perú,Áncash,Bolognesi,Aquia,20504,1782
+Perú,Áncash,Bolognesi,Cajacay,20505,1909
+Perú,Áncash,Bolognesi,Canis,20506,221
+Perú,Áncash,Bolognesi,Colquioc,20507,2027
+Perú,Áncash,Bolognesi,Huallanca,20508,6064
+Perú,Áncash,Bolognesi,Huasta,20509,1101
+Perú,Áncash,Bolognesi,Huayllacayán,20510,1212
+Perú,Áncash,Bolognesi,La Primavera,20511,359
+Perú,Áncash,Bolognesi,Mangas,20512,455
+Perú,Áncash,Bolognesi,Pacllón,20513,722
+Perú,Áncash,Bolognesi,San Miguel De Corpanqui,20514,392
+Perú,Áncash,Bolognesi,Ticllos,20515,534
+Perú,Áncash,Carhuaz,Carhuaz,20601,17083
+Perú,Áncash,Carhuaz,Acopampa,20602,2826
+Perú,Áncash,Carhuaz,Amashca,20603,1453
+Perú,Áncash,Carhuaz,Anta,20604,2617
+Perú,Áncash,Carhuaz,Ataquero,20605,1636
+Perú,Áncash,Carhuaz,Marcará,20606,11249
+Perú,Áncash,Carhuaz,Pariahuanca,20607,1444
+Perú,Áncash,Carhuaz,San Miguel De Aco,20608,2487
+Perú,Áncash,Carhuaz,Shilla,20609,2858
+Perú,Áncash,Carhuaz,Tinco,20610,4099
+Perú,Áncash,Carhuaz,Yungar,20611,3304
+Perú,Áncash,Carlos F. Fitzcarrald,San Luis,20701,10528
+Perú,Áncash,Carlos F. Fitzcarrald,San Nicolás,20702,2947
+Perú,Áncash,Carlos F. Fitzcarrald,Yauya,20703,3758
+Perú,Áncash,Casma,Casma,20801,43919
+Perú,Áncash,Casma,Buena Vista Alta,20802,5856
+Perú,Áncash,Casma,Comandante Noel,20803,2396
+Perú,Áncash,Casma,Yaután,20804,9587
+Perú,Áncash,Corongo,Corongo,20901,1797
+Perú,Áncash,Corongo,Aco,20902,321
+Perú,Áncash,Corongo,Bambas,20903,441
+Perú,Áncash,Corongo,Cusca,20904,2907
+Perú,Áncash,Corongo,La Pampa,20905,999
+Perú,Áncash,Corongo,Yánac,20906,604
+Perú,Áncash,Corongo,Yupán,20907,681
+Perú,Áncash,Huari,Huari,21001,9765
+Perú,Áncash,Huari,Anra,21002,1316
+Perú,Áncash,Huari,Cajay,21003,2599
+Perú,Áncash,Huari,Chavín De Huántar,21004,8436
+Perú,Áncash,Huari,Huacachi,21005,1821
+Perú,Áncash,Huari,Huacchis,21006,1255
+Perú,Áncash,Huari,Huachis,21007,3636
+Perú,Áncash,Huari,Huántar,21008,2717
+Perú,Áncash,Huari,Masín,21009,1230
+Perú,Áncash,Huari,Paucas,21010,1446
+Perú,Áncash,Huari,Ponto,21011,2552
+Perú,Áncash,Huari,Rahuapampa,21012,771
+Perú,Áncash,Huari,Rapayán,21013,1394
+Perú,Áncash,Huari,San Marcos,21014,20489
+Perú,Áncash,Huari,San Pedro De Chana,21015,2741
+Perú,Áncash,Huari,Uco,21016,1199
+Perú,Áncash,Huarmey,Huarmey,21101,28300
+Perú,Áncash,Huarmey,Cochapeti,21102,773
+Perú,Áncash,Huarmey,Culebras,21103,3438
+Perú,Áncash,Huarmey,Huayán,21104,940
+Perú,Áncash,Huarmey,Malvas,21105,727
+Perú,Áncash,Huaylas,Caraz,21201,27443
+Perú,Áncash,Huaylas,Huallanca,21202,1147
+Perú,Áncash,Huaylas,Huata,21203,1366
+Perú,Áncash,Huaylas,Huaylas,21204,1669
+Perú,Áncash,Huaylas,Mato,21205,1880
+Perú,Áncash,Huaylas,Pamparomás,21206,8564
+Perú,Áncash,Huaylas,Pueblo Libre,21207,7005
+Perú,Áncash,Huaylas,Santa Cruz,21208,4549
+Perú,Áncash,Huaylas,Santo Toribio,21209,1055
+Perú,Áncash,Huaylas,Yuracmarca,21210,2275
+Perú,Áncash,Mariscal Luzuriaga,Piscobamba,21301,2986
+Perú,Áncash,Mariscal Luzuriaga,Casca,21302,3776
+Perú,Áncash,Mariscal Luzuriaga,Eleazar Guzmán Barrón,21303,1355
+Perú,Áncash,Mariscal Luzuriaga,Fidel Olivas Escudero,21304,1765
+Perú,Áncash,Mariscal Luzuriaga,Llama,21305,923
+Perú,Áncash,Mariscal Luzuriaga,Llumpa,21306,6430
+Perú,Áncash,Mariscal Luzuriaga,Lucma,21307,2691
+Perú,Áncash,Mariscal Luzuriaga,Musga,21308,944
+Perú,Áncash,Ocros,Ocros,21401,1178
+Perú,Áncash,Ocros,Acas,21402,532
+Perú,Áncash,Ocros,Cajamarquilla,21403,252
+Perú,Áncash,Ocros,Carhuapampa,21404,354
+Perú,Áncash,Ocros,Cochas,21405,1591
+Perú,Áncash,Ocros,Congas,21406,1238
+Perú,Áncash,Ocros,Llipa,21407,214
+Perú,Áncash,Ocros,San Cristóbal De Rajan,21408,329
+Perú,Áncash,Ocros,San Pedro,21409,395
+Perú,Áncash,Ocros,Santiago De Chilcas,21410,464
+Perú,Áncash,Pallasca,Cabana,21501,2442
+Perú,Áncash,Pallasca,Bolognesi,21502,897
+Perú,Áncash,Pallasca,Conchucos,21503,7536
+Perú,Áncash,Pallasca,Huacaschuque,21504,481
+Perú,Áncash,Pallasca,Huandoval,21505,1030
+Perú,Áncash,Pallasca,Lacabamba,21506,465
+Perú,Áncash,Pallasca,Llapo,21507,588
+Perú,Áncash,Pallasca,Pallasca,21508,2407
+Perú,Áncash,Pallasca,Pampas,21509,2902
+Perú,Áncash,Pallasca,Santa Rosa,21510,1110
+Perú,Áncash,Pallasca,Tauca,21511,2592
+Perú,Áncash,Pomabamba,Pomabamba,21601,14648
+Perú,Áncash,Pomabamba,Huayllán,21602,2801
+Perú,Áncash,Pomabamba,Parobamba,21603,6056
+Perú,Áncash,Pomabamba,Quinuabamba,21604,2212
+Perú,Áncash,Recuay,Recuay,21701,4189
+Perú,Áncash,Recuay,Cátac,21702,3887
+Perú,Áncash,Recuay,Cotaparaco,21703,329
+Perú,Áncash,Recuay,Huayllapampa,21704,443
+Perú,Áncash,Recuay,Llacllín,21705,698
+Perú,Áncash,Recuay,Marca,21706,2206
+Perú,Áncash,Recuay,Pampas Chico,21707,670
+Perú,Áncash,Recuay,Pararín,21708,1806
+Perú,Áncash,Recuay,Tapacocha,21709,389
+Perú,Áncash,Recuay,Ticapampa,21710,2775
+Perú,Áncash,Santa,Chimbote,21801,215165
+Perú,Áncash,Santa,Cáceres Del Perú,21802,4629
+Perú,Áncash,Santa,Coishco,21803,17762
+Perú,Áncash,Santa,Macate,21804,3029
+Perú,Áncash,Santa,Moro,21805,8841
+Perú,Áncash,Santa,Nepeña,21806,14888
+Perú,Áncash,Santa,Samanco,21807,5452
+Perú,Áncash,Santa,Santa,21808,23802
+Perú,Áncash,Santa,Nuevo Chimbote,21809,197392
+Perú,Áncash,Sihuas,Sihuas,21901,5744
+Perú,Áncash,Sihuas,Acobamba,21902,1487
+Perú,Áncash,Sihuas,Alfonso Ugarte,21903,418
+Perú,Áncash,Sihuas,Cashapampa,21904,2795
+Perú,Áncash,Sihuas,Chingalpo,21905,818
+Perú,Áncash,Sihuas,Huayllabamba,21906,3409
+Perú,Áncash,Sihuas,Quiches,21907,2202
+Perú,Áncash,Sihuas,Ragash,21908,2209
+Perú,Áncash,Sihuas,San Juan,21909,6981
+Perú,Áncash,Sihuas,Sicsibamba,21910,1337
+Perú,Áncash,Yungay,Yungay,22001,22963
+Perú,Áncash,Yungay,Cascapara,22002,1583
+Perú,Áncash,Yungay,Mancos,22003,6742
+Perú,Áncash,Yungay,Matacoto,22004,1552
+Perú,Áncash,Yungay,Quillo,22005,13392
+Perú,Áncash,Yungay,Ranrahirca,22006,2990
+Perú,Áncash,Yungay,Shupluy,22007,1782
+Perú,Áncash,Yungay,Yanama,22008,4881
+Perú,Apurímac,Abancay,Abancay,30101,80120
+Perú,Apurímac,Abancay,Chacoche,30102,1460
+Perú,Apurímac,Abancay,Circa,30103,1742
+Perú,Apurímac,Abancay,Curahuasi,30104,17061
+Perú,Apurímac,Abancay,Huanipaca,30105,2315
+Perú,Apurímac,Abancay,Lambrama,30106,2283
+Perú,Apurímac,Abancay,Pichirhua,30107,2258
+Perú,Apurímac,Abancay,San Pedro De Cachora,30108,2160
+Perú,Apurímac,Abancay,Tamburco,30109,12602
+Perú,Apurímac,Andahuaylas,Andahuaylas,30201,49476
+Perú,Apurímac,Andahuaylas,Andarapa,30202,5227
+Perú,Apurímac,Andahuaylas,Chiara,30203,1156
+Perú,Apurímac,Andahuaylas,Huancarama,30204,4408
+Perú,Apurímac,Andahuaylas,Huancaray,30205,3633
+Perú,Apurímac,Andahuaylas,Huayana,30206,677
+Perú,Apurímac,Andahuaylas,Kishuara,30207,5395
+Perú,Apurímac,Andahuaylas,Pacobamba,30208,2841
+Perú,Apurímac,Andahuaylas,Pacucha,30209,7807
+Perú,Apurímac,Andahuaylas,Pampachiri,30210,2213
+Perú,Apurímac,Andahuaylas,Pomacocha,30211,855
+Perú,Apurímac,Andahuaylas,San Antonio De Cachi,30212,2910
+Perú,Apurímac,Andahuaylas,San Jerónimo,30213,22675
+Perú,Apurímac,Andahuaylas,San Miguel De Chaccrampa,30214,1570
+Perú,Apurímac,Andahuaylas,Santa María De Chicmo,30215,8206
+Perú,Apurímac,Andahuaylas,Talavera,30216,20923
+Perú,Apurímac,Andahuaylas,Tumay Huaraca,30217,1815
+Perú,Apurímac,Andahuaylas,Turpo,30218,3592
+Perú,Apurímac,Andahuaylas,Kaquiabamba,30219,1527
+Perú,Apurímac,Andahuaylas,José María Arguedas,30220,5309
+Perú,Apurímac,Antabamba,Antabamba,30301,2609
+Perú,Apurímac,Antabamba,El Oro,30302,614
+Perú,Apurímac,Antabamba,Huaquirca,30303,2125
+Perú,Apurímac,Antabamba,Juan Espinoza Medrano,30304,1573
+Perú,Apurímac,Antabamba,Oropesa,30305,2137
+Perú,Apurímac,Antabamba,Pachaconas,30306,990
+Perú,Apurímac,Antabamba,Sabaino,30307,937
+Perú,Apurímac,Aymaraes,Chalhuanca,30401,5214
+Perú,Apurímac,Aymaraes,Capaya,30402,510
+Perú,Apurímac,Aymaraes,Caraybamba,30403,766
+Perú,Apurímac,Aymaraes,Chapimarca,30404,1702
+Perú,Apurímac,Aymaraes,Colcabamba,30405,608
+Perú,Apurímac,Aymaraes,Cotaruse,30406,2045
+Perú,Apurímac,Aymaraes,Huayllo,30407,398
+Perú,Apurímac,Aymaraes,Justo Apu Sahuaraura,30408,631
+Perú,Apurímac,Aymaraes,Lucre,30409,1197
+Perú,Apurímac,Aymaraes,Pocohuanca,30410,955
+Perú,Apurímac,Aymaraes,San Juan De Chacña,30411,666
+Perú,Apurímac,Aymaraes,Sañayca,30412,997
+Perú,Apurímac,Aymaraes,Soraya,30413,628
+Perú,Apurímac,Aymaraes,Tapairihua,30414,1739
+Perú,Apurímac,Aymaraes,Tintay,30415,1863
+Perú,Apurímac,Aymaraes,Toraya,30416,1031
+Perú,Apurímac,Aymaraes,Yanaca,30417,867
+Perú,Apurímac,Cotabambas,Tambobamba,30501,10478
+Perú,Apurímac,Cotabambas,Cotabambas,30502,3948
+Perú,Apurímac,Cotabambas,Coyllurqui,30503,6502
+Perú,Apurímac,Cotabambas,Haquira,30504,9380
+Perú,Apurímac,Cotabambas,Mara,30505,6007
+Perú,Apurímac,Cotabambas,Challhuahuacho,30506,19351
+Perú,Apurímac,Chincheros,Chincheros,30601,5374
+Perú,Apurímac,Chincheros,Anco-Huallo,30602,10052
+Perú,Apurímac,Chincheros,Cocharcas,30603,1683
+Perú,Apurímac,Chincheros,Huaccana,30604,5180
+Perú,Apurímac,Chincheros,Ocobamba,30605,6692
+Perú,Apurímac,Chincheros,Ongoy,30606,2220
+Perú,Apurímac,Chincheros,Uranmarca,30607,2666
+Perú,Apurímac,Chincheros,Ranracancha,30608,3961
+Perú,Apurímac,Chincheros,Rocchacc,30609,2705
+Perú,Apurímac,Chincheros,El Porvenir,30610,1713
+Perú,Apurímac,Chincheros,Los Chankas,30611,1034
+Perú,Apurímac,Chincheros,Ahuayro,30612,1047
+Perú,Apurímac,Grau,Chuquibambilla,30701,4772
+Perú,Apurímac,Grau,Curpahuasi,30702,1735
+Perú,Apurímac,Grau,Gamarra,30703,2244
+Perú,Apurímac,Grau,Huayllati,30704,1136
+Perú,Apurímac,Grau,Mamara,30705,821
+Perú,Apurímac,Grau,Micaela Bastidas,30706,760
+Perú,Apurímac,Grau,Pataypampa,30707,683
+Perú,Apurímac,Grau,Progreso,30708,3247
+Perú,Apurímac,Grau,San Antonio,30709,232
+Perú,Apurímac,Grau,Santa Rosa,30710,486
+Perú,Apurímac,Grau,Turpay,30711,564
+Perú,Apurímac,Grau,Vilcabamba,30712,1317
+Perú,Apurímac,Grau,Virundo,30713,523
+Perú,Apurímac,Grau,Curasco,30714,1095
+Perú,Arequipa,Arequipa,Arequipa,40101,54315
+Perú,Arequipa,Arequipa,Alto Selva Alegre,40102,94815
+Perú,Arequipa,Arequipa,Cayma,40103,113343
+Perú,Arequipa,Arequipa,Cerro Colorado,40104,253214
+Perú,Arequipa,Arequipa,Characato,40105,19143
+Perú,Arequipa,Arequipa,Chiguata,40106,3330
+Perú,Arequipa,Arequipa,Jacobo Hunter,40107,55070
+Perú,Arequipa,Arequipa,La Joya,40108,44159
+Perú,Arequipa,Arequipa,Mariano Melgar,40109,69135
+Perú,Arequipa,Arequipa,Miraflores,40110,68619
+Perú,Arequipa,Arequipa,Mollebaya,40111,8456
+Perú,Arequipa,Arequipa,Paucarpata,40112,138830
+Perú,Arequipa,Arequipa,Pocsi,40113,428
+Perú,Arequipa,Arequipa,Polobaya,40114,697
+Perú,Arequipa,Arequipa,Quequeña,40115,8360
+Perú,Arequipa,Arequipa,Sabandia,40116,4928
+Perú,Arequipa,Arequipa,Sachaca,40117,31128
+Perú,Arequipa,Arequipa,San Juan De Siguas,40118,496
+Perú,Arequipa,Arequipa,San Juan De Tarucani,40119,1168
+Perú,Arequipa,Arequipa,Santa Isabel De Siguas,40120,584
+Perú,Arequipa,Arequipa,Santa Rita De Siguas,40121,8822
+Perú,Arequipa,Arequipa,Socabaya,40122,89862
+Perú,Arequipa,Arequipa,Tiabaya,40123,17874
+Perú,Arequipa,Arequipa,Uchumayo,40124,18558
+Perú,Arequipa,Arequipa,Vítor,40125,5317
+Perú,Arequipa,Arequipa,Yanahuara,40126,27590
+Perú,Arequipa,Arequipa,Yarabamba,40127,1743
+Perú,Arequipa,Arequipa,Yura,40128,48089
+Perú,Arequipa,Arequipa,Jose Luis Bustamante Y Rivero,40129,84773
+Perú,Arequipa,Camaná,Camaná,40201,12090
+Perú,Arequipa,Camaná,José María Quimper,40202,4877
+Perú,Arequipa,Camaná,Mariano Nicolás Valcárcel,40203,10095
+Perú,Arequipa,Camaná,Mariscal Cáceres,40204,6642
+Perú,Arequipa,Camaná,Nicolás De Piérola,40205,8140
+Perú,Arequipa,Camaná,Ocoña,40206,3899
+Perú,Arequipa,Camaná,Quilca,40207,1152
+Perú,Arequipa,Camaná,Samuel Pastor,40208,17427
+Perú,Arequipa,Caravelí,Caravelí,40301,4416
+Perú,Arequipa,Caravelí,Acarí,40302,5548
+Perú,Arequipa,Caravelí,Atico,40303,6521
+Perú,Arequipa,Caravelí,Atiquipa,40304,438
+Perú,Arequipa,Caravelí,Bella Unión,40305,2821
+Perú,Arequipa,Caravelí,Cahuacho,40306,575
+Perú,Arequipa,Caravelí,Chala,40307,11261
+Perú,Arequipa,Caravelí,Chaparra,40308,3404
+Perú,Arequipa,Caravelí,Huanuhuanu,40309,3433
+Perú,Arequipa,Caravelí,Jaqui,40310,1590
+Perú,Arequipa,Caravelí,Lomas,40311,1665
+Perú,Arequipa,Caravelí,Quicacha,40312,1912
+Perú,Arequipa,Caravelí,Yauca,40313,2127
+Perú,Arequipa,Castilla,Aplao,40401,9086
+Perú,Arequipa,Castilla,Andagua,40402,945
+Perú,Arequipa,Castilla,Ayo,40403,202
+Perú,Arequipa,Castilla,Chachas,40404,1514
+Perú,Arequipa,Castilla,Chilcaymarca,40405,1113
+Perú,Arequipa,Castilla,Choco,40406,570
+Perú,Arequipa,Castilla,Huancarqui,40407,1649
+Perú,Arequipa,Castilla,Machaguay,40408,361
+Perú,Arequipa,Castilla,Orcopampa,40409,8776
+Perú,Arequipa,Castilla,Pampacolca,40410,1579
+Perú,Arequipa,Castilla,Tipán,40411,393
+Perú,Arequipa,Castilla,Uñón,40412,194
+Perú,Arequipa,Castilla,Uraca,40413,6265
+Perú,Arequipa,Castilla,Viraco,40414,1399
+Perú,Arequipa,Caylloma,Chivay,40501,5782
+Perú,Arequipa,Caylloma,Achoma,40502,808
+Perú,Arequipa,Caylloma,Cabanaconde,40503,2019
+Perú,Arequipa,Caylloma,Callalli,40504,1247
+Perú,Arequipa,Caylloma,Caylloma,40505,3608
+Perú,Arequipa,Caylloma,Coporaque,40506,1114
+Perú,Arequipa,Caylloma,Huambo,40507,636
+Perú,Arequipa,Caylloma,Huanca,40508,952
+Perú,Arequipa,Caylloma,Ichupampa,40509,564
+Perú,Arequipa,Caylloma,Lari,40510,776
+Perú,Arequipa,Caylloma,Lluta,40511,675
+Perú,Arequipa,Caylloma,Maca,40512,667
+Perú,Arequipa,Caylloma,Madrigal,40513,648
+Perú,Arequipa,Caylloma,San Antonio De Chuca,40514,832
+Perú,Arequipa,Caylloma,Sibayo,40515,670
+Perú,Arequipa,Caylloma,Tapay,40516,921
+Perú,Arequipa,Caylloma,Tisco,40517,1476
+Perú,Arequipa,Caylloma,Tuti,40518,563
+Perú,Arequipa,Caylloma,Yanque,40519,2105
+Perú,Arequipa,Caylloma,Majes,40520,78660
+Perú,Arequipa,Condesuyos,Chuquibamba,40601,3319
+Perú,Arequipa,Condesuyos,Andaray,40602,656
+Perú,Arequipa,Condesuyos,Cayarani,40603,3224
+Perú,Arequipa,Condesuyos,Chichas,40604,634
+Perú,Arequipa,Condesuyos,Iray,40605,569
+Perú,Arequipa,Condesuyos,Río Grande,40606,3466
+Perú,Arequipa,Condesuyos,Salamanca,40607,336
+Perú,Arequipa,Condesuyos,Yanaquihua,40608,3717
+Perú,Arequipa,Islay,Mollendo,40701,27177
+Perú,Arequipa,Islay,Cocachacra,40702,8219
+Perú,Arequipa,Islay,Dean Valdivia,40703,7363
+Perú,Arequipa,Islay,Islay,40704,5326
+Perú,Arequipa,Islay,Mejía,40705,1281
+Perú,Arequipa,Islay,Punta De Bombón,40706,6422
+Perú,Arequipa,La Unión,Cotahuasi,40801,2984
+Perú,Arequipa,La Unión,Alca,40802,1776
+Perú,Arequipa,La Unión,Charcana,40803,572
+Perú,Arequipa,La Unión,Huaynacotas,40804,1734
+Perú,Arequipa,La Unión,Pampamarca,40805,1032
+Perú,Arequipa,La Unión,Puyca,40806,2226
+Perú,Arequipa,La Unión,Quechualla,40807,281
+Perú,Arequipa,La Unión,Sayla,40808,258
+Perú,Arequipa,La Unión,Tauria,40809,305
+Perú,Arequipa,La Unión,Tomepampa,40810,603
+Perú,Arequipa,La Unión,Toro,40811,441
+Perú,Ayacucho,Huamanga,Ayacucho,50101,114918
+Perú,Ayacucho,Huamanga,Acocro,50102,9277
+Perú,Ayacucho,Huamanga,Acos Vinchos,50103,5138
+Perú,Ayacucho,Huamanga,Carmen Alto,50104,32741
+Perú,Ayacucho,Huamanga,Chiara,50105,7007
+Perú,Ayacucho,Huamanga,Ocros,50106,6418
+Perú,Ayacucho,Huamanga,Pacaycasa,50107,3704
+Perú,Ayacucho,Huamanga,Quinua,50108,6048
+Perú,Ayacucho,Huamanga,San José De Ticllas,50109,1655
+Perú,Ayacucho,Huamanga,San Juan Bautista,50110,55331
+Perú,Ayacucho,Huamanga,Santiago De Pischa,50111,1703
+Perú,Ayacucho,Huamanga,Socos,50112,7122
+Perú,Ayacucho,Huamanga,Tambillo,50113,6309
+Perú,Ayacucho,Huamanga,Vinchos,50114,17076
+Perú,Ayacucho,Huamanga,Jesús Nazareno,50115,21800
+Perú,Ayacucho,Huamanga,Andrés Avelino Cáceres Dorregaray,50116,32236
+Perú,Ayacucho,Cangallo,Cangallo,50201,5426
+Perú,Ayacucho,Cangallo,Chuschi,50202,9256
+Perú,Ayacucho,Cangallo,Los Morochucos,50203,8064
+Perú,Ayacucho,Cangallo,María Parado De Bellido,50204,1772
+Perú,Ayacucho,Cangallo,Paras,50205,3959
+Perú,Ayacucho,Cangallo,Totos,50206,2663
+Perú,Ayacucho,Huanca Sancos,Sancos,50301,3108
+Perú,Ayacucho,Huanca Sancos,Carapo,50302,1644
+Perú,Ayacucho,Huanca Sancos,Sacsamarca,50303,1229
+Perú,Ayacucho,Huanca Sancos,Santiago De Lucanamarca,50304,1978
+Perú,Ayacucho,Huanta,Huanta,50401,45322
+Perú,Ayacucho,Huanta,Ayahuanco,50402,906
+Perú,Ayacucho,Huanta,Huamanguilla,50403,3843
+Perú,Ayacucho,Huanta,Iguain,50404,2848
+Perú,Ayacucho,Huanta,Luricocha,50405,6513
+Perú,Ayacucho,Huanta,Santillana,50406,3399
+Perú,Ayacucho,Huanta,Sivia,50407,11175
+Perú,Ayacucho,Huanta,Llochegua,50408,11939
+Perú,Ayacucho,Huanta,Canayre,50409,4909
+Perú,Ayacucho,Huanta,Uchuraccay,50410,3358
+Perú,Ayacucho,Huanta,Pucacolpa,50411,1804
+Perú,Ayacucho,Huanta,Chaca,50412,2076
+Perú,Ayacucho,Huanta,Putis,50413,230
+Perú,Ayacucho,La Mar,San Miguel,50501,8287
+Perú,Ayacucho,La Mar,Anco,50502,5265
+Perú,Ayacucho,La Mar,Ayna,50503,9765
+Perú,Ayacucho,La Mar,Chilcas,50504,1336
+Perú,Ayacucho,La Mar,Chungui,50505,4205
+Perú,Ayacucho,La Mar,Luis Carranza,50506,1394
+Perú,Ayacucho,La Mar,Santa Rosa,50507,12868
+Perú,Ayacucho,La Mar,Tambo,50508,7032
+Perú,Ayacucho,La Mar,Samugari,50509,9239
+Perú,Ayacucho,La Mar,Anchihuay,50510,4007
+Perú,Ayacucho,La Mar,Oronccoy,50511,984
+Perú,Ayacucho,La Mar,Unión Progreso,50512,2038
+Perú,Ayacucho,La Mar,Río Magdalena,50513,2294
+Perú,Ayacucho,La Mar,Ninabamba,50514,1902
+Perú,Ayacucho,La Mar,Patibamba,50515,1488
+Perú,Ayacucho,Lucanas,Puquio,50601,14510
+Perú,Ayacucho,Lucanas,Aucara,50602,2392
+Perú,Ayacucho,Lucanas,Cabana,50603,1775
+Perú,Ayacucho,Lucanas,Carmen Salcedo,50604,1295
+Perú,Ayacucho,Lucanas,Chaviña,50605,2267
+Perú,Ayacucho,Lucanas,Chipao,50606,2202
+Perú,Ayacucho,Lucanas,Huac-Huas,50607,1379
+Perú,Ayacucho,Lucanas,Laramate,50608,1623
+Perú,Ayacucho,Lucanas,Leoncio Prado,50609,1011
+Perú,Ayacucho,Lucanas,Llauta,50610,798
+Perú,Ayacucho,Lucanas,Lucanas,50611,2513
+Perú,Ayacucho,Lucanas,Ocaña,50612,2047
+Perú,Ayacucho,Lucanas,Otoca,50613,1663
+Perú,Ayacucho,Lucanas,Saisa,50614,836
+Perú,Ayacucho,Lucanas,San Cristóbal,50615,1787
+Perú,Ayacucho,Lucanas,San Juan,50616,956
+Perú,Ayacucho,Lucanas,San Pedro,50617,2532
+Perú,Ayacucho,Lucanas,San Pedro De Palco,50618,803
+Perú,Ayacucho,Lucanas,Sancos,50619,4713
+Perú,Ayacucho,Lucanas,Santa Ana De Huaycahuacho,50620,863
+Perú,Ayacucho,Lucanas,Santa Lucía,50621,1508
+Perú,Ayacucho,Parinacochas,Coracora,50701,12835
+Perú,Ayacucho,Parinacochas,Chumpi,50702,1918
+Perú,Ayacucho,Parinacochas,Coronel Castañeda,50703,2145
+Perú,Ayacucho,Parinacochas,Pacapausa,50704,427
+Perú,Ayacucho,Parinacochas,Pullo,50705,8035
+Perú,Ayacucho,Parinacochas,Puyusca,50706,1999
+Perú,Ayacucho,Parinacochas,San Francisco De Ravacayco,50707,464
+Perú,Ayacucho,Parinacochas,Upahuacho,50708,891
+Perú,Ayacucho,Páucar Del Sara Sara,Pausa,50801,3396
+Perú,Ayacucho,Páucar Del Sara Sara,Colta,50802,351
+Perú,Ayacucho,Páucar Del Sara Sara,Corculla,50803,403
+Perú,Ayacucho,Páucar Del Sara Sara,Lampa,50804,1805
+Perú,Ayacucho,Páucar Del Sara Sara,Marcabamba,50805,562
+Perú,Ayacucho,Páucar Del Sara Sara,Oyolo,50806,1783
+Perú,Ayacucho,Páucar Del Sara Sara,Pararca,50807,318
+Perú,Ayacucho,Páucar Del Sara Sara,San Javier De Alpabamba,50808,217
+Perú,Ayacucho,Páucar Del Sara Sara,San José De Ushua,50809,262
+Perú,Ayacucho,Páucar Del Sara Sara,Sara Sara,50810,395
+Perú,Ayacucho,Sucre,Querobamba,50901,2574
+Perú,Ayacucho,Sucre,Belén,50902,283
+Perú,Ayacucho,Sucre,Chalcos,50903,426
+Perú,Ayacucho,Sucre,Chilcayoc,50904,454
+Perú,Ayacucho,Sucre,Huacaña,50905,317
+Perú,Ayacucho,Sucre,Morcolla,50906,1187
+Perú,Ayacucho,Sucre,Paico,50907,469
+Perú,Ayacucho,Sucre,San Pedro De Larcay,50908,788
+Perú,Ayacucho,Sucre,San Salvador De Quije,50909,853
+Perú,Ayacucho,Sucre,Santiago De Paucaray,50910,520
+Perú,Ayacucho,Sucre,Soras,50911,981
+Perú,Ayacucho,Fajardo,Huancapi,51001,1786
+Perú,Ayacucho,Fajardo,Alcamenca,51002,1238
+Perú,Ayacucho,Fajardo,Apongo,51003,483
+Perú,Ayacucho,Fajardo,Asquipata,51004,476
+Perú,Ayacucho,Fajardo,Canaria,51005,4002
+Perú,Ayacucho,Fajardo,Cayara,51006,1099
+Perú,Ayacucho,Fajardo,Colca,51007,982
+Perú,Ayacucho,Fajardo,Huamanquiquia,51008,1075
+Perú,Ayacucho,Fajardo,Huancaraylla,51009,1153
+Perú,Ayacucho,Fajardo,Huaya,51010,1804
+Perú,Ayacucho,Fajardo,Sarhua,51011,2549
+Perú,Ayacucho,Fajardo,Vilcanchos,51012,2307
+Perú,Ayacucho,Vilcas Huamán,Vilcas Huamán,51101,6265
+Perú,Ayacucho,Vilcas Huamán,Accomarca,51102,791
+Perú,Ayacucho,Vilcas Huamán,Carhuanca,51103,770
+Perú,Ayacucho,Vilcas Huamán,Concepción,51104,1414
+Perú,Ayacucho,Vilcas Huamán,Huambalpa,51105,1175
+Perú,Ayacucho,Vilcas Huamán,Independencia,51106,1012
+Perú,Ayacucho,Vilcas Huamán,Saurama,51107,988
+Perú,Ayacucho,Vilcas Huamán,Vischongo,51108,3829
+Perú,Cajamarca,Cajamarca,Cajamarca,60101,251058
+Perú,Cajamarca,Cajamarca,Asunción,60102,6805
+Perú,Cajamarca,Cajamarca,Chetilla,60103,3778
+Perú,Cajamarca,Cajamarca,Cospan,60104,6966
+Perú,Cajamarca,Cajamarca,Encañada,60105,18673
+Perú,Cajamarca,Cajamarca,Jesús,60106,16893
+Perú,Cajamarca,Cajamarca,Llacanora,60107,6763
+Perú,Cajamarca,Cajamarca,Los Baños Del Inca,60108,57278
+Perú,Cajamarca,Cajamarca,Magdalena,60109,8611
+Perú,Cajamarca,Cajamarca,Matara,60110,3728
+Perú,Cajamarca,Cajamarca,Namora,60111,10463
+Perú,Cajamarca,Cajamarca,San Juan,60112,4425
+Perú,Cajamarca,Cajabamba,Cajabamba,60201,35063
+Perú,Cajamarca,Cajabamba,Cachachi,60202,25611
+Perú,Cajamarca,Cajabamba,Condebamba,60203,15637
+Perú,Cajamarca,Cajabamba,Sitacocha,60204,7687
+Perú,Cajamarca,Celendín,Celendín,60301,30049
+Perú,Cajamarca,Celendín,Chumuch,60302,2531
+Perú,Cajamarca,Celendín,Cortegana,60303,6984
+Perú,Cajamarca,Celendín,Huasmín,60304,9982
+Perú,Cajamarca,Celendín,Jorge Chávez,60305,429
+Perú,Cajamarca,Celendín,José Gálvez,60306,2662
+Perú,Cajamarca,Celendín,Miguel Iglesias,60307,3586
+Perú,Cajamarca,Celendín,Oxamarca,60308,5548
+Perú,Cajamarca,Celendín,Sorochuco,60309,6738
+Perú,Cajamarca,Celendín,Sucre,60310,5220
+Perú,Cajamarca,Celendín,Utco,60311,1021
+Perú,Cajamarca,Celendín,La Libertad De Pallán,60312,6533
+Perú,Cajamarca,Chota,Chota,60401,52658
+Perú,Cajamarca,Chota,Anguia,60402,2922
+Perú,Cajamarca,Chota,Chadín,60403,3481
+Perú,Cajamarca,Chota,Chiguirip,60404,3325
+Perú,Cajamarca,Chota,Chimbán,60405,1906
+Perú,Cajamarca,Chota,Choropampa,60406,2046
+Perú,Cajamarca,Chota,Cochabamba,60407,5564
+Perú,Cajamarca,Chota,Conchán,60408,5770
+Perú,Cajamarca,Chota,Huambos,60409,8280
+Perú,Cajamarca,Chota,Lajas,60410,11200
+Perú,Cajamarca,Chota,Llama,60411,7143
+Perú,Cajamarca,Chota,Miracosta,60412,3165
+Perú,Cajamarca,Chota,Paccha,60413,4442
+Perú,Cajamarca,Chota,Pión,60414,1116
+Perú,Cajamarca,Chota,Querocoto,60415,8674
+Perú,Cajamarca,Chota,San Juan De Licupis,60416,935
+Perú,Cajamarca,Chota,Tacabamba,60417,15938
+Perú,Cajamarca,Chota,Tocmoche,60418,846
+Perú,Cajamarca,Chota,Chalamarca,60419,9374
+Perú,Cajamarca,Contumazá,Contumazá,60501,7756
+Perú,Cajamarca,Contumazá,Chilete,60502,2531
+Perú,Cajamarca,Contumazá,Cupisnique,60503,1314
+Perú,Cajamarca,Contumazá,Guzmango,60504,2819
+Perú,Cajamarca,Contumazá,San Benito,60505,3622
+Perú,Cajamarca,Contumazá,Santa Cruz De Toledo,60506,1002
+Perú,Cajamarca,Contumazá,Tantarica,60507,2659
+Perú,Cajamarca,Contumazá,Yonán,60508,6616
+Perú,Cajamarca,Cutervo,Cutervo,60601,51053
+Perú,Cajamarca,Cutervo,Callayuc,60602,9442
+Perú,Cajamarca,Cutervo,Choros,60603,3226
+Perú,Cajamarca,Cutervo,Cujillo,60604,2485
+Perú,Cajamarca,Cutervo,La Ramada,60605,3800
+Perú,Cajamarca,Cutervo,Pimpingos,60606,4856
+Perú,Cajamarca,Cutervo,Querocotillo,60607,12641
+Perú,Cajamarca,Cutervo,San Andrés De Cutervo,60608,4020
+Perú,Cajamarca,Cutervo,San Juan De Cutervo,60609,1782
+Perú,Cajamarca,Cutervo,San Luis De Lucma,60610,2768
+Perú,Cajamarca,Cutervo,Santa Cruz,60611,2534
+Perú,Cajamarca,Cutervo,Santo Domingo De La Capilla,60612,4912
+Perú,Cajamarca,Cutervo,Santo Tomás,60613,7446
+Perú,Cajamarca,Cutervo,Socota,60614,8760
+Perú,Cajamarca,Cutervo,Toribio Casanova,60615,1018
+Perú,Cajamarca,Hualgayoc,Bambamarca,60701,62299
+Perú,Cajamarca,Hualgayoc,Chugur,60702,2751
+Perú,Cajamarca,Hualgayoc,Hualgayoc,60703,15846
+Perú,Cajamarca,Jaén,Jaén,60801,109435
+Perú,Cajamarca,Jaén,Bellavista,60802,16496
+Perú,Cajamarca,Jaén,Chontali,60803,10499
+Perú,Cajamarca,Jaén,Colasay,60804,10223
+Perú,Cajamarca,Jaén,Huabal,60805,9059
+Perú,Cajamarca,Jaén,Las Pirias,60806,4680
+Perú,Cajamarca,Jaén,Pomahuaca,60807,9319
+Perú,Cajamarca,Jaén,Pucará,60808,6899
+Perú,Cajamarca,Jaén,Sallique,60809,7474
+Perú,Cajamarca,Jaén,San Felipe,60810,4398
+Perú,Cajamarca,Jaén,San José Del Alto,60811,8177
+Perú,Cajamarca,Jaén,Santa Rosa,60812,9702
+Perú,Cajamarca,San Ignacio,San Ignacio,60901,42102
+Perú,Cajamarca,San Ignacio,Chirinos,60902,16454
+Perú,Cajamarca,San Ignacio,Huarango,60903,17563
+Perú,Cajamarca,San Ignacio,La Coipa,60904,21573
+Perú,Cajamarca,San Ignacio,Namballe,60905,9621
+Perú,Cajamarca,San Ignacio,San José De Lourdes,60906,20013
+Perú,Cajamarca,San Ignacio,Tabaconas,60907,20284
+Perú,Cajamarca,San Marcos,Pedro Gálvez,61001,22545
+Perú,Cajamarca,San Marcos,Chancay,61002,3003
+Perú,Cajamarca,San Marcos,Eduardo Villanueva,61003,3323
+Perú,Cajamarca,San Marcos,Gregorio Pita,61004,4667
+Perú,Cajamarca,San Marcos,Ichocán,61005,1920
+Perú,Cajamarca,San Marcos,José Manuel Quiroz,61006,3473
+Perú,Cajamarca,San Marcos,José Sabogal,61007,13210
+Perú,Cajamarca,San Miguel,San Miguel,61101,13414
+Perú,Cajamarca,San Miguel,Bolívar,61102,1178
+Perú,Cajamarca,San Miguel,Calquis,61103,4228
+Perú,Cajamarca,San Miguel,Catilluc,61104,2604
+Perú,Cajamarca,San Miguel,El Prado,61105,1543
+Perú,Cajamarca,San Miguel,La Florida,61106,2026
+Perú,Cajamarca,San Miguel,Llapa,61107,4221
+Perú,Cajamarca,San Miguel,Nanchoc,61108,1356
+Perú,Cajamarca,San Miguel,Niepos,61109,2851
+Perú,Cajamarca,San Miguel,San Gregorio,61110,2185
+Perú,Cajamarca,San Miguel,San Silvestre De Cochán,61111,3362
+Perú,Cajamarca,San Miguel,Tongod,61112,2014
+Perú,Cajamarca,San Miguel,Unión Agua Blanca,61113,2907
+Perú,Cajamarca,San Pablo,San Pablo,61201,13011
+Perú,Cajamarca,San Pablo,San Bernardino,61202,4375
+Perú,Cajamarca,San Pablo,San Luis,61203,780
+Perú,Cajamarca,San Pablo,Tumbadén,61204,3556
+Perú,Cajamarca,Santa Cruz,Santa Cruz,61301,9435
+Perú,Cajamarca,Santa Cruz,Andabamba,61302,1175
+Perú,Cajamarca,Santa Cruz,Catache,61303,9784
+Perú,Cajamarca,Santa Cruz,Chancaybaños,61304,3273
+Perú,Cajamarca,Santa Cruz,La Esperanza,61305,2161
+Perú,Cajamarca,Santa Cruz,Ninabamba,61306,1721
+Perú,Cajamarca,Santa Cruz,Pulán,61307,3549
+Perú,Cajamarca,Santa Cruz,Saucepampa,61308,1222
+Perú,Cajamarca,Santa Cruz,Sexi,61309,412
+Perú,Cajamarca,Santa Cruz,Uticyacu,61310,1126
+Perú,Cajamarca,Santa Cruz,Yauyucán,61311,2661
+Perú,Callao,Callao,Callao,70101,542675
+Perú,Callao,Callao,Bellavista,70102,81839
+Perú,Callao,Callao,Carmen De La Legua Reynoso,70103,47558
+Perú,Callao,Callao,La Perla,70104,64826
+Perú,Callao,Callao,La Punta,70105,3775
+Perú,Callao,Callao,Ventanilla,70106,412023
+Perú,Callao,Callao,Mi Perú,70107,56918
+Perú,Cusco,Cusco,Cusco,80101,119438
+Perú,Cusco,Cusco,Ccorca,80102,2413
+Perú,Cusco,Cusco,Poroy,80103,14369
+Perú,Cusco,Cusco,San Jerónimo,80104,79628
+Perú,Cusco,Cusco,San Sebastián,80105,147108
+Perú,Cusco,Cusco,Santiago,80106,107473
+Perú,Cusco,Cusco,Saylla,80107,9751
+Perú,Cusco,Cusco,Wanchaq,80108,61588
+Perú,Cusco,Acomayo,Acomayo,80201,4500
+Perú,Cusco,Acomayo,Acopia,80202,3137
+Perú,Cusco,Acomayo,Acos,80203,2323
+Perú,Cusco,Acomayo,Mosoc Llacta,80204,963
+Perú,Cusco,Acomayo,Pomacanchi,80205,7497
+Perú,Cusco,Acomayo,Rondocán,80206,1772
+Perú,Cusco,Acomayo,Sangarará,80207,3353
+Perú,Cusco,Anta,Anta,80301,27276
+Perú,Cusco,Anta,Ancahuasi,80302,7922
+Perú,Cusco,Anta,Cachimayo,80303,2882
+Perú,Cusco,Anta,Chinchaypujio,80304,4260
+Perú,Cusco,Anta,Huarocondo,80305,4447
+Perú,Cusco,Anta,Limatambo,80306,7517
+Perú,Cusco,Anta,Mollepata,80307,3600
+Perú,Cusco,Anta,Pucyura,80308,3099
+Perú,Cusco,Anta,Zurite,80309,3766
+Perú,Cusco,Calca,Calca,80401,24084
+Perú,Cusco,Calca,Coya,80402,3609
+Perú,Cusco,Calca,Lamay,80403,6038
+Perú,Cusco,Calca,Lares,80404,6244
+Perú,Cusco,Calca,Pisac,80405,11942
+Perú,Cusco,Calca,San Salvador,80406,6295
+Perú,Cusco,Calca,Taray,80407,4958
+Perú,Cusco,Calca,Yanatile,80408,9156
+Perú,Cusco,Canas,Yanaoca,80501,9232
+Perú,Cusco,Canas,Checca,80502,5422
+Perú,Cusco,Canas,Kunturkanki,80503,5145
+Perú,Cusco,Canas,Langui,80504,2029
+Perú,Cusco,Canas,Layo,80505,5457
+Perú,Cusco,Canas,Pampamarca,80506,1870
+Perú,Cusco,Canas,Quehue,80507,2573
+Perú,Cusco,Canas,Túpac Amaru,80508,2574
+Perú,Cusco,Canchis,Sicuani,80601,66071
+Perú,Cusco,Canchis,Checacupe,80602,5258
+Perú,Cusco,Canchis,Combapata,80603,4984
+Perú,Cusco,Canchis,Marangani,80604,10243
+Perú,Cusco,Canchis,Pitumarca,80605,8574
+Perú,Cusco,Canchis,San Pablo,80606,4372
+Perú,Cusco,Canchis,San Pedro,80607,2769
+Perú,Cusco,Canchis,Tinta,80608,5445
+Perú,Cusco,Chumbivilcas,Santo Tomás,80701,22581
+Perú,Cusco,Chumbivilcas,Capacmarca,80702,4051
+Perú,Cusco,Chumbivilcas,Chamaca,80703,6324
+Perú,Cusco,Chumbivilcas,Colquemarca,80704,6876
+Perú,Cusco,Chumbivilcas,Livitaca,80705,13066
+Perú,Cusco,Chumbivilcas,Llusco,80706,4022
+Perú,Cusco,Chumbivilcas,Quiñota,80707,3969
+Perú,Cusco,Chumbivilcas,Velille,80708,8619
+Perú,Cusco,Espinar,Espinar,80801,41373
+Perú,Cusco,Espinar,Condoroma,80802,812
+Perú,Cusco,Espinar,Coporaque,80803,8333
+Perú,Cusco,Espinar,Ocoruro,80804,874
+Perú,Cusco,Espinar,Pallpata,80805,5040
+Perú,Cusco,Espinar,Pichigua,80806,2614
+Perú,Cusco,Espinar,Suyckutambo,80807,1312
+Perú,Cusco,Espinar,Alto Pichigua,80808,1867
+Perú,Cusco,La Convención,Santa Ana,80901,29105
+Perú,Cusco,La Convención,Echarate,80902,17510
+Perú,Cusco,La Convención,Huayopata,80903,5398
+Perú,Cusco,La Convención,Maranura,80904,4847
+Perú,Cusco,La Convención,Ocobamba,80905,5819
+Perú,Cusco,La Convención,Quellouno,80906,15071
+Perú,Cusco,La Convención,Kimbiri,80907,14212
+Perú,Cusco,La Convención,Santa Teresa,80908,6902
+Perú,Cusco,La Convención,Vilcabamba,80909,9899
+Perú,Cusco,La Convención,Pichari,80910,24860
+Perú,Cusco,La Convención,Inkawasi,80911,5207
+Perú,Cusco,La Convención,Villa Virgen,80912,2479
+Perú,Cusco,La Convención,Villa Kintiarina,80913,2431
+Perú,Cusco,La Convención,Megantoni,80914,7363
+Perú,Cusco,La Convención,Kumpirushiato,80915,5683
+Perú,Cusco,La Convención,Cielo Punco,80916,2288
+Perú,Cusco,La Convención,Manitea,80917,3666
+Perú,Cusco,La Convención,Unión Ashaninka,80918,6072
+Perú,Cusco,Paruro,Paruro,81001,3479
+Perú,Cusco,Paruro,Accha,81002,3020
+Perú,Cusco,Paruro,Ccapi,81003,3015
+Perú,Cusco,Paruro,Colcha,81004,894
+Perú,Cusco,Paruro,Huanoquite,81005,5012
+Perú,Cusco,Paruro,Omacha,81006,5752
+Perú,Cusco,Paruro,Paccaritambo,81007,2042
+Perú,Cusco,Paruro,Pillpinto,81008,993
+Perú,Cusco,Paruro,Yaurisque,81009,1836
+Perú,Cusco,Paucartambo,Paucartambo,81101,13788
+Perú,Cusco,Paucartambo,Caicay,81102,3181
+Perú,Cusco,Paucartambo,Challabamba,81103,9350
+Perú,Cusco,Paucartambo,Colquepata,81104,8815
+Perú,Cusco,Paucartambo,Huancarani,81105,8029
+Perú,Cusco,Paucartambo,Kosñipata,81106,4935
+Perú,Cusco,Quispicanchi,Urcos,81201,12657
+Perú,Cusco,Quispicanchi,Andahuaylillas,81202,7509
+Perú,Cusco,Quispicanchi,Camanti,81203,2710
+Perú,Cusco,Quispicanchi,Ccarhuayo,81204,3204
+Perú,Cusco,Quispicanchi,Ccatca,81205,15197
+Perú,Cusco,Quispicanchi,Cusipata,81206,4635
+Perú,Cusco,Quispicanchi,Huaro,81207,5073
+Perú,Cusco,Quispicanchi,Lucre,81208,5592
+Perú,Cusco,Quispicanchi,Marcapata,81209,5019
+Perú,Cusco,Quispicanchi,Ocongate,81210,19417
+Perú,Cusco,Quispicanchi,Oropesa,81211,12836
+Perú,Cusco,Quispicanchi,Quiquijana,81212,12132
+Perú,Cusco,Urubamba,Urubamba,81301,25201
+Perú,Cusco,Urubamba,Chinchero,81302,12970
+Perú,Cusco,Urubamba,Huayllabamba,81303,6585
+Perú,Cusco,Urubamba,Machupicchu,81304,5772
+Perú,Cusco,Urubamba,Maras,81305,6853
+Perú,Cusco,Urubamba,Ollantaytambo,81306,12110
+Perú,Cusco,Urubamba,Yucay,81307,3452
+Perú,Huancavelica,Huancavelica,Huancavelica,90101,43380
+Perú,Huancavelica,Huancavelica,Acobambilla,90102,1489
+Perú,Huancavelica,Huancavelica,Acoria,90103,13632
+Perú,Huancavelica,Huancavelica,Conayca,90104,751
+Perú,Huancavelica,Huancavelica,Cuenca,90105,877
+Perú,Huancavelica,Huancavelica,Huachocolpa,90106,1517
+Perú,Huancavelica,Huancavelica,Huayllahuara,90107,608
+Perú,Huancavelica,Huancavelica,Izcuchaca,90108,910
+Perú,Huancavelica,Huancavelica,Laria,90109,612
+Perú,Huancavelica,Huancavelica,Manta,90110,762
+Perú,Huancavelica,Huancavelica,Mariscal Cáceres,90111,435
+Perú,Huancavelica,Huancavelica,Moya,90112,700
+Perú,Huancavelica,Huancavelica,Nuevo Occoro,90113,1511
+Perú,Huancavelica,Huancavelica,Palca,90114,1559
+Perú,Huancavelica,Huancavelica,Pilchaca,90115,496
+Perú,Huancavelica,Huancavelica,Vilca,90116,1532
+Perú,Huancavelica,Huancavelica,Yauli,90117,17448
+Perú,Huancavelica,Huancavelica,Ascensión,90118,21383
+Perú,Huancavelica,Huancavelica,Huando,90119,5971
+Perú,Huancavelica,Acobamba,Acobamba,90201,8955
+Perú,Huancavelica,Acobamba,Andabamba,90202,2662
+Perú,Huancavelica,Acobamba,Anta,90203,3538
+Perú,Huancavelica,Acobamba,Caja,90204,1481
+Perú,Huancavelica,Acobamba,Marcas,90205,1265
+Perú,Huancavelica,Acobamba,Paucara,90206,6300
+Perú,Huancavelica,Acobamba,Pomacocha,90207,2426
+Perú,Huancavelica,Acobamba,Rosario,90208,4253
+Perú,Huancavelica,Angaraes,Lircay,90301,24808
+Perú,Huancavelica,Angaraes,Anchonga,90302,7290
+Perú,Huancavelica,Angaraes,Callanmarca,90303,495
+Perú,Huancavelica,Angaraes,Ccochaccasa,90304,2854
+Perú,Huancavelica,Angaraes,Chincho,90305,807
+Perú,Huancavelica,Angaraes,Congalla,90306,3339
+Perú,Huancavelica,Angaraes,Huanca-Huanca,90307,1212
+Perú,Huancavelica,Angaraes,Huayllay Grande,90308,792
+Perú,Huancavelica,Angaraes,Julcamarca,90309,1834
+Perú,Huancavelica,Angaraes,San Antonio De Antaparco,90310,2051
+Perú,Huancavelica,Angaraes,Santo Tomás De Pata,90311,1295
+Perú,Huancavelica,Angaraes,Secclla,90312,2997
+Perú,Huancavelica,Castrovirreyna,Castrovirreyna,90401,2970
+Perú,Huancavelica,Castrovirreyna,Arma,90402,816
+Perú,Huancavelica,Castrovirreyna,Aurahua,90403,1289
+Perú,Huancavelica,Castrovirreyna,Capillas,90404,770
+Perú,Huancavelica,Castrovirreyna,Chupamarca,90405,847
+Perú,Huancavelica,Castrovirreyna,Cocas,90406,655
+Perú,Huancavelica,Castrovirreyna,Huachos,90407,679
+Perú,Huancavelica,Castrovirreyna,Huamatambo,90408,397
+Perú,Huancavelica,Castrovirreyna,Mollepampa,90409,1067
+Perú,Huancavelica,Castrovirreyna,San Juan,90410,791
+Perú,Huancavelica,Castrovirreyna,Santa Ana,90411,645
+Perú,Huancavelica,Castrovirreyna,Tantara,90412,640
+Perú,Huancavelica,Castrovirreyna,Ticrapo,90413,1443
+Perú,Huancavelica,Churcampa,Churcampa,90501,5231
+Perú,Huancavelica,Churcampa,Anco,90502,5463
+Perú,Huancavelica,Churcampa,Chinchihuasi,90503,1481
+Perú,Huancavelica,Churcampa,El Carmen,90504,2296
+Perú,Huancavelica,Churcampa,La Merced,90505,1192
+Perú,Huancavelica,Churcampa,Locroja,90506,3077
+Perú,Huancavelica,Churcampa,Paucarbamba,90507,3559
+Perú,Huancavelica,Churcampa,San Miguel De Mayocc,90508,646
+Perú,Huancavelica,Churcampa,San Pedro De Coris,90509,3154
+Perú,Huancavelica,Churcampa,Pachamarca,90510,1571
+Perú,Huancavelica,Churcampa,Cosme,90511,2628
+Perú,Huancavelica,Huaytará,Huaytará,90601,2312
+Perú,Huancavelica,Huaytará,Ayavi,90602,798
+Perú,Huancavelica,Huaytará,Córdova,90603,674
+Perú,Huancavelica,Huaytará,Huayacundo Arma,90604,497
+Perú,Huancavelica,Huaytará,Laramarca,90605,775
+Perú,Huancavelica,Huaytará,Ocoyo,90606,527
+Perú,Huancavelica,Huaytará,Pilpichaca,90607,2453
+Perú,Huancavelica,Huaytará,Querco,90608,1330
+Perú,Huancavelica,Huaytará,Quito-Arma,90609,627
+Perú,Huancavelica,Huaytará,San Antonio De Cusicancha,90610,1280
+Perú,Huancavelica,Huaytará,San Francisco De Sangayaico,90611,1079
+Perú,Huancavelica,Huaytará,San Isidro,90612,1111
+Perú,Huancavelica,Huaytará,Santiago De Chocorvos,90613,1161
+Perú,Huancavelica,Huaytará,Santiago De Quirahuara,90614,264
+Perú,Huancavelica,Huaytará,Santo Domingo De Capillas,90615,640
+Perú,Huancavelica,Huaytará,Tambo,90616,915
+Perú,Huancavelica,Tayacaja,Pampas,90701,11628
+Perú,Huancavelica,Tayacaja,Acostambo,90702,2948
+Perú,Huancavelica,Tayacaja,Acraquia,90703,3025
+Perú,Huancavelica,Tayacaja,Ahuaycha,90704,3516
+Perú,Huancavelica,Tayacaja,Colcabamba,90705,11139
+Perú,Huancavelica,Tayacaja,Daniel Hernández,90706,10074
+Perú,Huancavelica,Tayacaja,Huachocolpa,90707,2217
+Perú,Huancavelica,Tayacaja,Huaribamba,90709,2639
+Perú,Huancavelica,Tayacaja,Ñahuimpuquio,90710,1260
+Perú,Huancavelica,Tayacaja,Pazos,90711,4452
+Perú,Huancavelica,Tayacaja,Quishuar,90713,675
+Perú,Huancavelica,Tayacaja,Salcabamba,90714,3568
+Perú,Huancavelica,Tayacaja,Salcahuasi,90715,2367
+Perú,Huancavelica,Tayacaja,San Marcos De Rocchac,90716,1443
+Perú,Huancavelica,Tayacaja,Surcubamba,90717,3872
+Perú,Huancavelica,Tayacaja,Tintay Puncu,90718,1368
+Perú,Huancavelica,Tayacaja,Quichuas,90719,4076
+Perú,Huancavelica,Tayacaja,Andaymarca,90720,2685
+Perú,Huancavelica,Tayacaja,Roble,90721,930
+Perú,Huancavelica,Tayacaja,Pichos,90722,1521
+Perú,Huancavelica,Tayacaja,Santiago De Tucuma,90723,1411
+Perú,Huancavelica,Tayacaja,Lambras,90724,1493
+Perú,Huancavelica,Tayacaja,Cochabamba,90725,858
+Perú,Huánuco,Huánuco,Huánuco,100101,98234
+Perú,Huánuco,Huánuco,Amarilis,100102,92458
+Perú,Huánuco,Huánuco,Chinchao,100103,12639
+Perú,Huánuco,Huánuco,Churubamba,100104,12602
+Perú,Huánuco,Huánuco,Margos,100105,3503
+Perú,Huánuco,Huánuco,Quisqui,100106,2694
+Perú,Huánuco,Huánuco,San Francisco De Cayrán,100107,4672
+Perú,Huánuco,Huánuco,San Pedro De Chaulán,100108,2369
+Perú,Huánuco,Huánuco,Santa María Del Valle,100109,22342
+Perú,Huánuco,Huánuco,Yarumayo,100110,1572
+Perú,Huánuco,Huánuco,Pillco Marca,100111,57452
+Perú,Huánuco,Huánuco,Yacus,100112,4611
+Perú,Huánuco,Huánuco,San Pablo De Pillao,100113,7604
+Perú,Huánuco,Ambo,Ambo,100201,24614
+Perú,Huánuco,Ambo,Cayna,100202,1988
+Perú,Huánuco,Ambo,Colpas,100203,1338
+Perú,Huánuco,Ambo,Conchamarca,100204,3847
+Perú,Huánuco,Ambo,Huacar,100205,7748
+Perú,Huánuco,Ambo,San Francisco,100206,1045
+Perú,Huánuco,Ambo,San Rafael,100207,7663
+Perú,Huánuco,Ambo,Tomay Kichwa,100208,2921
+Perú,Huánuco,Dos De Mayo,La Unión,100301,7112
+Perú,Huánuco,Dos De Mayo,Chuquis,100307,2542
+Perú,Huánuco,Dos De Mayo,Marías,100311,4768
+Perú,Huánuco,Dos De Mayo,Pachas,100313,3500
+Perú,Huánuco,Dos De Mayo,Quivilla,100316,849
+Perú,Huánuco,Dos De Mayo,Ripan,100317,4784
+Perú,Huánuco,Dos De Mayo,Shunqui,100321,1279
+Perú,Huánuco,Dos De Mayo,Sillapata,100322,1327
+Perú,Huánuco,Dos De Mayo,Yanas,100323,1869
+Perú,Huánuco,Huacaybamba,Huacaybamba,100401,5370
+Perú,Huánuco,Huacaybamba,Canchabamba,100402,2552
+Perú,Huánuco,Huacaybamba,Cochabamba,100403,1149
+Perú,Huánuco,Huacaybamba,Pinra,100404,5791
+Perú,Huánuco,Huamalíes,Llata,100501,13136
+Perú,Huánuco,Huamalíes,Arancay,100502,1150
+Perú,Huánuco,Huamalíes,Chavín De Pariarca,100503,3586
+Perú,Huánuco,Huamalíes,Jacas Grande,100504,5521
+Perú,Huánuco,Huamalíes,Jircan,100505,926
+Perú,Huánuco,Huamalíes,Miraflores,100506,2900
+Perú,Huánuco,Huamalíes,Monzón,100507,10054
+Perú,Huánuco,Huamalíes,Punchao,100508,1799
+Perú,Huánuco,Huamalíes,Puños,100509,3815
+Perú,Huánuco,Huamalíes,Singa,100510,2669
+Perú,Huánuco,Huamalíes,Tantamayo,100511,1359
+Perú,Huánuco,Leoncio Prado,Rupa-Rupa,100601,61187
+Perú,Huánuco,Leoncio Prado,Daniel Alomía Robles,100602,6896
+Perú,Huánuco,Leoncio Prado,Hermilio Valdizán,100603,3550
+Perú,Huánuco,Leoncio Prado,José Crespo Y Castillo,100604,23973
+Perú,Huánuco,Leoncio Prado,Luyando,100605,9535
+Perú,Huánuco,Leoncio Prado,Mariano Damaso Beraún,100606,11504
+Perú,Huánuco,Leoncio Prado,Pucayacu,100607,3932
+Perú,Huánuco,Leoncio Prado,Castillo Grande,100608,14552
+Perú,Huánuco,Leoncio Prado,Pueblo Nuevo,100609,4200
+Perú,Huánuco,Leoncio Prado,Santo Domingo De Anda,100610,2480
+Perú,Huánuco,Marañón,Huacrachuco,100701,15026
+Perú,Huánuco,Marañón,Cholón,100702,5353
+Perú,Huánuco,Marañón,San Buenaventura,100703,1898
+Perú,Huánuco,Marañón,La Morada,100704,4072
+Perú,Huánuco,Marañón,Santa Rosa De Alto Yanajanca,100705,2875
+Perú,Huánuco,Pachitea,Panao,100801,17376
+Perú,Huánuco,Pachitea,Chaglla,100802,9093
+Perú,Huánuco,Pachitea,Molino,100803,9614
+Perú,Huánuco,Pachitea,Umari,100804,9289
+Perú,Huánuco,Puerto Inca,Puerto Inca,100901,10993
+Perú,Huánuco,Puerto Inca,Codo Del Pozuzo,100902,8753
+Perú,Huánuco,Puerto Inca,Honoria,100903,4485
+Perú,Huánuco,Puerto Inca,Tournavista,100904,6850
+Perú,Huánuco,Puerto Inca,Yuyapichis,100905,6822
+Perú,Huánuco,Lauricocha,Jesús,101001,3240
+Perú,Huánuco,Lauricocha,Baños,101002,1046
+Perú,Huánuco,Lauricocha,Jivia,101003,714
+Perú,Huánuco,Lauricocha,Queropalca,101004,735
+Perú,Huánuco,Lauricocha,Rondos,101005,2473
+Perú,Huánuco,Lauricocha,San Francisco De Asís,101006,874
+Perú,Huánuco,Lauricocha,San Miguel De Cauri,101007,4119
+Perú,Huánuco,Yarowilca,Chavinillo,101101,3848
+Perú,Huánuco,Yarowilca,Cahuac,101102,716
+Perú,Huánuco,Yarowilca,Chacabamba,101103,694
+Perú,Huánuco,Yarowilca,Aparicio Pomares,101104,4013
+Perú,Huánuco,Yarowilca,Jacas Chico,101105,786
+Perú,Huánuco,Yarowilca,Obas,101106,3014
+Perú,Huánuco,Yarowilca,Pampamarca,101107,736
+Perú,Huánuco,Yarowilca,Choras,101108,1470
+Perú,Ica,Ica,Ica,110101,185788
+Perú,Ica,Ica,La Tinguiña,110102,52159
+Perú,Ica,Ica,Los Aquijes,110103,27906
+Perú,Ica,Ica,Ocucaje,110104,5744
+Perú,Ica,Ica,Pachacútec,110105,9168
+Perú,Ica,Ica,Parcona,110106,63641
+Perú,Ica,Ica,Pueblo Nuevo,110107,8795
+Perú,Ica,Ica,Salas,110108,32864
+Perú,Ica,Ica,San Jose De Los Molinos,110109,8727
+Perú,Ica,Ica,San Juan Bautista,110110,16683
+Perú,Ica,Ica,Santiago,110111,33558
+Perú,Ica,Ica,Subtanjalla,110112,35428
+Perú,Ica,Ica,Tate,110113,5591
+Perú,Ica,Ica,Yauca Del Rosario,110114,1333
+Perú,Ica,Chincha,Chincha Alta,110201,82545
+Perú,Ica,Chincha,Alto Laran,110202,9760
+Perú,Ica,Chincha,Chavin,110203,3469
+Perú,Ica,Chincha,Chincha Baja,110204,15172
+Perú,Ica,Chincha,El Carmen,110205,14437
+Perú,Ica,Chincha,Grocio Prado,110206,31753
+Perú,Ica,Chincha,Pueblo Nuevo,110207,80353
+Perú,Ica,Chincha,San Juan De Yánac,110208,2326
+Perú,Ica,Chincha,San Pedro De Huacarpana,110209,1144
+Perú,Ica,Chincha,Sunampe,110210,35927
+Perú,Ica,Chincha,Tambo De Mora,110211,7165
+Perú,Ica,Nasca,Nasca,110301,31780
+Perú,Ica,Nasca,Changuillo,110302,2313
+Perú,Ica,Nasca,El Ingenio,110303,3901
+Perú,Ica,Nasca,Marcona,110304,20265
+Perú,Ica,Nasca,Vista Alegre,110305,27075
+Perú,Ica,Palpa,Palpa,110401,9160
+Perú,Ica,Palpa,Llipata,110402,1891
+Perú,Ica,Palpa,Río Grande,110403,3046
+Perú,Ica,Palpa,Santa Cruz,110404,1046
+Perú,Ica,Palpa,Tibillo,110405,355
+Perú,Ica,Pisco,Pisco,110501,86548
+Perú,Ica,Pisco,Huancano,110502,1432
+Perú,Ica,Pisco,Humay,110503,5990
+Perú,Ica,Pisco,Independencia,110504,15235
+Perú,Ica,Pisco,Paracas,110505,11173
+Perú,Ica,Pisco,San Andrés,110506,16903
+Perú,Ica,Pisco,San Clemente,110507,32227
+Perú,Ica,Pisco,Túpac Amaru Inca,110508,20570
+Perú,Junín,Huancayo,Huancayo,120101,126352
+Perú,Junín,Huancayo,Carhuacallanga,120104,402
+Perú,Junín,Huancayo,Chacapampa,120105,862
+Perú,Junín,Huancayo,Chicche,120106,584
+Perú,Junín,Huancayo,Chilca,120107,104173
+Perú,Junín,Huancayo,Chongos Alto,120108,1437
+Perú,Junín,Huancayo,Chupuro,120111,2023
+Perú,Junín,Huancayo,Colca,120112,960
+Perú,Junín,Huancayo,Cullhuas,120113,1167
+Perú,Junín,Huancayo,El Tambo,120114,179769
+Perú,Junín,Huancayo,Huacrapuquio,120116,1358
+Perú,Junín,Huancayo,Hualhuas,120117,6139
+Perú,Junín,Huancayo,Huancán,120119,33516
+Perú,Junín,Huancayo,Huasicancha,120120,781
+Perú,Junín,Huancayo,Huayucachi,120121,11132
+Perú,Junín,Huancayo,Ingenio,120122,2315
+Perú,Junín,Huancayo,Pariahuanca,120124,4586
+Perú,Junín,Huancayo,Pilcomayo,120125,26992
+Perú,Junín,Huancayo,Pucará,120126,4533
+Perú,Junín,Huancayo,Quichuay,120127,1853
+Perú,Junín,Huancayo,Quilcas,120128,4122
+Perú,Junín,Huancayo,San Agustín,120129,21202
+Perú,Junín,Huancayo,San Jerónimo De Tunán,120130,13580
+Perú,Junín,Huancayo,Saño,120132,6789
+Perú,Junín,Huancayo,Sapallanga,120133,28165
+Perú,Junín,Huancayo,Sicaya,120134,26727
+Perú,Junín,Huancayo,Santo Domingo De Acobamba,120135,5743
+Perú,Junín,Huancayo,Viques,120136,3056
+Perú,Junín,Concepción,Concepción,120201,17391
+Perú,Junín,Concepción,Aco,120202,1526
+Perú,Junín,Concepción,Andamarca,120203,2776
+Perú,Junín,Concepción,Chambará,120204,2537
+Perú,Junín,Concepción,Cochas,120205,1862
+Perú,Junín,Concepción,Comas,120206,4627
+Perú,Junín,Concepción,Heroínas Toledo,120207,809
+Perú,Junín,Concepción,Manzanares,120208,1503
+Perú,Junín,Concepción,Mariscal Castilla,120209,1427
+Perú,Junín,Concepción,Matahuasi,120210,6599
+Perú,Junín,Concepción,Mito,120211,1429
+Perú,Junín,Concepción,Nueve De Julio,120212,2795
+Perú,Junín,Concepción,Orcotuna,120213,5551
+Perú,Junín,Concepción,San José De Quero,120214,5381
+Perú,Junín,Concepción,Santa Rosa De Ocopa,120215,2044
+Perú,Junín,Chanchamayo,Chanchamayo,120301,29695
+Perú,Junín,Chanchamayo,Perené,120302,60876
+Perú,Junín,Chanchamayo,Pichanaqui,120303,39986
+Perú,Junín,Chanchamayo,San Luis De Shuaro,120304,3181
+Perú,Junín,Chanchamayo,San Ramón,120305,30097
+Perú,Junín,Chanchamayo,Vítoc,120306,1500
+Perú,Junín,Jauja,Jauja,120401,20651
+Perú,Junín,Jauja,Acolla,120402,5374
+Perú,Junín,Jauja,Apata,120403,4376
+Perú,Junín,Jauja,Ataura,120404,1412
+Perú,Junín,Jauja,Canchayllo,120405,1630
+Perú,Junín,Jauja,Curicaca,120406,1339
+Perú,Junín,Jauja,El Mantaro,120407,2778
+Perú,Junín,Jauja,Huamalí,120408,1537
+Perú,Junín,Jauja,Huaripampa,120409,1124
+Perú,Junín,Jauja,Huertas,120410,2309
+Perú,Junín,Jauja,Janjaillo,120411,502
+Perú,Junín,Jauja,Julcán,120412,717
+Perú,Junín,Jauja,Leonor Ordóñez,120413,1570
+Perú,Junín,Jauja,Llocllapampa,120414,1107
+Perú,Junín,Jauja,Marco,120415,1269
+Perú,Junín,Jauja,Masma,120416,1614
+Perú,Junín,Jauja,Masma Chicche,120417,679
+Perú,Junín,Jauja,Molinos,120418,1522
+Perú,Junín,Jauja,Monobamba,120419,2093
+Perú,Junín,Jauja,Muqui,120420,1032
+Perú,Junín,Jauja,Muquiyauyo,120421,2323
+Perú,Junín,Jauja,Paca,120422,765
+Perú,Junín,Jauja,Paccha,120423,1228
+Perú,Junín,Jauja,Pancán,120424,1198
+Perú,Junín,Jauja,Parco,120425,1035
+Perú,Junín,Jauja,Pomacancha,120426,1176
+Perú,Junín,Jauja,Ricrán,120427,1060
+Perú,Junín,Jauja,San Lorenzo,120428,2940
+Perú,Junín,Jauja,San Pedro De Chunán,120429,588
+Perú,Junín,Jauja,Sausa,120430,3479
+Perú,Junín,Jauja,Sincos,120431,4051
+Perú,Junín,Jauja,Tunan Marca,120432,877
+Perú,Junín,Jauja,Yauli,120433,897
+Perú,Junín,Jauja,Yauyos,120434,10165
+Perú,Junín,Junín,Junín,120501,10368
+Perú,Junín,Junín,Carhuamayo,120502,5769
+Perú,Junín,Junín,Ondores,120503,971
+Perú,Junín,Junín,Ulcumayo,120504,3437
+Perú,Junín,Satipo,Satipo,120601,44019
+Perú,Junín,Satipo,Coviriali,120602,6799
+Perú,Junín,Satipo,Llaylla,120603,8085
+Perú,Junín,Satipo,Mazamari,120604,45804
+Perú,Junín,Satipo,Pampa Hermosa,120605,3057
+Perú,Junín,Satipo,Pangoa,120606,69263
+Perú,Junín,Satipo,Río Negro,120607,36286
+Perú,Junín,Satipo,Río Tambo,120608,28215
+Perú,Junín,Satipo,Vizcatán Del Ene,120609,6918
+Perú,Junín,Tarma,Tarma,120701,48896
+Perú,Junín,Tarma,Acobamba,120702,8140
+Perú,Junín,Tarma,Huaricolca,120703,1491
+Perú,Junín,Tarma,Huasahuasi,120704,8189
+Perú,Junín,Tarma,La Unión,120705,3498
+Perú,Junín,Tarma,Palca,120706,5641
+Perú,Junín,Tarma,Palcamayo,120707,2584
+Perú,Junín,Tarma,San Pedro De Cajas,120708,2810
+Perú,Junín,Tarma,Tapo,120709,3987
+Perú,Junín,Yauli,La Oroya,120801,12194
+Perú,Junín,Yauli,Chacapalpa,120802,594
+Perú,Junín,Yauli,Huay-Huay,120803,2308
+Perú,Junín,Yauli,Marcapomacocha,120804,676
+Perú,Junín,Yauli,Morococha,120805,5208
+Perú,Junín,Yauli,Paccha,120806,1562
+Perú,Junín,Yauli,Santa Bárbara De Carhuacaya,120807,811
+Perú,Junín,Yauli,Santa Rosa De Sacco,120808,7788
+Perú,Junín,Yauli,Suitucancha,120809,650
+Perú,Junín,Yauli,Yauli,120810,5222
+Perú,Junín,Chupaca,Chupaca,120901,21361
+Perú,Junín,Chupaca,Ahuac,120902,6619
+Perú,Junín,Chupaca,Chongos Bajo,120903,4857
+Perú,Junín,Chupaca,Huáchac,120904,2837
+Perú,Junín,Chupaca,Huamancaca Chico,120905,12810
+Perú,Junín,Chupaca,San Juan De Iscos,120906,2297
+Perú,Junín,Chupaca,San Juan De Jarpa,120907,2307
+Perú,Junín,Chupaca,Tres De Diciembre,120908,3518
+Perú,Junín,Chupaca,Yanacancha,120909,2388
+Perú,La Libertad,Trujillo,Trujillo,130101,356985
+Perú,La Libertad,Trujillo,El Porvenir,130102,131727
+Perú,La Libertad,Trujillo,Florencia De Mora,130103,64079
+Perú,La Libertad,Trujillo,Huanchaco,130104,100027
+Perú,La Libertad,Trujillo,La Esperanza,130105,244607
+Perú,La Libertad,Trujillo,Laredo,130106,55649
+Perú,La Libertad,Trujillo,Moche,130107,46392
+Perú,La Libertad,Trujillo,Poroto,130108,4010
+Perú,La Libertad,Trujillo,Salaverry,130109,25244
+Perú,La Libertad,Trujillo,Simbal,130110,4631
+Perú,La Libertad,Trujillo,Victor Larco Herrera,130111,84452
+Perú,La Libertad,Trujillo,Alto Trujillo,130112,85980
+Perú,La Libertad,Ascope,Ascope,130201,6856
+Perú,La Libertad,Ascope,Chicama,130202,16227
+Perú,La Libertad,Ascope,Chocope,130203,9768
+Perú,La Libertad,Ascope,Magdalena De Cao,130204,2623
+Perú,La Libertad,Ascope,Paiján,130205,30586
+Perú,La Libertad,Ascope,Rázuri,130206,9688
+Perú,La Libertad,Ascope,Santiago De Cao,130207,20180
+Perú,La Libertad,Ascope,Casa Grande,130208,29970
+Perú,La Libertad,Bolívar,Bolívar,130301,5116
+Perú,La Libertad,Bolívar,Bambamarca,130302,3048
+Perú,La Libertad,Bolívar,Condormarca,130303,2119
+Perú,La Libertad,Bolívar,Longotea,130304,2366
+Perú,La Libertad,Bolívar,Uchumarca,130305,2257
+Perú,La Libertad,Bolívar,Ucuncha,130306,891
+Perú,La Libertad,Chepén,Chepén,130401,49914
+Perú,La Libertad,Chepén,Pacanga,130402,26606
+Perú,La Libertad,Chepén,Pueblo Nuevo,130403,12923
+Perú,La Libertad,Julcán,Julcán,130501,12817
+Perú,La Libertad,Julcán,Calamarca,130502,4720
+Perú,La Libertad,Julcán,Carabamba,130503,6933
+Perú,La Libertad,Julcán,Huaso,130504,6253
+Perú,La Libertad,Otuzco,Otuzco,130601,27491
+Perú,La Libertad,Otuzco,Agallpampa,130602,10666
+Perú,La Libertad,Otuzco,Charat,130604,2444
+Perú,La Libertad,Otuzco,Huaranchal,130605,3880
+Perú,La Libertad,Otuzco,La Cuesta,130606,653
+Perú,La Libertad,Otuzco,Mache,130608,2791
+Perú,La Libertad,Otuzco,Paranday,130610,517
+Perú,La Libertad,Otuzco,Salpo,130611,6618
+Perú,La Libertad,Otuzco,Sinsicap,130613,7372
+Perú,La Libertad,Otuzco,Usquil,130614,22181
+Perú,La Libertad,Pacasmayo,San Pedro De Lloc,130701,20280
+Perú,La Libertad,Pacasmayo,Guadalupe,130702,46016
+Perú,La Libertad,Pacasmayo,Jequetepeque,130703,4978
+Perú,La Libertad,Pacasmayo,Pacasmayo,130704,33952
+Perú,La Libertad,Pacasmayo,San José,130705,13004
+Perú,La Libertad,Pataz,Tayabamba,130801,13833
+Perú,La Libertad,Pataz,Buldibuyo,130802,4336
+Perú,La Libertad,Pataz,Chillia,130803,13318
+Perú,La Libertad,Pataz,Huancaspata,130804,6108
+Perú,La Libertad,Pataz,Huaylillas,130805,975
+Perú,La Libertad,Pataz,Huayo,130806,3685
+Perú,La Libertad,Pataz,Ongón,130807,1292
+Perú,La Libertad,Pataz,Parcoy,130808,22405
+Perú,La Libertad,Pataz,Pataz,130809,11716
+Perú,La Libertad,Pataz,Pias,130810,2003
+Perú,La Libertad,Pataz,Santiago De Challas,130811,2186
+Perú,La Libertad,Pataz,Taurija,130812,3027
+Perú,La Libertad,Pataz,Urpay,130813,2305
+Perú,La Libertad,Sánchez Carrión,Huamachuco,130901,87823
+Perú,La Libertad,Sánchez Carrión,Chugay,130902,19896
+Perú,La Libertad,Sánchez Carrión,Cochorco,130903,10395
+Perú,La Libertad,Sánchez Carrión,Curgos,130904,8960
+Perú,La Libertad,Sánchez Carrión,Marcabal,130905,10421
+Perú,La Libertad,Sánchez Carrión,Sanagoran,130906,15379
+Perú,La Libertad,Sánchez Carrión,Sarín,130907,10104
+Perú,La Libertad,Sánchez Carrión,Sartimbamba,130908,14816
+Perú,La Libertad,Santiago De Chuco,Santiago De Chuco,131001,20610
+Perú,La Libertad,Santiago De Chuco,Angasmarca,131002,4736
+Perú,La Libertad,Santiago De Chuco,Cachicadan,131003,5566
+Perú,La Libertad,Santiago De Chuco,Mollebamba,131004,1821
+Perú,La Libertad,Santiago De Chuco,Mollepata,131005,2363
+Perú,La Libertad,Santiago De Chuco,Quiruvilca,131006,13653
+Perú,La Libertad,Santiago De Chuco,Santa Cruz De Chuca,131007,3007
+Perú,La Libertad,Santiago De Chuco,Sitabamba,131008,3669
+Perú,La Libertad,Gran Chimú,Cascas,131101,14434
+Perú,La Libertad,Gran Chimú,Lucma,131102,4702
+Perú,La Libertad,Gran Chimú,Marmot,131103,2607
+Perú,La Libertad,Gran Chimú,Sayapullo,131104,6246
+Perú,La Libertad,Virú,Virú,131201,61312
+Perú,La Libertad,Virú,Chao,131202,43889
+Perú,La Libertad,Virú,Guadalupito,131203,8060
+Perú,Lambayeque,Chiclayo,Chiclayo,140101,296645
+Perú,Lambayeque,Chiclayo,Chongoyape,140102,20168
+Perú,Lambayeque,Chiclayo,Etén,140103,13887
+Perú,Lambayeque,Chiclayo,Etén Puerto,140104,2484
+Perú,Lambayeque,Chiclayo,José Leonardo Ortiz,140105,168322
+Perú,Lambayeque,Chiclayo,La Victoria,140106,102183
+Perú,Lambayeque,Chiclayo,Lagunas,140107,11246
+Perú,Lambayeque,Chiclayo,Monsefú,140108,36817
+Perú,Lambayeque,Chiclayo,Nueva Arica,140109,2571
+Perú,Lambayeque,Chiclayo,Oyotún,140110,8191
+Perú,Lambayeque,Chiclayo,Picsi,140111,15335
+Perú,Lambayeque,Chiclayo,Pimentel,140112,54262
+Perú,Lambayeque,Chiclayo,Reque,140113,18802
+Perú,Lambayeque,Chiclayo,Santa Rosa,140114,14795
+Perú,Lambayeque,Chiclayo,Saña,140115,12781
+Perú,Lambayeque,Chiclayo,Cayaltí,140116,14832
+Perú,Lambayeque,Chiclayo,Patapo,140117,26259
+Perú,Lambayeque,Chiclayo,Pomalca,140118,28148
+Perú,Lambayeque,Chiclayo,Pucalá,140119,9081
+Perú,Lambayeque,Chiclayo,Tumán,140120,30407
+Perú,Lambayeque,Ferreñafe,Ferreñafe,140201,39013
+Perú,Lambayeque,Ferreñafe,Cañaris,140202,11861
+Perú,Lambayeque,Ferreñafe,Incahuasi,140203,15335
+Perú,Lambayeque,Ferreñafe,Manuel Antonio Mesones Muro,140204,4224
+Perú,Lambayeque,Ferreñafe,Pitipo,140205,22357
+Perú,Lambayeque,Ferreñafe,Pueblo Nuevo,140206,16231
+Perú,Lambayeque,Lambayeque,Lambayeque,140301,87181
+Perú,Lambayeque,Lambayeque,Chochope,140302,1720
+Perú,Lambayeque,Lambayeque,Illimo,140303,9698
+Perú,Lambayeque,Lambayeque,Jayanca,140304,21026
+Perú,Lambayeque,Lambayeque,Mochumi,140305,21256
+Perú,Lambayeque,Lambayeque,Mórrope,140306,59372
+Perú,Lambayeque,Lambayeque,Motupe,140307,37028
+Perú,Lambayeque,Lambayeque,Olmos,140308,58895
+Perú,Lambayeque,Lambayeque,Pacora,140309,9706
+Perú,Lambayeque,Lambayeque,Salas,140310,13916
+Perú,Lambayeque,Lambayeque,San José,140311,19819
+Perú,Lambayeque,Lambayeque,Túcume,140312,25700
+Perú,Lima,Provincia De Lima,Lima,150101,265991
+Perú,Lima,Provincia De Lima,Ancón,150102,100194
+Perú,Lima,Provincia De Lima,Ate,150103,730256
+Perú,Lima,Provincia De Lima,Barranco,150104,36968
+Perú,Lima,Provincia De Lima,Breña,150105,96916
+Perú,Lima,Provincia De Lima,Carabayllo,150106,446878
+Perú,Lima,Provincia De Lima,Chaclacayo,150107,45963
+Perú,Lima,Provincia De Lima,Chorrillos,150108,376076
+Perú,Lima,Provincia De Lima,Cieneguilla,150109,41278
+Perú,Lima,Provincia De Lima,Comas,150110,596186
+Perú,Lima,Provincia De Lima,El Agustino,150111,236577
+Perú,Lima,Provincia De Lima,Independencia,150112,233081
+Perú,Lima,Provincia De Lima,Jesús María,150113,85952
+Perú,Lima,Provincia De Lima,La Molina,150114,169055
+Perú,Lima,Provincia De Lima,La Victoria,150115,190290
+Perú,Lima,Provincia De Lima,Lince,150116,63721
+Perú,Lima,Provincia De Lima,Los Olivos,150117,365339
+Perú,Lima,Provincia De Lima,Lurigancho,150118,319335
+Perú,Lima,Provincia De Lima,Lurín,150119,118398
+Perú,Lima,Provincia De Lima,Magdalena Del Mar,150120,70296
+Perú,Lima,Provincia De Lima,Pueblo Libre,150121,101000
+Perú,Lima,Provincia De Lima,Miraflores,150122,118009
+Perú,Lima,Provincia De Lima,Pachacámac,150123,162235
+Perú,Lima,Provincia De Lima,Pucusana,150124,18487
+Perú,Lima,Provincia De Lima,Puente Piedra,150125,428008
+Perú,Lima,Provincia De Lima,Punta Hermosa,150126,24683
+Perú,Lima,Provincia De Lima,Punta Negra,150127,9349
+Perú,Lima,Provincia De Lima,Rímac,150128,185245
+Perú,Lima,Provincia De Lima,San Bartolo,150129,9801
+Perú,Lima,Provincia De Lima,San Borja,150130,134075
+Perú,Lima,Provincia De Lima,San Isidro,150131,70840
+Perú,Lima,Provincia De Lima,San Juan De Lurigancho,150132,1264060
+Perú,Lima,Provincia De Lima,San Juan De Miraflores,150133,429975
+Perú,Lima,Provincia De Lima,San Luis,150134,56691
+Perú,Lima,Provincia De Lima,San Martín De Porres,150135,792514
+Perú,Lima,Provincia De Lima,San Miguel,150136,186918
+Perú,Lima,Provincia De Lima,Santa Anita,150137,231875
+Perú,Lima,Provincia De Lima,Santa María Del Mar,150138,1284
+Perú,Lima,Provincia De Lima,Santa Rosa,150139,46236
+Perú,Lima,Provincia De Lima,Santiago De Surco,150140,431387
+Perú,Lima,Provincia De Lima,Surquillo,150141,104171
+Perú,Lima,Provincia De Lima,Villa El Salvador,150142,439013
+Perú,Lima,Provincia De Lima,Villa María Del Triunfo,150143,457802
+Perú,Lima,Barranca,Barranca,150201,77186
+Perú,Lima,Barranca,Paramonga,150202,21389
+Perú,Lima,Barranca,Pativilca,150203,18443
+Perú,Lima,Barranca,Supe,150204,27993
+Perú,Lima,Barranca,Supe Puerto,150205,14268
+Perú,Lima,Cajatambo,Cajatambo,150301,1844
+Perú,Lima,Cajatambo,Copa,150302,810
+Perú,Lima,Cajatambo,Gorgor,150303,1508
+Perú,Lima,Cajatambo,Huancapón,150304,884
+Perú,Lima,Cajatambo,Manas,150305,941
+Perú,Lima,Canta,Canta,150401,2198
+Perú,Lima,Canta,Arahuay,150402,558
+Perú,Lima,Canta,Huamantanga,150403,604
+Perú,Lima,Canta,Huaros,150404,737
+Perú,Lima,Canta,Lachaqui,150405,844
+Perú,Lima,Canta,San Buenaventura,150406,614
+Perú,Lima,Canta,Santa Rosa De Quives,150407,5759
+Perú,Lima,Cañete,San Vicente De Cañete,150501,65823
+Perú,Lima,Cañete,Asia,150502,11638
+Perú,Lima,Cañete,Calango,150503,2457
+Perú,Lima,Cañete,Cerro Azul,150504,10230
+Perú,Lima,Cañete,Chilca,150505,27272
+Perú,Lima,Cañete,Coayllo,150506,1128
+Perú,Lima,Cañete,Imperial,150507,40142
+Perú,Lima,Cañete,Lunahuana,150508,3946
+Perú,Lima,Cañete,Mala,150509,36079
+Perú,Lima,Cañete,Nuevo Imperial,150510,31807
+Perú,Lima,Cañete,Pacarán,150511,1746
+Perú,Lima,Cañete,Quilmana,150512,17041
+Perú,Lima,Cañete,San Antonio,150513,4952
+Perú,Lima,Cañete,San Luis,150514,13503
+Perú,Lima,Cañete,Santa Cruz De Flores,150515,3403
+Perú,Lima,Cañete,Zúñiga,150516,1276
+Perú,Lima,Huaral,Huaral,150601,112517
+Perú,Lima,Huaral,Atavillos Alto,150602,627
+Perú,Lima,Huaral,Atavillos Bajo,150603,770
+Perú,Lima,Huaral,Aucallama,150604,23320
+Perú,Lima,Huaral,Chancay,150605,64722
+Perú,Lima,Huaral,Ihuari,150606,1880
+Perú,Lima,Huaral,Lampián,150607,283
+Perú,Lima,Huaral,Pacaraos,150608,1391
+Perú,Lima,Huaral,San Miguel De Acos,150609,613
+Perú,Lima,Huaral,Santa Cruz De Andamarca,150610,708
+Perú,Lima,Huaral,Sumbilca,150611,646
+Perú,Lima,Huaral,Veintisiete De Noviembre,150612,355
+Perú,Lima,Huarochirí,Matucana,150701,3887
+Perú,Lima,Huarochirí,Antioquía,150702,1144
+Perú,Lima,Huarochirí,Callahuanca,150703,599
+Perú,Lima,Huarochirí,Carampoma,150704,295
+Perú,Lima,Huarochirí,Chicla,150705,2728
+Perú,Lima,Huarochirí,Cuenca,150706,474
+Perú,Lima,Huarochirí,Huachupampa,150707,478
+Perú,Lima,Huarochirí,Huanza,150708,686
+Perú,Lima,Huarochirí,Huarochirí,150709,1136
+Perú,Lima,Huarochirí,Lahuaytambo,150710,526
+Perú,Lima,Huarochirí,Langa,150711,770
+Perú,Lima,Huarochirí,Laraos,150712,513
+Perú,Lima,Huarochirí,Mariatana,150713,1364
+Perú,Lima,Huarochirí,Ricardo Palma,150714,6763
+Perú,Lima,Huarochirí,San Andrés De Tupicocha,150715,1203
+Perú,Lima,Huarochirí,San Antonio,150716,6106
+Perú,Lima,Huarochirí,San Bartolomé,150717,1004
+Perú,Lima,Huarochirí,San Damián,150718,1047
+Perú,Lima,Huarochirí,San Juan De Iris,150719,612
+Perú,Lima,Huarochirí,San Juan De Tantaranche,150720,320
+Perú,Lima,Huarochirí,San Lorenzo De Quinti,150721,1063
+Perú,Lima,Huarochirí,San Mateo,150722,3732
+Perú,Lima,Huarochirí,San Mateo De Otao,150723,1228
+Perú,Lima,Huarochirí,San Pedro De Casta,150724,811
+Perú,Lima,Huarochirí,San Pedro De Huancayre,150725,180
+Perú,Lima,Huarochirí,Sangallaya,150726,606
+Perú,Lima,Huarochirí,Santa Cruz De Cocachacra,150727,2649
+Perú,Lima,Huarochirí,Santa Eulalia,150728,13672
+Perú,Lima,Huarochirí,Santiago De Anchucaya,150729,251
+Perú,Lima,Huarochirí,Santiago De Tuna,150730,329
+Perú,Lima,Huarochirí,Santo Domingo De Los Olleros,150731,3393
+Perú,Lima,Huarochirí,Surco,150732,1267
+Perú,Lima,Huaura,Huacho,150801,75963
+Perú,Lima,Huaura,Ámbar,150802,1928
+Perú,Lima,Huaura,Caleta De Carquín,150803,9821
+Perú,Lima,Huaura,Checras,150804,813
+Perú,Lima,Huaura,Hualmay,150805,29905
+Perú,Lima,Huaura,Huaura,150806,39349
+Perú,Lima,Huaura,Leoncio Prado,150807,1987
+Perú,Lima,Huaura,Paccho,150808,1415
+Perú,Lima,Huaura,Santa Leonor,150809,813
+Perú,Lima,Huaura,Santa María,150810,41469
+Perú,Lima,Huaura,Sayán,150811,26067
+Perú,Lima,Huaura,Vegueta,150812,30479
+Perú,Lima,Oyón,Oyón,150901,11824
+Perú,Lima,Oyón,Andajes,150902,413
+Perú,Lima,Oyón,Caujul,150903,451
+Perú,Lima,Oyón,Cochamarca,150904,938
+Perú,Lima,Oyón,Naván,150905,778
+Perú,Lima,Oyón,Pachangara,150906,2183
+Perú,Lima,Yauyos,Yauyos,151001,1127
+Perú,Lima,Yauyos,Alis,151002,1470
+Perú,Lima,Yauyos,Allauca,151003,934
+Perú,Lima,Yauyos,Ayaviri,151004,466
+Perú,Lima,Yauyos,Azángaro,151005,371
+Perú,Lima,Yauyos,Cacra,151006,518
+Perú,Lima,Yauyos,Carania,151007,133
+Perú,Lima,Yauyos,Catahuasi,151008,1057
+Perú,Lima,Yauyos,Chocos,151009,702
+Perú,Lima,Yauyos,Cochas,151010,196
+Perú,Lima,Yauyos,Colonia,151011,1008
+Perú,Lima,Yauyos,Hongos,151012,293
+Perú,Lima,Yauyos,Huampara,151013,114
+Perú,Lima,Yauyos,Huancaya,151014,431
+Perú,Lima,Yauyos,Huangascar,151015,637
+Perú,Lima,Yauyos,Huantan,151016,955
+Perú,Lima,Yauyos,Huañec,151017,439
+Perú,Lima,Yauyos,Laraos,151018,444
+Perú,Lima,Yauyos,Lincha,151019,346
+Perú,Lima,Yauyos,Madean,151020,476
+Perú,Lima,Yauyos,Miraflores,151021,171
+Perú,Lima,Yauyos,Omas,151022,612
+Perú,Lima,Yauyos,Putinza,151023,541
+Perú,Lima,Yauyos,Quinches,151024,464
+Perú,Lima,Yauyos,Quinocay,151025,372
+Perú,Lima,Yauyos,San Joaquín,151026,136
+Perú,Lima,Yauyos,San Pedro De Pilas,151027,236
+Perú,Lima,Yauyos,Tanta,151028,509
+Perú,Lima,Yauyos,Tauripampa,151029,473
+Perú,Lima,Yauyos,Tomás,151030,395
+Perú,Lima,Yauyos,Tupe,151031,453
+Perú,Lima,Yauyos,Viñac,151032,1593
+Perú,Lima,Yauyos,Vitis,151033,226
+Perú,Loreto,Maynas,Iquitos,160101,164894
+Perú,Loreto,Maynas,Alto Nanay,160102,3450
+Perú,Loreto,Maynas,Fernando Lores,160103,12865
+Perú,Loreto,Maynas,Indiana,160104,11436
+Perú,Loreto,Maynas,Las Amazonas,160105,7917
+Perú,Loreto,Maynas,Mazán,160106,14238
+Perú,Loreto,Maynas,Napo,160107,18280
+Perú,Loreto,Maynas,Punchana,160108,91846
+Perú,Loreto,Maynas,Torres Causana,160110,5074
+Perú,Loreto,Maynas,Belén,160112,71321
+Perú,Loreto,Maynas,San Juan Bautista,160113,165140
+Perú,Loreto,Alto Amazonas,Yurimaguas,160201,113141
+Perú,Loreto,Alto Amazonas,Balsapuerto,160202,17673
+Perú,Loreto,Alto Amazonas,Jeberos,160205,4759
+Perú,Loreto,Alto Amazonas,Lagunas,160206,13788
+Perú,Loreto,Alto Amazonas,Santa Cruz,160210,4317
+Perú,Loreto,Alto Amazonas,Teniente César López Rojas,160211,6295
+Perú,Loreto,Loreto,Nauta,160301,34639
+Perú,Loreto,Loreto,Parinari,160302,5865
+Perú,Loreto,Loreto,Tigre,160303,7665
+Perú,Loreto,Loreto,Trompeteros,160304,11575
+Perú,Loreto,Loreto,Urarinas,160305,14285
+Perú,Loreto,Mariscal Ramón Castilla,Ramón Castilla,160401,25319
+Perú,Loreto,Mariscal Ramón Castilla,Pebas,160402,12277
+Perú,Loreto,Mariscal Ramón Castilla,Yavari,160403,9876
+Perú,Loreto,Mariscal Ramón Castilla,San Pablo,160404,12808
+Perú,Loreto,Requena,Requena,160501,28280
+Perú,Loreto,Requena,Alto Tapiche,160502,1522
+Perú,Loreto,Requena,Capelo,160503,2039
+Perú,Loreto,Requena,Emilio San Martín,160504,6753
+Perú,Loreto,Requena,Maquia,160505,8807
+Perú,Loreto,Requena,Puinahua,160506,4362
+Perú,Loreto,Requena,Saquena,160507,2890
+Perú,Loreto,Requena,Soplín,160508,714
+Perú,Loreto,Requena,Tapiche,160509,912
+Perú,Loreto,Requena,Jenaro Herrera,160510,5018
+Perú,Loreto,Requena,Yaquerana,160511,2193
+Perú,Loreto,Ucayali,Contamana,160601,29587
+Perú,Loreto,Ucayali,Inahuaya,160602,1649
+Perú,Loreto,Ucayali,Padre Márquez,160603,2981
+Perú,Loreto,Ucayali,Pampa Hermosa,160604,5933
+Perú,Loreto,Ucayali,Sarayacu,160605,15351
+Perú,Loreto,Ucayali,Vargas Guerra,160606,7419
+Perú,Loreto,Datem Del Marañón,Barranca,160701,16745
+Perú,Loreto,Datem Del Marañón,Cahuapanas,160702,8131
+Perú,Loreto,Datem Del Marañón,Manseriche,160703,9543
+Perú,Loreto,Datem Del Marañón,Morona,160704,4147
+Perú,Loreto,Datem Del Marañón,Pastaza,160705,6082
+Perú,Loreto,Datem Del Marañón,Andoas,160706,16888
+Perú,Loreto,Putumayo,Putumayo,160801,4495
+Perú,Loreto,Putumayo,Rosa Panduro,160802,595
+Perú,Loreto,Putumayo,Teniente Manuel Clavero,160803,2173
+Perú,Loreto,Putumayo,Yaguas,160804,1640
+Perú,Madre De Dios,Tambopata,Tambopata,170101,113397
+Perú,Madre De Dios,Tambopata,Inambari,170102,17903
+Perú,Madre De Dios,Tambopata,Las Piedras,170103,24671
+Perú,Madre De Dios,Tambopata,Laberinto,170104,6932
+Perú,Madre De Dios,Manu,Manu,170201,2258
+Perú,Madre De Dios,Manu,Fitzcarrald,170202,1598
+Perú,Madre De Dios,Manu,Madre De Dios,170203,6210
+Perú,Madre De Dios,Manu,Huepetuhe,170204,11189
+Perú,Madre De Dios,Tahuamanu,Iñapari,170301,3553
+Perú,Madre De Dios,Tahuamanu,Iberia,170302,5602
+Perú,Madre De Dios,Tahuamanu,Tahuamanu,170303,3783
+Perú,Moquegua,Mariscal Nieto,Moquegua,180101,49022
+Perú,Moquegua,Mariscal Nieto,Carumas,180102,2096
+Perú,Moquegua,Mariscal Nieto,Cuchumbaya,180103,658
+Perú,Moquegua,Mariscal Nieto,Samegua,180104,10372
+Perú,Moquegua,Mariscal Nieto,San Cristóbal,180105,1387
+Perú,Moquegua,Mariscal Nieto,Torata,180106,6688
+Perú,Moquegua,Mariscal Nieto,San Antonio,180107,29775
+Perú,Moquegua,General Sánchez Cerro,Omate,180201,2908
+Perú,Moquegua,General Sánchez Cerro,Chojata,180202,466
+Perú,Moquegua,General Sánchez Cerro,Coalaque,180203,891
+Perú,Moquegua,General Sánchez Cerro,Ichuña,180204,2787
+Perú,Moquegua,General Sánchez Cerro,La Capilla,180205,401
+Perú,Moquegua,General Sánchez Cerro,Lloque,180206,377
+Perú,Moquegua,General Sánchez Cerro,Matalaque,180207,315
+Perú,Moquegua,General Sánchez Cerro,Puquina,180208,2371
+Perú,Moquegua,General Sánchez Cerro,Quinistaquillas,180209,386
+Perú,Moquegua,General Sánchez Cerro,Ubinas,180210,1256
+Perú,Moquegua,General Sánchez Cerro,Yunga,180211,686
+Perú,Moquegua,Ilo,Ilo,180301,72506
+Perú,Moquegua,Ilo,El Algarrobal,180302,11262
+Perú,Moquegua,Ilo,Pacocha,180303,4519
+Perú,Pasco,Pasco,Chaupimarca,190101,25831
+Perú,Pasco,Pasco,Huachón,190102,4500
+Perú,Pasco,Pasco,Huariaca,190103,6474
+Perú,Pasco,Pasco,Huayllay,190104,8900
+Perú,Pasco,Pasco,Ninacaca,190105,4152
+Perú,Pasco,Pasco,Pallanchacra,190106,1147
+Perú,Pasco,Pasco,Paucartambo,190107,7199
+Perú,Pasco,Pasco,San Francisco De Asís De Yarusyacán,190108,2650
+Perú,Pasco,Pasco,Simon Bolívar,190109,12126
+Perú,Pasco,Pasco,Ticlacayán,190110,1980
+Perú,Pasco,Pasco,Tinyahuarco,190111,7532
+Perú,Pasco,Pasco,Vicco,190112,4094
+Perú,Pasco,Pasco,Yanacancha,190113,30945
+Perú,Pasco,Daniel Alcides Carrión,Yanahuanca,190201,10243
+Perú,Pasco,Daniel Alcides Carrión,Chacayán,190202,1378
+Perú,Pasco,Daniel Alcides Carrión,Goyllarisquizga,190203,1172
+Perú,Pasco,Daniel Alcides Carrión,Paucar,190204,1583
+Perú,Pasco,Daniel Alcides Carrión,San Pedro De Pillao,190205,1233
+Perú,Pasco,Daniel Alcides Carrión,Santa Ana De Tusi,190206,24901
+Perú,Pasco,Daniel Alcides Carrión,Tapuc,190207,1733
+Perú,Pasco,Daniel Alcides Carrión,Vilcabamba,190208,2111
+Perú,Pasco,Oxapampa,Oxapampa,190301,17930
+Perú,Pasco,Oxapampa,Chontabamba,190302,7007
+Perú,Pasco,Oxapampa,Huancabamba,190303,7202
+Perú,Pasco,Oxapampa,Palcazu,190304,7735
+Perú,Pasco,Oxapampa,Pozuzo,190305,3784
+Perú,Pasco,Oxapampa,Puerto Bermúdez,190306,22977
+Perú,Pasco,Oxapampa,Villa Rica,190307,18341
+Perú,Pasco,Oxapampa,Constitución,190308,18532
+Perú,Piura,Piura,Piura,200101,191048
+Perú,Piura,Piura,Castilla,200104,201735
+Perú,Piura,Piura,Catacaos,200105,84277
+Perú,Piura,Piura,Cura Mori,200107,20698
+Perú,Piura,Piura,El Tallán,200108,5660
+Perú,Piura,Piura,La Arena,200109,42668
+Perú,Piura,Piura,La Union,200110,46354
+Perú,Piura,Piura,Las Lomas,200111,29470
+Perú,Piura,Piura,Tambo Grande,200114,131366
+Perú,Piura,Piura,Veintiséis De Octubre,200115,205779
+Perú,Piura,Ayabaca,Ayabaca,200201,31416
+Perú,Piura,Ayabaca,Frías,200202,21013
+Perú,Piura,Ayabaca,Jilili,200203,2608
+Perú,Piura,Ayabaca,Lagunas,200204,5619
+Perú,Piura,Ayabaca,Montero,200205,6459
+Perú,Piura,Ayabaca,Pacaipampa,200206,22957
+Perú,Piura,Ayabaca,Paimas,200207,10695
+Perú,Piura,Ayabaca,Sapillica,200208,10967
+Perú,Piura,Ayabaca,Sicchez,200209,1491
+Perú,Piura,Ayabaca,Suyo,200210,12108
+Perú,Piura,Huancabamba,Huancabamba,200301,29316
+Perú,Piura,Huancabamba,Canchaque,200302,7266
+Perú,Piura,Huancabamba,El Carmen De La Frontera,200303,11563
+Perú,Piura,Huancabamba,Huarmaca,200304,36992
+Perú,Piura,Huancabamba,Lalaquiz,200305,3936
+Perú,Piura,Huancabamba,San Miguel De El Faique,200306,9517
+Perú,Piura,Huancabamba,Sondor,200307,7160
+Perú,Piura,Huancabamba,Sondorillo,200308,11415
+Perú,Piura,Morropón,Chulucanas,200401,92419
+Perú,Piura,Morropón,Buenos Aires,200402,10661
+Perú,Piura,Morropón,Chalaco,200403,7193
+Perú,Piura,Morropón,La Matanza,200404,15713
+Perú,Piura,Morropón,Morropón,200405,16616
+Perú,Piura,Morropón,Salitral,200406,9292
+Perú,Piura,Morropón,San Juan De Bigote,200407,6649
+Perú,Piura,Morropón,Santa Catalina De Mossa,200408,3675
+Perú,Piura,Morropón,Santo Domingo,200409,5458
+Perú,Piura,Morropón,Yamango,200410,8409
+Perú,Piura,Paita,Paita,200501,111455
+Perú,Piura,Paita,Amotape,200502,2596
+Perú,Piura,Paita,Arenal,200503,1281
+Perú,Piura,Paita,Colán,200504,17775
+Perú,Piura,Paita,La Huaca,200505,14824
+Perú,Piura,Paita,Tamarindo,200506,5605
+Perú,Piura,Paita,Vichayal,200507,6490
+Perú,Piura,Sullana,Sullana,200601,196599
+Perú,Piura,Sullana,Bellavista,200602,39653
+Perú,Piura,Sullana,Ignacio Escudero,200603,22562
+Perú,Piura,Sullana,Lancones,200604,13388
+Perú,Piura,Sullana,Marcavelica,200605,33705
+Perú,Piura,Sullana,Miguel Checa,200606,10849
+Perú,Piura,Sullana,Querecotillo,200607,29007
+Perú,Piura,Sullana,Salitral,200608,8030
+Perú,Piura,Talara,Pariñas,200701,108828
+Perú,Piura,Talara,El Alto,200702,9384
+Perú,Piura,Talara,La Brea,200703,13382
+Perú,Piura,Talara,Lobitos,200704,1370
+Perú,Piura,Talara,Los Órganos,200705,12094
+Perú,Piura,Talara,Máncora,200706,14927
+Perú,Piura,Sechura,Sechura,200801,56721
+Perú,Piura,Sechura,Bellavista De La Unión,200802,5605
+Perú,Piura,Sechura,Bernal,200803,8197
+Perú,Piura,Sechura,Cristo Nos Valga,200804,5453
+Perú,Piura,Sechura,Vice,200805,19325
+Perú,Piura,Sechura,Rinconada Llicuar,200806,3235
+Perú,Puno,Puno,Puno,210101,141629
+Perú,Puno,Puno,Acora,210102,20348
+Perú,Puno,Puno,Amantani,210103,2966
+Perú,Puno,Puno,Atuncolla,210104,4231
+Perú,Puno,Puno,Capachica,210105,5727
+Perú,Puno,Puno,Chucuito,210106,6689
+Perú,Puno,Puno,Coata,210107,6253
+Perú,Puno,Puno,Huata,210108,2181
+Perú,Puno,Puno,Mañazo,210109,4921
+Perú,Puno,Puno,Paucarcolla,210110,3910
+Perú,Puno,Puno,Pichacani,210111,5972
+Perú,Puno,Puno,Platería,210112,6553
+Perú,Puno,Puno,San Antonio,210113,2538
+Perú,Puno,Puno,Tiquillaca,210114,1392
+Perú,Puno,Puno,Vilque,210115,2736
+Perú,Puno,Azángaro,Azángaro,210201,32616
+Perú,Puno,Azángaro,Achaya,210202,2504
+Perú,Puno,Azángaro,Arapa,210203,6795
+Perú,Puno,Azángaro,Asillo,210204,13743
+Perú,Puno,Azángaro,Caminaca,210205,2782
+Perú,Puno,Azángaro,Chupa,210206,4324
+Perú,Puno,Azángaro,José Domingo Choquehuanca,210207,4672
+Perú,Puno,Azángaro,Muñani,210208,6700
+Perú,Puno,Azángaro,Potoni,210209,2952
+Perú,Puno,Azángaro,Samán,210210,7763
+Perú,Puno,Azángaro,San Antón,210211,6909
+Perú,Puno,Azángaro,San José,210212,4662
+Perú,Puno,Azángaro,San Juan De Salinas,210213,2600
+Perú,Puno,Azángaro,Santiago De Pupuja,210214,4194
+Perú,Puno,Azángaro,Tirapata,210215,2937
+Perú,Puno,Carabaya,Macusani,210301,14863
+Perú,Puno,Carabaya,Ajoyani,210302,2635
+Perú,Puno,Carabaya,Ayapata,210303,9564
+Perú,Puno,Carabaya,Coasa,210304,4635
+Perú,Puno,Carabaya,Corani,210305,5054
+Perú,Puno,Carabaya,Crucero,210306,10546
+Perú,Puno,Carabaya,Ituata,210307,9296
+Perú,Puno,Carabaya,Ollachea,210308,7009
+Perú,Puno,Carabaya,San Gabán,210309,9385
+Perú,Puno,Carabaya,Usicayos,210310,7359
+Perú,Puno,Chucuito,Juli,210401,20060
+Perú,Puno,Chucuito,Desaguadero,210402,11872
+Perú,Puno,Chucuito,Huacullani,210403,7497
+Perú,Puno,Chucuito,Kelluyo,210404,4798
+Perú,Puno,Chucuito,Pisacoma,210405,7377
+Perú,Puno,Chucuito,Pomata,210406,13400
+Perú,Puno,Chucuito,Zepita,210407,17215
+Perú,Puno,El Collao,Ilave,210501,46825
+Perú,Puno,El Collao,Capazo,210502,946
+Perú,Puno,El Collao,Pilcuyo,210503,9905
+Perú,Puno,El Collao,Santa Rosa,210504,2573
+Perú,Puno,El Collao,Conduriri,210505,2013
+Perú,Puno,Huancané,Huancané,210601,18328
+Perú,Puno,Huancané,Cojata,210602,3881
+Perú,Puno,Huancané,Huatasani,210603,2855
+Perú,Puno,Huancané,Inchupalla,210604,2331
+Perú,Puno,Huancané,Pusi,210605,4686
+Perú,Puno,Huancané,Rosaspata,210606,3610
+Perú,Puno,Huancané,Taraco,210607,13115
+Perú,Puno,Huancané,Vilque Chico,210608,6901
+Perú,Puno,Lampa,Lampa,210701,11610
+Perú,Puno,Lampa,Cabanilla,210702,6014
+Perú,Puno,Lampa,Calapuja,210703,1838
+Perú,Puno,Lampa,Nicasio,210704,2183
+Perú,Puno,Lampa,Ocuviri,210705,2166
+Perú,Puno,Lampa,Palca,210706,1365
+Perú,Puno,Lampa,Paratia,210707,1901
+Perú,Puno,Lampa,Pucará,210708,4975
+Perú,Puno,Lampa,Santa Lucía,210709,7090
+Perú,Puno,Lampa,Vilavila,210710,902
+Perú,Puno,Melgar,Ayaviri,210801,26440
+Perú,Puno,Melgar,Antauta,210802,5934
+Perú,Puno,Melgar,Cupi,210803,1833
+Perú,Puno,Melgar,Llalli,210804,2118
+Perú,Puno,Melgar,Macari,210805,6888
+Perú,Puno,Melgar,Nuñoa,210806,7439
+Perú,Puno,Melgar,Orurillo,210807,6665
+Perú,Puno,Melgar,Santa Rosa,210808,6053
+Perú,Puno,Melgar,Umachiri,210809,3758
+Perú,Puno,Moho,Moho,210901,9818
+Perú,Puno,Moho,Conima,210902,3220
+Perú,Puno,Moho,Huayrapata,210903,2191
+Perú,Puno,Moho,Tilali,210904,2432
+Perú,Puno,San Antonio De Putina,Putina,211001,12483
+Perú,Puno,San Antonio De Putina,Ananea,211002,9857
+Perú,Puno,San Antonio De Putina,Pedro Vilca Apaza,211003,1784
+Perú,Puno,San Antonio De Putina,Quilcapuncu,211004,5609
+Perú,Puno,San Antonio De Putina,Sina,211005,1935
+Perú,Puno,San Román,Juliaca,211101,262477
+Perú,Puno,San Román,Cabana,211102,5644
+Perú,Puno,San Román,Cabanillas,211103,4011
+Perú,Puno,San Román,Caracoto,211104,7671
+Perú,Puno,San Román,San Miguel,211105,78746
+Perú,Puno,Sandia,Sandia,211201,11105
+Perú,Puno,Sandia,Cuyocuyo,211202,5581
+Perú,Puno,Sandia,Limbani,211203,2955
+Perú,Puno,Sandia,Patambuco,211204,4049
+Perú,Puno,Sandia,Phara,211205,6421
+Perú,Puno,Sandia,Quiaca,211206,2270
+Perú,Puno,Sandia,San Juan Del Oro,211207,2383
+Perú,Puno,Sandia,Yanahuaya,211208,1949
+Perú,Puno,Sandia,Alto Inambari,211209,7210
+Perú,Puno,Sandia,San Pedro De Putina Punco,211210,9739
+Perú,Puno,Yunguyo,Yunguyo,211301,24046
+Perú,Puno,Yunguyo,Anapia,211302,1627
+Perú,Puno,Yunguyo,Copani,211303,4859
+Perú,Puno,Yunguyo,Cuturapi,211304,1297
+Perú,Puno,Yunguyo,Ollaraya,211305,2176
+Perú,Puno,Yunguyo,Tinicachi,211306,754
+Perú,Puno,Yunguyo,Unicachi,211307,598
+Perú,San Martín,Moyobamba,Moyobamba,220101,90399
+Perú,San Martín,Moyobamba,Calzada,220102,4943
+Perú,San Martín,Moyobamba,Habana,220103,1645
+Perú,San Martín,Moyobamba,Jepelacio,220104,15060
+Perú,San Martín,Moyobamba,Soritor,220105,22619
+Perú,San Martín,Moyobamba,Yantalo,220106,2955
+Perú,San Martín,Bellavista,Bellavista,220201,19763
+Perú,San Martín,Bellavista,Alto Biavo,220202,10596
+Perú,San Martín,Bellavista,Bajo Biavo,220203,15881
+Perú,San Martín,Bellavista,Huallaga,220204,2730
+Perú,San Martín,Bellavista,San Pablo,220205,8602
+Perú,San Martín,Bellavista,San Rafael,220206,6420
+Perú,San Martín,El Dorado,San José De Sisa,220301,18011
+Perú,San Martín,El Dorado,Agua Blanca,220302,2328
+Perú,San Martín,El Dorado,San Martín,220303,14118
+Perú,San Martín,El Dorado,Santa Rosa,220304,7673
+Perú,San Martín,El Dorado,Shatoja,220305,3388
+Perú,San Martín,Huallaga,Saposoa,220401,15567
+Perú,San Martín,Huallaga,Alto Saposoa,220402,6178
+Perú,San Martín,Huallaga,El Eslabón,220403,1751
+Perú,San Martín,Huallaga,Piscoyacu,220404,5039
+Perú,San Martín,Huallaga,Sacanche,220405,2218
+Perú,San Martín,Huallaga,Tingo De Saposoa,220406,841
+Perú,San Martín,Lamas,Lamas,220501,15985
+Perú,San Martín,Lamas,Alonso De Alvarado,220502,14242
+Perú,San Martín,Lamas,Barranquita,220503,8109
+Perú,San Martín,Lamas,Caynarachi,220504,11718
+Perú,San Martín,Lamas,Cuñumbuqui,220505,2689
+Perú,San Martín,Lamas,Pinto Recodo,220506,8937
+Perú,San Martín,Lamas,Rumisapa,220507,4090
+Perú,San Martín,Lamas,San Roque De Cumbaza,220508,1765
+Perú,San Martín,Lamas,Shanao,220509,1690
+Perú,San Martín,Lamas,Tabalosos,220510,15042
+Perú,San Martín,Lamas,Zapatero,220511,6049
+Perú,San Martín,Mariscal Cáceres,Juanjuí,220601,36119
+Perú,San Martín,Mariscal Cáceres,Campanilla,220602,20526
+Perú,San Martín,Mariscal Cáceres,Huicungo,220603,10464
+Perú,San Martín,Mariscal Cáceres,Pachiza,220604,7545
+Perú,San Martín,Mariscal Cáceres,Pajarillo,220605,6033
+Perú,San Martín,Picota,Picota,220701,12294
+Perú,San Martín,Picota,Buenos Aires,220702,3001
+Perú,San Martín,Picota,Caspisapa,220703,2245
+Perú,San Martín,Picota,Pilluana,220704,871
+Perú,San Martín,Picota,Pucacaca,220705,3057
+Perú,San Martín,Picota,San Cristóbal,220706,1187
+Perú,San Martín,Picota,San Hilarión,220707,3602
+Perú,San Martín,Picota,Shamboyacu,220708,11286
+Perú,San Martín,Picota,Tingo De Ponasa,220709,3819
+Perú,San Martín,Picota,Tres Unidos,220710,4110
+Perú,San Martín,Rioja,Rioja,220801,27577
+Perú,San Martín,Rioja,Awajún,220802,8036
+Perú,San Martín,Rioja,Elias Soplín Vargas,220803,24800
+Perú,San Martín,Rioja,Nueva Cajamarca,220804,49483
+Perú,San Martín,Rioja,Pardo Miguel,220805,17030
+Perú,San Martín,Rioja,Posic,220806,2265
+Perú,San Martín,Rioja,San Fernando,220807,3633
+Perú,San Martín,Rioja,Yorongos,220808,2448
+Perú,San Martín,Rioja,Yuracyacu,220809,3662
+Perú,San Martín,San Martín,Tarapoto,220901,86442
+Perú,San Martín,San Martín,Alberto Leveau,220902,936
+Perú,San Martín,San Martín,Cacatachi,220903,3977
+Perú,San Martín,San Martín,Chazuta,220904,11077
+Perú,San Martín,San Martín,Chipurana,220905,2540
+Perú,San Martín,San Martín,El Porvenir,220906,2670
+Perú,San Martín,San Martín,Huimbayoc,220907,5836
+Perú,San Martín,San Martín,Juan Guerra,220908,4376
+Perú,San Martín,San Martín,La Banda De Shilcayo,220909,54896
+Perú,San Martín,San Martín,Morales,220910,48825
+Perú,San Martín,San Martín,Papaplaya,220911,1924
+Perú,San Martín,San Martín,San Antonio,220912,1800
+Perú,San Martín,San Martín,Sauce,220913,6162
+Perú,San Martín,San Martín,Shapaja,220914,2120
+Perú,San Martín,Tocache,Tocache,221001,31412
+Perú,San Martín,Tocache,Nuevo Progreso,221002,12965
+Perú,San Martín,Tocache,Pólvora,221003,11241
+Perú,San Martín,Tocache,Shunte,221004,1447
+Perú,San Martín,Tocache,Uchiza,221005,14589
+Perú,San Martín,Tocache,Santa Lucía,221006,6154
+Perú,Tacna,Tacna,Tacna,230101,107519
+Perú,Tacna,Tacna,Alto De La Alianza,230102,33984
+Perú,Tacna,Tacna,Calana,230103,3607
+Perú,Tacna,Tacna,Ciudad Nueva,230104,31269
+Perú,Tacna,Tacna,Inclán,230105,2282
+Perú,Tacna,Tacna,Pachia,230106,2328
+Perú,Tacna,Tacna,Palca,230107,2540
+Perú,Tacna,Tacna,Pocollay,230108,19507
+Perú,Tacna,Tacna,Sama,230109,4093
+Perú,Tacna,Tacna,Crnel.Gregorio Albarracín Lanchipa,230110,156475
+Perú,Tacna,Tacna,La Yarada Los Palos,230111,6922
+Perú,Tacna,Candarave,Candarave,230201,2318
+Perú,Tacna,Candarave,Cairani,230202,944
+Perú,Tacna,Candarave,Camilaca,230203,1052
+Perú,Tacna,Candarave,Curibaya,230204,626
+Perú,Tacna,Candarave,Huanuara,230205,433
+Perú,Tacna,Candarave,Quilahuani,230206,634
+Perú,Tacna,Jorge Basadre,Locumba,230301,2875
+Perú,Tacna,Jorge Basadre,Ilabaya,230302,7544
+Perú,Tacna,Jorge Basadre,Ite,230303,3173
+Perú,Tacna,Tarata,Tarata,230401,3563
+Perú,Tacna,Tarata,Héroes Albarracín,230402,287
+Perú,Tacna,Tarata,Estique,230403,209
+Perú,Tacna,Tarata,Estique-Pampa,230404,314
+Perú,Tacna,Tarata,Sitajara,230405,327
+Perú,Tacna,Tarata,Susapaya,230406,477
+Perú,Tacna,Tarata,Tarucachi,230407,300
+Perú,Tacna,Tarata,Ticaco,230408,578
+Perú,Tumbes,Tumbes,Tumbes,240101,119620
+Perú,Tumbes,Tumbes,Corrales,240102,26396
+Perú,Tumbes,Tumbes,La Cruz,240103,11251
+Perú,Tumbes,Tumbes,Pampas De Hospital,240104,7760
+Perú,Tumbes,Tumbes,San Jacinto,240105,9164
+Perú,Tumbes,Tumbes,San Juan De La Virgen,240106,5135
+Perú,Tumbes,Contralmirante Villar,Zorritos,240201,14875
+Perú,Tumbes,Contralmirante Villar,Casitas,240202,2837
+Perú,Tumbes,Contralmirante Villar,Canoas De Punta Sal,240203,8815
+Perú,Tumbes,Zarumilla,Zarumilla,240301,27829
+Perú,Tumbes,Zarumilla,Aguas Verdes,240302,20356
+Perú,Tumbes,Zarumilla,Matapalo,240303,5049
+Perú,Tumbes,Zarumilla,Papayal,240304,7566
+Perú,Ucayali,Coronel Portillo,Callería,250101,183046
+Perú,Ucayali,Coronel Portillo,Campoverde,250102,21533
+Perú,Ucayali,Coronel Portillo,Iparia,250103,12842
+Perú,Ucayali,Coronel Portillo,Masisea,250104,12095
+Perú,Ucayali,Coronel Portillo,Yarinacocha,250105,129092
+Perú,Ucayali,Coronel Portillo,Nueva Requena,250106,5937
+Perú,Ucayali,Coronel Portillo,Manantay,250107,119146
+Perú,Ucayali,Atalaya,Raymondi,250201,43398
+Perú,Ucayali,Atalaya,Sepahua,250202,8742
+Perú,Ucayali,Atalaya,Tahuania,250203,11648
+Perú,Ucayali,Atalaya,Yurua,250204,2684
+Perú,Ucayali,Padre Abad,Padre Abad,250301,31818
+Perú,Ucayali,Padre Abad,Irazola,250302,13480
+Perú,Ucayali,Padre Abad,Curimana,250303,11647
+Perú,Ucayali,Padre Abad,Neshuya,250304,11944
+Perú,Ucayali,Padre Abad,Alexander Von Humboldt,250305,6593
+Perú,Ucayali,Padre Abad,Huipoca,250306,4779
+Perú,Ucayali,Padre Abad,Boquerón,250307,5615
+Perú,Ucayali,Purús,Purús,250401,3240
